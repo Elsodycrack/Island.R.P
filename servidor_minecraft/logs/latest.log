@@ -139,3 +139,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [07May2025 14:42:06.768] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
 [07May2025 14:44:12.181] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler] from (428.6283043365618, 99.89983509832602, -230.73182880488832).
  Impact position: BlockPos{x=428, y=69, z=-232}. Hole Size: 82. Creative: true
+[07May2025 14:54:38.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[07May2025 14:54:38.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[07May2025 14:54:38.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-05-07 12:09:39 +0000"
@@ -74,6 +80,18 @@
   "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
     "criteria": {
       "has_sign": "2025-05-07 12:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
     },
     "done": true
   },
@@ -335,6 +353,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-07 12:09:39 +0000"
@@ -383,15 +407,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_carpet": {
     "criteria": {
       "has_wool": "2025-05-07 12:30:02 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_blue_carpet": {
     "criteria": {
       "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-07 14:48:43 +0000"
     },
     "done": true
   },

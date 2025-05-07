@@ -2471,3 +2471,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
  Impact position: BlockPos{x=428, y=69, z=-232}. Hole Size: 82. Creative: true
 [07May2025 14:44:35.011] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [07May2025 14:44:35.030] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 14:49:34.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 14:49:35.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 14:50:28.656] [Server thread/DEBUG] [Flashs NPCs/]: SodyYToriginal used function openTrades from npc Pedro
+[07May2025 14:54:34.985] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[07May2025 14:54:35.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[07May2025 14:54:38.920] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[07May2025 14:54:38.921] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[07May2025 14:54:38.924] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of SodyYToriginal
+[07May2025 14:54:38.926] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
