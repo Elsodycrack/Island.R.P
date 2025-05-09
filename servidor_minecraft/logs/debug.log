@@ -2360,3 +2360,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [09May2025 10:49:59.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 groups with SodyYToriginal
 [09May2025 10:49:59.686] [Server thread/DEBUG] [voicechat/]: [voicechat] Synchronizing 0 volume categories with SodyYToriginal
 [09May2025 10:49:59.688] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[09May2025 10:51:39.022] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Isn't It Iron Pick]
+[09May2025 10:51:58.723] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Suit Up]
+[09May2025 10:52:35.456] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 10:52:35.476] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 10:57:35.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09May2025 10:57:35.464] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09May2025 11:00:06.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Sweet Dreams]
