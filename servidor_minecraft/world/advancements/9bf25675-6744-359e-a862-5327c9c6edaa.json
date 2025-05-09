@@ -239,6 +239,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-05-09 11:10:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_jungle_sign_item": {
     "criteria": {
       "has_sign": "2025-05-07 12:25:31 +0000"
@@ -431,9 +437,21 @@
     },
     "done": true
   },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-09 11:00:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-09 10:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-05-09 11:10:02 +0000"
     },
     "done": true
   },
@@ -518,6 +536,12 @@
   "securitycraft:recipes/securitycraft/reinforced_red_carpet": {
     "criteria": {
       "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-09 11:10:02 +0000"
     },
     "done": true
   },
