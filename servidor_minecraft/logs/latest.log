@@ -159,3 +159,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [09May2025 11:20:34.476] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martinmolon77788 has made the advancement [Alex's Mobs]
 [09May2025 11:20:40.718] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martinmolon77788 has made the advancement [Isn't It Iron Pick]
 [09May2025 11:20:43.967] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martinmolon77788 has made the advancement [Suit Up]
+[09May2025 11:21:47.541] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <martinmolon77788> Teneis casa
+[09May2025 11:21:54.868] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> de momento no
+[09May2025 11:22:05.774] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> de que vas ha querer trabajar???
+[09May2025 11:22:16.302] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <martinmolon77788> Hace cuanto jugais
+[09May2025 11:22:27.067] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <martinmolon77788> De ladron
+[09May2025 11:22:52.597] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> de momento eres de las primeras personas en jugarlo, porque tenia planeado abrir el server en una semana
+[09May2025 11:23:17.432] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> te dejo comer gratis
+[09May2025 11:23:33.236] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> todo el server lo he hecho con un amigo
+[09May2025 11:23:36.117] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <martinmolon77788> bro pensaba que iva a ser un survival normal pero da igual
+[09May2025 11:23:49.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> es uno con mods y trabajos
+[09May2025 11:23:59.203] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <martinmolon77788> Supongo que ya habran habierto el server
+[09May2025 11:24:08.553] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> puede ser
+[09May2025 11:24:21.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> puedes vender cosas o ganar dinero trabajando
+[09May2025 11:24:53.076] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> es una guarderia
+[09May2025 11:25:33.334] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <martinmolon77788> ME tengo que ir
+[09May2025 11:25:35.468] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: martinmolon77788 lost connection: Disconnected
+[09May2025 11:25:35.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: martinmolon77788 left the game
+[09May2025 11:25:35.473] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client martinmolon77788
+[09May2025 11:25:37.770] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> vale, bye
+[09May2025 11:26:31.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[09May2025 11:26:31.128] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[09May2025 11:26:31.128] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[09May2025 11:26:31.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[09May2025 11:26:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[09May2025 11:26:31.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[09May2025 11:26:32.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[09May2025 11:26:32.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[09May2025 11:26:32.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[09May2025 11:26:32.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[09May2025 11:26:32.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/primera_dimension:dimensiones
+[09May2025 11:26:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[09May2025 11:26:32.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[09May2025 11:26:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[09May2025 11:26:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[09May2025 11:26:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimensiones): All chunks are saved
+[09May2025 11:26:32.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
