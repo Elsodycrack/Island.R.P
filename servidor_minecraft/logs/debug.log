@@ -4213,3 +4213,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 18:29:34.871] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
 [11May2025 18:30:58.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> pene
 [11May2025 18:31:46.446] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[11May2025 18:32:43.234] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 18:32:43.247] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 18:32:58.838] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[11May2025 18:33:24.493] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to Race_Driguer]
+[11May2025 18:33:32.965] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by Race_Driguer
+[11May2025 18:33:36.346] [Server thread/DEBUG] [twilightforest/]: Player J0anVad3r (a04b0b1a-1a6a-3884-8bd5-e4128da476f1) respawned and received items held in storage
+[11May2025 18:34:05.174] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[11May2025 18:35:32.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -0.9868110532067362,1.0,-10.148741682910838
+[11May2025 18:35:40.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to Race_Driguer]
+[11May2025 18:37:43.227] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 18:37:43.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 18:38:15.090] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by SodyYToriginal
+[11May2025 18:38:17.539] [Server thread/DEBUG] [twilightforest/]: Player J0anVad3r (a04b0b1a-1a6a-3884-8bd5-e4128da476f1) respawned and received items held in storage
+[11May2025 18:38:40.980] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to SodyYToriginal]
+[11May2025 18:39:36.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to J0anVad3r]
+[11May2025 18:41:05.897] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -4.131017264076604,3.1909013491950162,9.24947683249681
