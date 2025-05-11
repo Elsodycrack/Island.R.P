@@ -251,3 +251,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 18:10:45.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
 [11May2025 18:11:28.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by Race_Driguer
 [11May2025 18:12:14.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set Race_Driguer's game mode to Adventure Mode]
+[11May2025 18:12:25.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by Race_Driguer
+[11May2025 18:12:36.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[11May2025 18:15:35.009] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer was kicked for floating too long!
+[11May2025 18:15:35.060] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Flying is not enabled on this server
+[11May2025 18:15:35.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[11May2025 18:15:35.061] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[11May2025 18:15:57.668] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@39f3bce9
+[11May2025 18:15:57.675] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Race_Driguer[/127.93.240.163:59285] logged in with entity id 23892 at (352.62167667962706, 57.7531999805212, -217.59865541458325)
+[11May2025 18:15:57.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
+[11May2025 18:15:57.912] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
+[11May2025 18:15:57.912] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
+[11May2025 18:16:01.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set Race_Driguer's game mode to Survival Mode]
+[11May2025 18:17:36.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -0.6503366498739638,-11.439736118856018,0.08398476344564187
+[11May2025 18:17:42.945] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[11May2025 18:18:24.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by SodyYToriginal
+[11May2025 18:20:15.020] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by SodyYToriginal
+[11May2025 18:20:51.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to Race_Driguer]
