@@ -226,3 +226,28 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 18:01:38.795] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [11May2025 18:01:38.817] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5859b3ca[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:34359) lost connection: Connection closed - mismatched mod channel list
 [11May2025 18:01:45.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -14.72293142611943,2.914038716556746,10.44832567510798
+[11May2025 18:03:46.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -4.553487971738718,3.706524626337867,-8.836932852060755
+[11May2025 18:04:28.712] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@66a571d7[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:43231) lost connection: Disconnected
+[11May2025 18:05:50.363] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@1e09075a[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:49067) lost connection: Disconnected
+[11May2025 18:08:05.563] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@b26f143
+[11May2025 18:08:05.568] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0anVad3r[/127.93.240.163:50785] logged in with entity id 22908 at (320.9954013736052, 72.57803033016708, -245.11937477546803)
+[11May2025 18:08:05.575] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r joined the game
+[11May2025 18:08:12.711] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0anVad3r was kicked for floating too long!
+[11May2025 18:08:12.712] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0anVad3r lost connection: Flying is not enabled on this server
+[11May2025 18:08:12.713] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r left the game
+[11May2025 18:08:12.713] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client J0anVad3r
+[11May2025 18:08:12.764] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11May2025 18:08:34.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -4.848566203716302,-0.7491326388584127,8.7840145575056
+[11May2025 18:08:41.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! 2.303688618343699,-0.07520089011894981,9.804829106454235
+[11May2025 18:08:50.033] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 8.942681609288798,1.502596824602449,4.786482259672681
+[11May2025 18:09:09.811] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@29516e11
+[11May2025 18:09:09.814] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0anVad3r[/127.93.240.163:43259] logged in with entity id 23141 at (320.9954013736052, 66.8896415373397, -245.11937477546803)
+[11May2025 18:09:09.820] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r joined the game
+[11May2025 18:09:29.215] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r fell from a high place
+[11May2025 18:09:37.119] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=367, y=65, z=-195}
+[11May2025 18:09:37.236] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=367, y=65, z=-196}
+[11May2025 18:10:14.662] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r has made the advancement [Isn't It Iron Pick]
+[11May2025 18:10:17.310] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r has made the advancement [Suit Up]
+[11May2025 18:10:45.812] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[11May2025 18:11:28.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by Race_Driguer
+[11May2025 18:12:14.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set Race_Driguer's game mode to Adventure Mode]
