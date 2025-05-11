@@ -223,7 +223,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-05-11 17:16:36 +0000"
+      "cooked_porkchop": "2025-05-11 17:16:36 +0000",
+      "enchanted_golden_apple": "2025-05-11 19:33:45 +0000"
     },
     "done": false
   },
@@ -485,6 +486,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:phantom": "2025-05-11 19:27:52 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
     "criteria": {
       "has_sign": "2025-05-11 17:17:04 +0000"
@@ -544,6 +551,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-05-11 17:36:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-11 19:27:59 +0000"
     },
     "done": true
   },
@@ -672,6 +685,12 @@
       "in_water": "2025-05-11 17:46:47 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:phantom": "2025-05-11 19:27:52 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {

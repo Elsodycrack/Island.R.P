@@ -263,6 +263,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/tools/dimensional_carver": {
+    "criteria": {
+      "has_items": "2025-05-11 19:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-09 10:52:15 +0000"
@@ -302,6 +308,18 @@
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2025-05-07 11:40:32 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/misc/void_worm_beak": {
+    "criteria": {
+      "has_items": "2025-05-11 19:33:48 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/flying_fish_boots": {
+    "criteria": {
+      "has_items": "2025-05-11 19:36:11 +0000"
     },
     "done": true
   },
@@ -842,6 +860,12 @@
   "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_kill": {
+    "criteria": {
+      "ex": "2025-05-11 19:32:31 +0000"
     },
     "done": true
   },
