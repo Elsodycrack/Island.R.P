@@ -185,3 +185,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 17:30:18.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 8.491953593429855,0.0037791357445939866,6.795855796815857
 [11May2025 17:30:25.164] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -1.1788788714432599,-10.526296396905394,-0.4523045382038049
 [11May2025 17:30:29.647] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 2.364825533715134,6.627318537100109,-17.493296370902613
+[11May2025 17:47:07.852] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [saros__money_mod:saros__money_mod,twilightforest:channel,securitycraft:securitycraft] rejected their client side version number
+[11May2025 17:47:07.853] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11May2025 17:47:07.861] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3249a91[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:46241) lost connection: Connection closed - mismatched mod channel list
+[11May2025 17:47:08.031] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [No Step on Snake]
+[11May2025 17:47:47.731] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer fell out of the world
+[11May2025 17:47:47.745] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Killed Race_Driguer]
+[11May2025 17:48:47.294] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -7.016281890797984,12.593382008993885,-10.25051850619613
+[11May2025 17:48:59.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 11.491177602095945,-3.894808681709989,-14.373230457924166
+[11May2025 17:50:40.725] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [saros__money_mod:saros__money_mod,twilightforest:channel,securitycraft:securitycraft] rejected their client side version number
+[11May2025 17:50:40.726] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11May2025 17:50:40.760] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@632e9c4a[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:57185) lost connection: Connection closed - mismatched mod channel list
+[11May2025 17:51:06.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[11May2025 17:51:06.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[11May2025 17:51:06.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
