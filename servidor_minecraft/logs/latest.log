@@ -153,3 +153,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 19:27:59.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Sweet Dreams]
 [11May2025 19:32:31.583] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has completed the challenge [Wormy]
 [11May2025 19:33:26.095] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by Void Worm
+[11May2025 19:41:25.353] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Gamerule doInsomnia is now set to: false
+[11May2025 19:42:15.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.007931430387657,0.0,-8.643370765289887
+[11May2025 19:42:49.641] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: The player idle timeout is now 11 minutes]
+[11May2025 19:43:13.059] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
+[11May2025 19:49:43.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 200 blocks]
+[11May2025 19:50:19.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 170 blocks]
