@@ -199,3 +199,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 17:51:06.810] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
 [11May2025 17:51:06.811] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
 [11May2025 17:51:06.813] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[11May2025 17:54:31.186] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [saros__money_mod:saros__money_mod,twilightforest:channel,securitycraft:securitycraft] rejected their client side version number
+[11May2025 17:54:31.186] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11May2025 17:54:31.211] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@753e1ed3[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:59589) lost connection: Connection closed - mismatched mod channel list
+[11May2025 17:56:13.817] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@146418c3
+[11May2025 17:56:13.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.93.240.163:33861] logged in with entity id 19574 at (328.6844464525206, 86.40645949080854, -261.5286932558113)
+[11May2025 17:56:13.837] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[11May2025 17:56:14.348] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[11May2025 17:56:14.349] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[11May2025 17:57:26.960] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -0.3843370467528757,1.0,-10.11423614230904
+[11May2025 17:58:32.949] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.663791143260994,0.0,-7.972266302094113
+[11May2025 17:58:40.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -3.022811572791227,0.0,10.318985654319306
+[11May2025 17:58:45.963] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 0.19212861082553445,6.749998669179547,8.17732000591218
+[11May2025 17:58:49.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 10.294755910520678,3.7565866744359937,14.420329089082031
+[11May2025 17:59:05.942] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 1.657874982764497,7.505726017344415,16.526279585097114
+[11May2025 17:59:22.013] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -2.8478874763475233,5.271537258374053,-16.953437960367552
+[11May2025 17:59:24.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 1.222340573956842,-2.9153329632406297,-18.57521184052746
+[11May2025 17:59:30.148] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -0.40006669991163335,1.2789936229372216,-18.023636759459123
+[11May2025 18:00:46.392] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 9.367759495264863,3.23332456365074,-15.215933516500797
+[11May2025 18:00:49.213] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 8.893976953294384,5.659366843758747,-14.831981931096891
+[11May2025 18:00:52.205] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 8.369212276059727,0.5898920910496628,-16.461381284595518
+[11May2025 18:00:59.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 10.668223419381206,-2.0387279097966484,-15.233305930829601
+[11May2025 18:01:29.540] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -14.288352858163307,-2.1579622107086323,9.964542546815665
+[11May2025 18:01:38.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 17.1738008499143,4.356751211884863,4.611922459155153
+[11May2025 18:01:38.795] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [saros__money_mod:saros__money_mod,twilightforest:channel,securitycraft:securitycraft] rejected their client side version number
+[11May2025 18:01:38.795] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[11May2025 18:01:38.817] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5859b3ca[id=<null>,name=J0anVad3r,properties={},legacy=false] (/127.93.240.163:34359) lost connection: Connection closed - mismatched mod channel list
+[11May2025 18:01:45.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -14.72293142611943,2.914038716556746,10.44832567510798

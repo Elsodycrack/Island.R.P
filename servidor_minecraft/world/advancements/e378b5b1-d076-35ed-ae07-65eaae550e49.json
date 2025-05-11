@@ -5,6 +5,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/misc/root_stick": {
+    "criteria": {
+      "has_item": "2025-05-11 17:56:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-11 17:36:30 +0000"
@@ -286,6 +292,12 @@
       "has_sign": "2025-05-11 17:17:04 +0000"
     },
     "done": true
+  },
+  "twilightforest:arborist": {
+    "criteria": {
+      "root_strand": "2025-05-11 17:56:23 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
