@@ -2646,3 +2646,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [11May2025 17:07:43.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11May2025 17:07:43.282] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [11May2025 17:08:16.952] [Server thread/DEBUG] [Flashs NPCs/]: Race_Driguer used function openTrades from npc Paola
+[11May2025 17:11:21.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Alex's Mobs]
+[11May2025 17:12:43.238] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 17:12:43.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 17:13:30.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Suit Up]
+[11May2025 17:13:44.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Isn't It Iron Pick]
+[11May2025 17:15:30.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=385, y=65, z=-225} BlockPos{x=368, y=63, z=-210}
+[11May2025 17:15:46.636] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Race_Driguer" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=369, y=64, z=-211}] too quickly!
+[11May2025 17:15:46.987] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Race_Driguer" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=369, y=64, z=-211}] too quickly!
+[11May2025 17:15:47.159] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Race_Driguer" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=369, y=64, z=-211}] too quickly!
+[11May2025 17:15:47.517] [Server thread/WARN] [net.geforcemods.securitycraft.SecurityCraft/]: Player "Race_Driguer" tried to enter a passcode into "Briefcase" at position [ResourceKey[minecraft:dimension / minecraft:overworld] BlockPos{x=369, y=64, z=-211}] too quickly!
+[11May2025 17:17:01.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=385, y=65, z=-225} BlockPos{x=372, y=63, z=-217}
+[11May2025 17:17:01.570] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=385, y=65, z=-225} BlockPos{x=371, y=64, z=-217}
+[11May2025 17:17:43.230] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11May2025 17:17:43.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11May2025 17:19:00.461] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 0.9254325216853658,3.7016912276440337,-9.326046084557731
+[11May2025 17:19:05.370] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 1.3852887795450215,0.0,-10.739718242966262
+[11May2025 17:19:50.078] [Worker-Main-18/DEBUG] [mixin/]: Mixing alloc.empty_list.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11May2025 17:19:50.078] [Worker-Main-18/DEBUG] [mixin/]: Mixing gen.chunk_region.WorldGenRegionMixin from canary.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11May2025 17:19:50.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 5.057694682835972,1.4619287620918158,-8.858023346798404
+[11May2025 17:19:55.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.871985208242734,0.0,-7.070526359716155
+[11May2025 17:20:01.848] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -6.689392173578426,0.0,8.19455797217779
+[11May2025 17:20:07.238] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -6.290893973109974,0.0,8.409505923571373
+[11May2025 17:20:08.351] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -8.976242624978681,1.252203340253729,4.430845884119378
+[11May2025 17:20:19.338] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -3.7396760284153174,0.0,10.221223513345137
+[11May2025 17:20:43.694] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.084870860117519,-4.866336914807235,16.066106674709886
+[11May2025 17:20:48.264] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 2.872005363340861,5.272595421973492,8.11065621249395
+[11May2025 17:20:48.369] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -2.4206859198116035,1.0,-9.709675452805016
