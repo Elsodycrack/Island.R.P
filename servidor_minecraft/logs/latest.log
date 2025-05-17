@@ -165,3 +165,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 22:09:45.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
 [17May2025 22:11:07.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
 [17May2025 22:11:53.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[17May2025 22:15:15.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Spectator Mode]
+[17May2025 22:19:49.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[17May2025 22:20:59.557] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[17May2025 22:22:02.582] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Spectator Mode]
