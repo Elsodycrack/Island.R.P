@@ -701,6 +701,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/transportation/tarantula_hawk_elytra": {
+    "criteria": {
+      "has_items": "2025-05-17 23:12:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 18:14:27 +0000"
@@ -1178,6 +1184,12 @@
   "minecraft:recipes/redstone/oak_trapdoor": {
     "criteria": {
       "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/enderiophage_rocket": {
+    "criteria": {
+      "enderiophage_rocket": "2025-05-17 23:12:08 +0000"
     },
     "done": true
   },
