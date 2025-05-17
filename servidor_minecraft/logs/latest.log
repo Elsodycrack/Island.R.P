@@ -158,3 +158,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 21:47:02.530] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=64, z=-367} BlockPos{x=371, y=64, z=-217}
 [17May2025 21:47:03.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=64, z=-367} BlockPos{x=371, y=64, z=-217}
 [17May2025 21:47:03.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=64, z=-367} BlockPos{x=371, y=64, z=-217}
+[17May2025 22:00:04.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
