@@ -198,3 +198,10 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 23:18:48.776] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
 [17May2025 23:18:48.777] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
 [17May2025 23:23:14.137] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[17May2025 23:25:52.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Monster Hunter]
+[17May2025 23:26:49.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[17May2025 23:29:58.849] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[17May2025 23:30:44.730] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[17May2025 23:36:46.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[17May2025 23:41:00.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[17May2025 23:41:10.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
