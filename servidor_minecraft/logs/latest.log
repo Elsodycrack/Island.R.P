@@ -159,3 +159,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 21:47:03.042] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=64, z=-367} BlockPos{x=371, y=64, z=-217}
 [17May2025 21:47:03.235] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=397, y=64, z=-367} BlockPos{x=371, y=64, z=-217}
 [17May2025 22:00:04.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[17May2025 22:02:36.139] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -6.763782986861315,-1.1767592750642422,7.366589837545348
+[17May2025 22:04:31.330] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[17May2025 22:08:37.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer moved too quickly! -5.078358978123333,1.7461092740512356,8.530591041547694
+[17May2025 22:09:45.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[17May2025 22:11:07.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[17May2025 22:11:53.377] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
