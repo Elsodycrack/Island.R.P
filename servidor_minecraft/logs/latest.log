@@ -205,3 +205,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 23:36:46.779] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
 [17May2025 23:41:00.578] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
 [17May2025 23:41:10.916] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[17May2025 23:48:36.081] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Acquire Hardware]
+[17May2025 23:50:54.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 72 blocks]
+[17May2025 23:51:12.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> Elsodycrack
+[17May2025 23:54:06.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 1768 blocks]
