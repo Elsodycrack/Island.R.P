@@ -174,15 +174,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-05-11 18:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/oak_door": {
     "criteria": {
       "has_planks": "2025-05-11 18:27:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-11 18:34:04 +0000"
     },
     "done": true
   },
@@ -433,12 +433,6 @@
     },
     "done": true
   },
-  "mcwfurnitures:recipes/birch": {
-    "criteria": {
-      "has_wood": "2025-05-11 18:34:04 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/oak_slab": {
     "criteria": {
       "has_planks": "2025-05-11 18:27:54 +0000"
@@ -448,6 +442,12 @@
   "alexsmobs:recipes/food/boiled_emu_egg_campfire": {
     "criteria": {
       "has_items": "2025-05-11 18:27:55 +0000"
+    },
+    "done": true
+  },
+  "mcwfurnitures:recipes/birch": {
+    "criteria": {
+      "has_wood": "2025-05-11 18:34:04 +0000"
     },
     "done": true
   },
