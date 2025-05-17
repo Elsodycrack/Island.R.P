@@ -1,4 +1,10 @@
 {
+  "securitycraft:recipes/securitycraft/universal_block_remover": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
     "criteria": {
       "has_bricks": "2025-05-07 14:48:34 +0000"
@@ -8,18 +14,6 @@
   "minecraft:recipes/building_blocks/polished_andesite_slab": {
     "criteria": {
       "has_polished_andesite": "2025-05-11 18:14:34 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_moss_carpet": {
-    "criteria": {
-      "has_wool": "2025-05-07 12:30:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/spruce_sign": {
-    "criteria": {
-      "has_planks": "2025-05-09 10:56:03 +0000"
     },
     "done": true
   },
@@ -35,21 +29,15 @@
     },
     "done": true
   },
-  "framedblocks:recipes/framed_blocks/framed_cube": {
-    "criteria": {
-      "hasPlanks": "2025-05-07 12:11:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-07 12:25:31 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/brick_wall": {
     "criteria": {
       "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_sword": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -77,9 +65,21 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/sentry": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_stairs": {
     "criteria": {
       "has_block": "2025-05-11 18:31:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/maze_map": {
+    "criteria": {
+      "has_item": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -95,6 +95,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/iron_pickaxe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
@@ -104,18 +110,6 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-09 10:56:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-11 18:14:27 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_gray_carpet": {
-    "criteria": {
-      "has_wool": "2025-05-07 12:30:02 +0000"
     },
     "done": true
   },
@@ -131,21 +125,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
-    "criteria": {
-      "has_coal_ore": "2025-05-07 11:40:07 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
-    "criteria": {
-      "has_stone_bricks": "2025-05-11 18:14:27 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_black": {
     "criteria": {
       "has_black_wool": "2025-05-07 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -173,18 +161,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_button": {
-    "criteria": {
-      "has_planks": "2025-05-11 18:37:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2025-05-07 12:34:15 +0000"
-    },
-    "done": true
-  },
   "supplementaries:recipes/sign_post_minecraft/spruce": {
     "criteria": {
       "has_plank": "2025-05-09 10:56:03 +0000"
@@ -203,21 +179,15 @@
     },
     "done": true
   },
-  "twilightforest:alt/treasures/glass_sword": {
+  "twilightforest:recipes/twilightforest/vanilla_to_tf_moss": {
     "criteria": {
-      "has_item": "2025-05-07 12:02:09 +0000"
+      "has_item": "2025-05-17 21:37:01 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_oak_slab": {
+  "securitycraft:recipes/securitycraft/track_mine": {
     "criteria": {
-      "has_block": "2025-05-11 18:31:14 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/sc_manual": {
-    "criteria": {
-      "has_wood": "2025-05-11 18:34:01 +0000"
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -227,21 +197,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/arrow": {
+  "minecraft:recipes/tools/shears": {
     "criteria": {
-      "has_feather": "2025-05-07 12:09:39 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/misc/stick": {
     "criteria": {
       "has_planks": "2025-05-07 12:11:39 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_carpet": {
-    "criteria": {
-      "has_black_wool": "2025-05-07 12:34:15 +0000"
     },
     "done": true
   },
@@ -263,6 +227,24 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/blacklist_module": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/speed_module": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_to_vanilla_lilypad": {
+    "criteria": {
+      "has_item": "2025-05-17 21:37:01 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:recipes/tools/dimensional_carver": {
     "criteria": {
       "has_items": "2025-05-11 19:33:48 +0000"
@@ -275,27 +257,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+  "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
-      "has_sand": "2025-05-07 11:40:23 +0000"
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/hanging_sign_minecraft/spruce": {
+  "minecraft:recipes/building_blocks/emerald_block": {
     "criteria": {
-      "has_plank": "2025-05-09 10:56:03 +0000"
+      "has_emerald": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+  "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
-      "has_sand": "2025-05-07 11:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/spruce_slab": {
-    "criteria": {
-      "has_planks": "2025-05-09 10:56:03 +0000"
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -323,6 +299,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_leggings": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_carpet": {
     "criteria": {
       "has_wool": "2025-05-07 12:30:02 +0000"
@@ -341,15 +323,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+  "minecraft:recipes/combat/shield": {
     "criteria": {
-      "has_polished_andesite": "2025-05-11 18:14:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/black_banner": {
-    "criteria": {
-      "has_black_wool": "2025-05-07 12:34:15 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -359,21 +335,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_pressure_plate": {
+  "minecraft:recipes/misc/bucket": {
     "criteria": {
-      "has_planks": "2025-05-07 12:11:39 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
   "minecraft:recipes/food/dried_kelp_from_smoking": {
     "criteria": {
       "has_kelp": "2025-05-09 11:10:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_planks": {
-    "criteria": {
-      "has_logs": "2025-05-11 18:34:01 +0000"
     },
     "done": true
   },
@@ -389,27 +359,15 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/hopper": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_slab": {
     "criteria": {
       "has_planks": "2025-05-11 18:37:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/black_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-05-07 11:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
-    "criteria": {
-      "has_bricks": "2025-05-07 14:48:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/iron_tools": {
-    "criteria": {
-      "iron_pickaxe": "2025-05-09 10:51:39 +0000"
     },
     "done": true
   },
@@ -419,9 +377,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_fence_gate": {
+  "twilightforest:arborist": {
     "criteria": {
-      "has_planks": "2025-05-11 18:37:40 +0000"
+      "mangrove_trapdoor": "2025-05-17 21:35:13 +0000"
+    },
+    "done": false
+  },
+  "securitycraft:recipes/securitycraft/redstone_module": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -443,33 +407,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/spruce_pressure_plate": {
+  "twilightforest:alt/treasures/maps": {
     "criteria": {
-      "has_planks": "2025-05-09 10:56:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_green_carpet": {
-    "criteria": {
-      "has_wool": "2025-05-07 12:30:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/oak_sign": {
-    "criteria": {
-      "has_planks": "2025-05-07 12:11:39 +0000"
-    },
-    "done": true
-  },
-  "twilightforest:recipes/twilightforest/wood/birch_banister": {
-    "criteria": {
-      "has_item": "2025-05-09 10:57:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/oak_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-07 12:11:39 +0000"
+      "has_maze": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -491,27 +431,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/iron_helmet": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
     },
     "done": true
   },
-  "supplementaries:recipes/hanging_sign_minecraft/birch": {
+  "securitycraft:recipes/securitycraft/security_camera": {
     "criteria": {
-      "has_plank": "2025-05-11 18:37:40 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/red_concrete_powder": {
-    "criteria": {
-      "has_sand": "2025-05-07 11:40:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_nugget_from_blasting": {
-    "criteria": {
-      "has_iron_shovel": "2025-05-09 10:51:36 +0000"
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -527,6 +461,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/door_indestructible_iron_item": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
@@ -539,15 +479,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_button": {
+  "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
-      "has_planks": "2025-05-07 12:11:39 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-07 12:25:31 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -563,9 +497,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_oak_pressure_plate": {
+  "alexsmobs:alexsmobs/maraca": {
     "criteria": {
-      "has_block": "2025-05-11 18:31:14 +0000"
+      "maraca": "2025-05-17 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/minecart": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -587,29 +527,11 @@
     },
     "done": true
   },
-  "framedblocks:recipes/framed_blocks/framed_iron_door": {
+  "twilightforest:recipes/twilightforest/vanilla_to_tf_lilypad": {
     "criteria": {
-      "hasFramedDoor": "2025-05-11 17:42:49 +0000"
+      "has_item": "2025-05-17 21:37:01 +0000"
     },
     "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:taiga": "2025-05-07 11:25:09 +0000",
-      "minecraft:deep_ocean": "2025-05-07 12:13:15 +0000",
-      "minecraft:birch_forest": "2025-05-07 12:12:48 +0000",
-      "minecraft:beach": "2025-05-07 10:43:48 +0000",
-      "minecraft:river": "2025-05-07 10:46:44 +0000",
-      "minecraft:cold_ocean": "2025-05-07 10:46:54 +0000",
-      "minecraft:forest": "2025-05-07 10:44:30 +0000",
-      "minecraft:deep_cold_ocean": "2025-05-07 11:59:08 +0000",
-      "minecraft:desert": "2025-05-07 10:48:10 +0000",
-      "minecraft:ocean": "2025-05-07 10:46:49 +0000",
-      "minecraft:deep_lukewarm_ocean": "2025-05-07 12:26:28 +0000",
-      "minecraft:old_growth_birch_forest": "2025-05-07 12:13:09 +0000",
-      "minecraft:plains": "2025-05-07 11:25:07 +0000"
-    },
-    "done": false
   },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
@@ -635,9 +557,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/composter": {
+  "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
-      "has_wood_slab": "2025-05-09 10:57:12 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -671,12 +593,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-05-07 12:11:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
@@ -695,15 +611,15 @@
     },
     "done": true
   },
-  "framedblocks:recipes/framed_blocks/framed_iron_gate_door": {
+  "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
-      "hasFramedIronDoor": "2025-05-11 17:42:42 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/oak_door": {
+  "minecraft:recipes/redstone/iron_trapdoor": {
     "criteria": {
-      "has_planks": "2025-05-07 12:11:39 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -719,33 +635,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/jungle_boat": {
-    "criteria": {
-      "in_water": "2025-05-07 11:36:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/black_bed": {
     "criteria": {
       "has_black_wool": "2025-05-07 12:34:15 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+  "securitycraft:recipes/securitycraft/storage_module": {
     "criteria": {
-      "has_iron_block": "2025-05-11 17:43:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
-    "criteria": {
-      "has_polished_andesite": "2025-05-11 18:14:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/birch_stairs": {
-    "criteria": {
-      "has_planks": "2025-05-11 18:37:40 +0000"
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
@@ -755,27 +653,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2025-05-07 11:36:26 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-05-09 10:56:03 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/reinforced_red_carpet": {
-    "criteria": {
-      "has_wool": "2025-05-07 12:30:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-05-09 11:10:02 +0000"
     },
     "done": true
   },
@@ -791,33 +671,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/brick_slab": {
-    "criteria": {
-      "has_bricks": "2025-05-07 14:48:34 +0000"
-    },
-    "done": true
-  },
   "twilightforest:recipes/twilightforest/castleblock/cracked_castle_brick_stairs": {
     "criteria": {
       "has_item": "2025-05-11 17:49:28 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/redstone/birch_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-11 18:37:40 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/stone_brick_wall": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 18:14:27 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_cod_from_smoking": {
-    "criteria": {
-      "has_cod": "2025-05-11 19:38:55 +0000"
     },
     "done": true
   },
@@ -845,27 +707,15 @@
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-07 12:25:31 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/spruce_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-05-09 10:56:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/birch_door": {
     "criteria": {
       "has_planks": "2025-05-11 18:37:40 +0000"
     },
     "done": true
   },
-  "twilightforest:alt/treasures/tools": {
+  "twilightforest:alt/treasures/ironwood_armor_set": {
     "criteria": {
-      "has_glass": "2025-05-07 12:02:09 +0000"
+      "has_helmet": "2025-05-17 21:37:01 +0000"
     },
     "done": true
   },
@@ -881,39 +731,21 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/void_worm_kill": {
-    "criteria": {
-      "ex": "2025-05-11 19:32:31 +0000"
-    },
-    "done": true
-  },
   "securitycraft:recipes/securitycraft/reinforced_white_carpet": {
     "criteria": {
       "has_wool": "2025-05-07 12:30:02 +0000"
     },
     "done": true
   },
-  "securitycraft:recipes/securitycraft/reinforced_blue_carpet": {
+  "minecraft:recipes/decorations/chain": {
     "criteria": {
-      "has_wool": "2025-05-07 12:30:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/diamond": {
-    "criteria": {
-      "has_diamond_block": "2025-05-07 14:48:43 +0000"
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_dispenser": {
     "criteria": {
       "has_bow": "2025-05-09 10:52:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/cooked_chicken": {
-    "criteria": {
-      "has_chicken": "2025-05-07 12:09:39 +0000"
     },
     "done": true
   },
@@ -938,12 +770,6 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-05-11 17:43:06 +0000"
-    },
-    "done": true
-  },
-  "securitycraft:recipes/securitycraft/secret_sign_item": {
-    "criteria": {
-      "has_sign": "2025-05-07 12:25:31 +0000"
     },
     "done": true
   },
@@ -998,6 +824,624 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 18:14:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_moss_carpet": {
+    "criteria": {
+      "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/spruce_sign": {
+    "criteria": {
+      "has_planks": "2025-05-09 10:56:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv2": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_cube": {
+    "criteria": {
+      "hasPlanks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv1": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/phantom_armor_set": {
+    "criteria": {
+      "has_helm": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_warped_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-07 12:25:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/bouncing_betty": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sopa_de_macaco": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 18:14:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_gray_carpet": {
+    "criteria": {
+      "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/combat/shark_tooth_arrow": {
+    "criteria": {
+      "has_items": "2025-05-17 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
+    "criteria": {
+      "has_coal_ore": "2025-05-07 11:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2025-05-11 18:14:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_button": {
+    "criteria": {
+      "has_planks": "2025-05-11 18:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/iron_block": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-05-07 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/glass_sword": {
+    "criteria": {
+      "has_item": "2025-05-07 12:02:09 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-05-11 18:31:14 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/sc_manual": {
+    "criteria": {
+      "has_wood": "2025-05-11 18:34:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv4": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv3": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-05-07 12:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-05-07 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keycard_lv5": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-07 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_minecraft/spruce": {
+    "criteria": {
+      "has_plank": "2025-05-09 10:56:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-07 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/soul_heart": {
+    "criteria": {
+      "soul_heart": "2025-05-17 21:35:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_slab": {
+    "criteria": {
+      "has_planks": "2025-05-09 10:56:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/smart_module": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/block_change_detector": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/iron_axe": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-11 18:14:34 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-05-17 21:37:01 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/floor_trap": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-05-07 12:34:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_boots": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_planks": {
+    "criteria": {
+      "has_logs": "2025-05-11 18:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-07 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-09 10:51:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-11 18:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/iron_chestplate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-09 10:56:03 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_green_carpet": {
+    "criteria": {
+      "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/wood/birch_banister": {
+    "criteria": {
+      "has_item": "2025-05-09 10:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/hanging_sign_minecraft/birch": {
+    "criteria": {
+      "has_plank": "2025-05-11 18:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-05-07 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_shovel": "2025-05-09 10:51:36 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/trophy_system": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/camera_monitor": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_acacia_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-07 12:25:31 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_armor_set": {
+    "criteria": {
+      "has_helmet": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/limited_use_keycard": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-11 18:31:14 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/armors": {
+    "criteria": {
+      "has_steeleaf": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_iron_door": {
+    "criteria": {
+      "hasFramedDoor": "2025-05-11 17:42:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2025-05-07 11:25:09 +0000",
+      "minecraft:deep_ocean": "2025-05-07 12:13:15 +0000",
+      "minecraft:birch_forest": "2025-05-07 12:12:48 +0000",
+      "minecraft:beach": "2025-05-07 10:43:48 +0000",
+      "minecraft:river": "2025-05-07 10:46:44 +0000",
+      "minecraft:cold_ocean": "2025-05-07 10:46:54 +0000",
+      "minecraft:forest": "2025-05-07 10:44:30 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-07 11:59:08 +0000",
+      "minecraft:desert": "2025-05-07 10:48:10 +0000",
+      "minecraft:ocean": "2025-05-07 10:46:49 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-07 12:26:28 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-07 12:13:09 +0000",
+      "minecraft:plains": "2025-05-07 11:25:07 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/redstone/iron_door": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-09 10:57:12 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/whitelist_module": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/maze_map": {
+    "criteria": {
+      "has_focus": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_iron_gate_door": {
+    "criteria": {
+      "hasFramedIronDoor": "2025-05-11 17:42:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smithing_table": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-05-07 12:11:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-07 11:36:26 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/steeleaf_tool_set": {
+    "criteria": {
+      "has_ingot": "2025-05-17 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-05-11 17:43:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-11 18:14:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/birch_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-11 18:37:40 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/mine": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-07 11:36:26 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_red_carpet": {
+    "criteria": {
+      "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/decorations/tf_moss_to_vanilla": {
+    "criteria": {
+      "has_item": "2025-05-17 21:37:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-05-09 11:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-05-07 14:48:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/birch_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-11 18:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-05-11 19:38:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/briefcase": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lantern": {
+    "criteria": {
+      "has_iron_ingot": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:recipes/twilightforest/compressed_blocks/steeleaf_block": {
+    "criteria": {
+      "has_item": "2025-05-17 21:37:24 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_birch_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-07 12:25:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/spruce_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-09 10:56:03 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tools": {
+    "criteria": {
+      "has_glass": "2025-05-07 12:02:09 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/void_worm_kill": {
+    "criteria": {
+      "ex": "2025-05-11 19:32:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_blue_carpet": {
+    "criteria": {
+      "has_wool": "2025-05-07 12:30:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2025-05-07 14:48:43 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-05-07 12:09:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/secret_sign_item": {
+    "criteria": {
+      "has_sign": "2025-05-07 12:25:31 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/disguise_module": {
+    "criteria": {
+      "has_iron": "2025-05-17 21:35:13 +0000"
     },
     "done": true
   },
