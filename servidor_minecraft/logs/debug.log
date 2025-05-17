@@ -2640,3 +2640,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 22:30:20.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
 [17May2025 22:30:20.233] [Server thread/DEBUG] [voicechat/]: [voicechat] Removing state of SodyYToriginal
 [17May2025 22:30:20.235] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[17May2025 22:34:14.138] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 22:34:14.152] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[17May2025 22:34:59.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Stone Age]
+[17May2025 22:39:14.145] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[17May2025 22:39:14.159] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -174,3 +174,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 22:30:20.229] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
 [17May2025 22:30:20.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
 [17May2025 22:30:20.235] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[17May2025 22:34:59.674] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Stone Age]
