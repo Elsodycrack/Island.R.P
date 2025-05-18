@@ -1185,6 +1185,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-05-18 16:39:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/block_change_detector": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
@@ -1637,6 +1643,12 @@
     },
     "done": true
   },
+  "framedblocks:recipes/framed_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-05-18 16:39:01 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_cyan_from_white": {
     "criteria": {
       "has_the_recipe": "2025-05-18 15:03:25 +0000",
@@ -1695,6 +1707,12 @@
   "minecraft:recipes/building_blocks/andesite_slab": {
     "criteria": {
       "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/framed_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "has_framed_stairs": "2025-05-18 16:39:01 +0000"
     },
     "done": true
   },
