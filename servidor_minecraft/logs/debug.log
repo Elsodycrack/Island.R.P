@@ -6167,3 +6167,527 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
  Impact position: BlockPos{x=335, y=61, z=-162}. Hole Size: 24. Creative: true
 [18May2025 14:06:18.645] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (334.7003877733124, 65.49390748022948, -162.68243916266587).
  Impact position: BlockPos{x=329, y=62, z=-161}. Hole Size: 7. Creative: true
+[18May2025 14:07:06.875] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Sweet Dreams]
+[18May2025 14:07:07.485] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 14:07:07.505] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 14:07:36.699] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (346.02444397640363, 65.86512835898047, -167.0706341013627).
+ Impact position: BlockPos{x=352, y=62, z=-170}. Hole Size: 58. Creative: true
+[18May2025 14:07:45.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (352.72141580848756, 63.0, -164.08260434802614).
+ Impact position: BlockPos{x=349, y=62, z=-172}. Hole Size: 72. Creative: true
+[18May2025 14:08:07.149] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.8836753224118, 63.0, -172.85062819974576).
+ Impact position: BlockPos{x=370, y=62, z=-172}. Hole Size: 57. Creative: true
+[18May2025 14:08:26.652] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (355.0521894849968, 63.0, -164.5051598361867).
+ Impact position: BlockPos{x=359, y=62, z=-166}. Hole Size: 42. Creative: true
+[18May2025 14:08:56.947] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (350.91220220563173, 62.0, -161.2771354120228).
+ Impact position: BlockPos{x=346, y=61, z=-162}. Hole Size: 77. Creative: true
+[18May2025 14:09:40.551] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (364.1755084815407, 63.0, -168.2588900574755).
+ Impact position: BlockPos{x=371, y=63, z=-158}. Hole Size: 0. Creative: true
+[18May2025 14:09:41.450] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (364.3811158352447, 63.0, -167.88588828932927).
+ Impact position: BlockPos{x=367, y=62, z=-163}. Hole Size: 0. Creative: true
+[18May2025 14:09:42.746] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (367.52168105299546, 63.0, -167.45164177809926).
+ Impact position: BlockPos{x=370, y=62, z=-162}. Hole Size: 102. Creative: true
+[18May2025 14:10:18.200] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (371.8687872653526, 63.0, -162.62903326450572).
+ Impact position: BlockPos{x=364, y=62, z=-171}. Hole Size: 64. Creative: true
+[18May2025 14:10:59.648] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (415.70410678287567, 65.30382909060806, -213.65557462215216).
+ Impact position: BlockPos{x=407, y=59, z=-215}. Hole Size: 0. Creative: true
+[18May2025 14:10:59.699] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (415.88818625935, 65.30382909060806, -213.13718439682722).
+ Impact position: BlockPos{x=407, y=60, z=-215}. Hole Size: 0. Creative: true
+[18May2025 14:10:59.949] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.8277868614814, 65.30382909060806, -210.55970577315372).
+ Impact position: BlockPos{x=407, y=60, z=-212}. Hole Size: 0. Creative: true
+[18May2025 14:11:00.251] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.72667263104296, 65.30382909060806, -207.9783534323715).
+ Impact position: BlockPos{x=407, y=59, z=-209}. Hole Size: 0. Creative: true
+[18May2025 14:11:00.407] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (418.3374098649956, 65.30382909060806, -205.88791942895998).
+ Impact position: BlockPos{x=407, y=60, z=-208}. Hole Size: 0. Creative: true
+[18May2025 14:11:00.599] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (418.86375954128806, 65.30382909060806, -203.7785444222011).
+ Impact position: BlockPos{x=407, y=60, z=-207}. Hole Size: 0. Creative: true
+[18May2025 14:11:00.850] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.38367720089104, 65.30382909060806, -201.1178561143577).
+ Impact position: BlockPos{x=407, y=60, z=-205}. Hole Size: 0. Creative: true
+[18May2025 14:11:01.101] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.73646838791706, 65.30382909060806, -198.4344510865834).
+ Impact position: BlockPos{x=407, y=60, z=-203}. Hole Size: 0. Creative: true
+[18May2025 14:11:01.447] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.05192091445883, 65.30382909060806, -194.65483261267897).
+ Impact position: BlockPos{x=407, y=61, z=-200}. Hole Size: 0. Creative: true
+[18May2025 14:11:01.706] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.1792761562058, 65.30382909060806, -191.94532428321048).
+ Impact position: BlockPos{x=407, y=60, z=-198}. Hole Size: 0. Creative: true
+[18May2025 14:11:01.901] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.2297185753121, 65.30382909060806, -189.774369649464).
+ Impact position: BlockPos{x=407, y=60, z=-196}. Hole Size: 0. Creative: true
+[18May2025 14:11:02.098] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.24209301679633, 65.30382909060806, -187.6015555461692).
+ Impact position: BlockPos{x=407, y=61, z=-194}. Hole Size: 0. Creative: true
+[18May2025 14:11:02.248] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.2378514773622, 65.30382909060806, -185.97108372972835).
+ Impact position: BlockPos{x=407, y=61, z=-192}. Hole Size: 0. Creative: true
+[18May2025 14:11:02.460] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.23219609145, 65.30382909060806, -183.79630879238456).
+ Impact position: BlockPos{x=407, y=61, z=-190}. Hole Size: 0. Creative: true
+[18May2025 14:11:02.697] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.2251268590598, 65.30382909060806, -181.07693936982125).
+ Impact position: BlockPos{x=407, y=60, z=-188}. Hole Size: 0. Creative: true
+[18May2025 14:11:02.901] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.2194714731476, 65.30382909060806, -178.90096488332404).
+ Impact position: BlockPos{x=407, y=60, z=-186}. Hole Size: 0. Creative: true
+[18May2025 14:11:03.052] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.21472282111114, 65.30382909060806, -177.26881677702437).
+ Impact position: BlockPos{x=407, y=61, z=-183}. Hole Size: 0. Creative: true
+[18May2025 14:11:03.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.2079217534544, 65.30382909060806, -175.09253463678155).
+ Impact position: BlockPos{x=407, y=61, z=-182}. Hole Size: 0. Creative: true
+[18May2025 14:11:03.500] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.198927456859, 65.30382909060806, -172.37215677406584).
+ Impact position: BlockPos{x=407, y=60, z=-179}. Hole Size: 0. Creative: true
+[18May2025 14:11:03.697] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.1917320195827, 65.30382909060806, -170.1958516217911).
+ Impact position: BlockPos{x=407, y=60, z=-177}. Hole Size: 0. Creative: true
+[18May2025 14:11:03.850] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.18633544162543, 65.30382909060806, -168.56362161947956).
+ Impact position: BlockPos{x=407, y=61, z=-175}. Hole Size: 0. Creative: true
+[18May2025 14:11:04.051] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.1791400043491, 65.30382909060806, -166.38731387601229).
+ Impact position: BlockPos{x=407, y=61, z=-173}. Hole Size: 0. Creative: true
+[18May2025 14:11:04.251] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.17118412324, 65.30382909060806, -164.21105295662815).
+ Impact position: BlockPos{x=407, y=61, z=-171}. Hole Size: 0. Creative: true
+[18May2025 14:11:04.506] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.162205050234, 65.30382909060806, -162.03499306326452).
+ Impact position: BlockPos{x=407, y=60, z=-168}. Hole Size: 0. Creative: true
+[18May2025 14:11:04.651] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.1529631758624, 65.30382909060806, -159.8591497707041).
+ Impact position: BlockPos{x=407, y=61, z=-166}. Hole Size: 0. Creative: true
+[18May2025 14:11:04.848] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.1437213014908, 65.30382909060806, -157.68345955253494).
+ Impact position: BlockPos{x=407, y=61, z=-164}. Hole Size: 0. Creative: true
+[18May2025 14:11:05.049] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.0878443958617, 65.30382909060806, -155.5591302735253).
+ Impact position: BlockPos{x=407, y=61, z=-162}. Hole Size: 0. Creative: true
+[18May2025 14:11:05.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.48494029267437, 65.30382909060806, -154.0141840330471).
+ Impact position: BlockPos{x=407, y=61, z=-160}. Hole Size: 0. Creative: true
+[18May2025 14:11:05.451] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (418.5340607541477, 65.30382909060806, -152.9195315965208).
+ Impact position: BlockPos{x=407, y=61, z=-158}. Hole Size: 0. Creative: true
+[18May2025 14:11:05.653] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.9308732288216, 65.30382909060806, -151.60610062174834).
+ Impact position: BlockPos{x=407, y=61, z=-156}. Hole Size: 0. Creative: true
+[18May2025 14:11:05.802] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.7158159626961, 65.30382909060806, -150.45092756287065).
+ Impact position: BlockPos{x=407, y=61, z=-154}. Hole Size: 0. Creative: true
+[18May2025 14:11:06.000] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.6675452728219, 65.30382909060806, -148.80442563690036).
+ Impact position: BlockPos{x=407, y=61, z=-151}. Hole Size: 0. Creative: true
+[18May2025 14:11:06.299] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.6675452728219, 65.30382909060806, -147.1007316585957).
+ Impact position: BlockPos{x=406, y=59, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:08.547] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (415.69415532732745, 65.30382909060806, -159.84860340476968).
+ Impact position: BlockPos{x=407, y=59, z=-163}. Hole Size: 0. Creative: true
+[18May2025 14:11:08.604] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (415.7291068325499, 65.30382909060806, -160.2487165678236).
+ Impact position: BlockPos{x=407, y=58, z=-159}. Hole Size: 0. Creative: true
+[18May2025 14:11:08.850] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.4267774338212, 65.30382909060806, -162.09652626860802).
+ Impact position: BlockPos{x=407, y=57, z=-163}. Hole Size: 0. Creative: true
+[18May2025 14:11:09.697] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.3727394796314, 65.30382909060806, -167.75863688232488).
+ Impact position: BlockPos{x=407, y=60, z=-158}. Hole Size: 0. Creative: true
+[18May2025 14:11:09.902] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.95335689753125, 65.30382909060806, -168.88572592918084).
+ Impact position: BlockPos{x=407, y=61, z=-162}. Hole Size: 0. Creative: true
+[18May2025 14:11:10.148] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (422.413962677341, 65.30382909060806, -169.76402134486264).
+ Impact position: BlockPos{x=407, y=60, z=-164}. Hole Size: 0. Creative: true
+[18May2025 14:11:10.499] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (422.17323057179095, 65.30382909060806, -169.2689044971202).
+ Impact position: BlockPos{x=407, y=58, z=-168}. Hole Size: 0. Creative: true
+[18May2025 14:11:11.301] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.39210951420466, 65.30382909060806, -163.80030996281417).
+ Impact position: BlockPos{x=407, y=59, z=-175}. Hole Size: 0. Creative: true
+[18May2025 14:11:11.352] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.47519266151966, 65.30382909060806, -163.36365696931193).
+ Impact position: BlockPos{x=407, y=50, z=-150}. Hole Size: 0. Creative: true
+[18May2025 14:11:11.499] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.71936900052776, 65.30382909060806, -162.00141267979075).
+ Impact position: BlockPos{x=407, y=58, z=-172}. Hole Size: 0. Creative: true
+[18May2025 14:11:11.650] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.95109982161046, 65.30382909060806, -160.57524571969287).
+ Impact position: BlockPos{x=410, y=48, z=-165}. Hole Size: 0. Creative: true
+[18May2025 14:11:11.954] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.92313235328595, 65.30382909060806, -157.88018134425585).
+ Impact position: BlockPos{x=409, y=48, z=-165}. Hole Size: 0. Creative: true
+[18May2025 14:11:12.101] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.37081041724986, 65.30382909060806, -156.92639341015507).
+ Impact position: BlockPos{x=407, y=59, z=-162}. Hole Size: 0. Creative: true
+[18May2025 14:11:12.401] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.7276217944875, 65.30382909060806, -156.11151220772268).
+ Impact position: BlockPos{x=407, y=58, z=-160}. Hole Size: 0. Creative: true
+[18May2025 14:11:12.750] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.6708921913393, 65.30382909060806, -156.96375800080025).
+ Impact position: BlockPos{x=408, y=54, z=-180}. Hole Size: 0. Creative: true
+[18May2025 14:11:13.248] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.1575131920592, 65.30382909060806, -160.36303736125703).
+ Impact position: BlockPos{x=407, y=59, z=-152}. Hole Size: 0. Creative: true
+[18May2025 14:11:13.399] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.11707486280613, 65.30382909060806, -161.6478181372951).
+ Impact position: BlockPos{x=407, y=59, z=-159}. Hole Size: 0. Creative: true
+[18May2025 14:11:13.501] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.17243482802417, 65.30382909060806, -162.54033491016224).
+ Impact position: BlockPos{x=407, y=60, z=-161}. Hole Size: 0. Creative: true
+[18May2025 14:11:13.700] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.49225115421234, 65.30382909060806, -164.3641184586116).
+ Impact position: BlockPos{x=407, y=60, z=-164}. Hole Size: 0. Creative: true
+[18May2025 14:11:13.900] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.0810617369347, 65.30382909060806, -166.1905442290813).
+ Impact position: BlockPos{x=407, y=60, z=-166}. Hole Size: 0. Creative: true
+[18May2025 14:11:14.149] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (418.07579522175786, 65.30382909060806, -168.47213380304623).
+ Impact position: BlockPos{x=407, y=59, z=-171}. Hole Size: 0. Creative: true
+[18May2025 14:11:14.252] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (418.52245316412143, 65.30382909060806, -169.38941073809056).
+ Impact position: BlockPos{x=407, y=48, z=-173}. Hole Size: 499. Creative: true
+[18May2025 14:11:14.398] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.2131431770269, 65.30382909060806, -170.77873392707266).
+ Impact position: BlockPos{x=407, y=59, z=-173}. Hole Size: 0. Creative: true
+[18May2025 14:11:14.503] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.65044896191046, 65.30382909060806, -171.72527158902236).
+ Impact position: BlockPos{x=407, y=48, z=-176}. Hole Size: 499. Creative: true
+[18May2025 14:11:14.699] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.37066531571725, 65.30382909060806, -173.13864436606394).
+ Impact position: BlockPos{x=407, y=58, z=-175}. Hole Size: 0. Creative: true
+[18May2025 14:11:14.949] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.1469473213887, 65.30382909060806, -173.3812596059208).
+ Impact position: BlockPos{x=407, y=58, z=-176}. Hole Size: 0. Creative: true
+[18May2025 14:11:15.099] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.5696655327882, 65.30382909060806, -172.97137017914304).
+ Impact position: BlockPos{x=407, y=58, z=-173}. Hole Size: 0. Creative: true
+[18May2025 14:11:15.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.83982517038544, 65.30382909060806, -172.53065014800092).
+ Impact position: BlockPos{x=408, y=48, z=-160}. Hole Size: 0. Creative: true
+[18May2025 14:11:15.449] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (422.48935817525927, 65.30382909060806, -170.99968263056977).
+ Impact position: BlockPos{x=408, y=48, z=-159}. Hole Size: 1. Creative: true
+[18May2025 14:11:15.449] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (422.48935817525927, 65.30382909060806, -170.99968263056977).
+ Impact position: BlockPos{x=407, y=58, z=-171}. Hole Size: 0. Creative: true
+[18May2025 14:11:15.950] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.43603350971233, 65.30382909060806, -166.79210603612307).
+ Impact position: BlockPos{x=407, y=56, z=-171}. Hole Size: 0. Creative: true
+[18May2025 14:11:17.702] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.5601093603634, 65.30382909060806, -148.96217808027308).
+ Impact position: BlockPos{x=407, y=58, z=-159}. Hole Size: 0. Creative: true
+[18May2025 14:11:17.899] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.5753281037217, 65.30382909060806, -147.7866404670119).
+ Impact position: BlockPos{x=407, y=59, z=-156}. Hole Size: 0. Creative: true
+[18May2025 14:11:18.050] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.5753281037217, 65.30382909060806, -147.15449339198602).
+ Impact position: BlockPos{x=407, y=59, z=-153}. Hole Size: 0. Creative: true
+[18May2025 14:11:18.098] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.5753281037217, 65.30382909060806, -146.98051591424823).
+ Impact position: BlockPos{x=407, y=51, z=-171}. Hole Size: 0. Creative: true
+[18May2025 14:11:18.301] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.63244388817816, 65.30382909060806, -146.86852705880764).
+ Impact position: BlockPos{x=407, y=59, z=-150}. Hole Size: 0. Creative: true
+[18May2025 14:11:18.549] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (423.92822656783727, 65.30382909060806, -147.674667793113).
+ Impact position: BlockPos{x=407, y=58, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:19.300] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.8618440856835, 65.30382909060806, -152.15641217657142).
+ Impact position: BlockPos{x=407, y=48, z=-170}. Hole Size: 0. Creative: true
+[18May2025 14:11:19.852] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (418.7736774836355, 65.30382909060806, -156.3563925553723).
+ Impact position: BlockPos{x=408, y=47, z=-168}. Hole Size: 13. Creative: true
+[18May2025 14:11:20.001] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.9617163467277, 65.30382909060806, -157.6453711869808).
+ Impact position: BlockPos{x=408, y=47, z=-170}. Hole Size: 0. Creative: true
+[18May2025 14:11:20.001] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.9617163467277, 65.30382909060806, -157.6453711869808).
+ Impact position: BlockPos{x=409, y=49, z=-165}. Hole Size: 0. Creative: true
+[18May2025 14:11:20.048] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.7009897435268, 65.30382909060806, -158.08742337929712).
+ Impact position: BlockPos{x=409, y=48, z=-167}. Hole Size: 0. Creative: true
+[18May2025 14:11:20.150] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.1926896928575, 65.30382909060806, -158.98725504117903).
+ Impact position: BlockPos{x=409, y=47, z=-169}. Hole Size: 0. Creative: true
+[18May2025 14:11:20.700] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (414.6580890983118, 65.30382909060806, -164.05308517055707).
+ Impact position: BlockPos{x=408, y=48, z=-163}. Hole Size: 0. Creative: true
+[18May2025 14:11:20.799] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (414.3277503627492, 65.30382909060806, -164.74439847066412).
+ Impact position: BlockPos{x=407, y=49, z=-161}. Hole Size: 2. Creative: true
+[18May2025 14:11:21.499] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (414.33204151417624, 65.30382909060806, -164.21979806636676).
+ Impact position: BlockPos{x=407, y=60, z=-183}. Hole Size: 0. Creative: true
+[18May2025 14:11:21.701] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (414.8169627958019, 65.30382909060806, -162.947912908741).
+ Impact position: BlockPos{x=406, y=50, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:21.799] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (415.10868942017737, 65.30382909060806, -162.22206044940498).
+ Impact position: BlockPos{x=407, y=50, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:22.898] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (420.0664316779737, 65.30382909060806, -152.83736364629738).
+ Impact position: BlockPos{x=407, y=55, z=-182}. Hole Size: 0. Creative: true
+[18May2025 14:11:24.302] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (427.1951693596745, 65.30382909060806, -141.7409848343958).
+ Impact position: BlockPos{x=410, y=47, z=-169}. Hole Size: 499. Creative: true
+[18May2025 14:11:24.352] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (427.321077983041, 65.30382909060806, -141.24684196536887).
+ Impact position: BlockPos{x=409, y=49, z=-177}. Hole Size: 0. Creative: true
+[18May2025 14:11:26.100] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (421.0213108654302, 65.30382909060806, -135.7594077160659).
+ Impact position: BlockPos{x=408, y=48, z=-176}. Hole Size: 0. Creative: true
+[18May2025 14:11:26.300] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (419.2679823312606, 65.30382909060806, -136.58123666743762).
+ Impact position: BlockPos{x=407, y=51, z=-159}. Hole Size: 0. Creative: true
+[18May2025 14:11:26.549] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (417.0206501058798, 65.30382909060806, -137.72550270810672).
+ Impact position: BlockPos{x=408, y=48, z=-175}. Hole Size: 0. Creative: true
+[18May2025 14:11:26.600] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (416.5660258973626, 65.30382909060806, -137.96605268898477).
+ Impact position: BlockPos{x=407, y=50, z=-163}. Hole Size: 0. Creative: true
+[18May2025 14:11:26.704] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (415.6511831374578, 65.30382909060806, -138.4533636098724).
+ Impact position: BlockPos{x=408, y=48, z=-174}. Hole Size: 253. Creative: true
+[18May2025 14:11:26.850] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (414.26412794232795, 65.30382909060806, -139.19139529996357).
+ Impact position: BlockPos{x=407, y=49, z=-166}. Hole Size: 19. Creative: true
+[18May2025 14:11:26.902] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (413.79838187586313, 65.30382909060806, -139.43871402246614).
+ Impact position: BlockPos{x=408, y=48, z=-170}. Hole Size: 0. Creative: true
+[18May2025 14:11:27.101] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (411.9232990625215, 65.30382909060806, -140.43520331560475).
+ Impact position: BlockPos{x=408, y=50, z=-150}. Hole Size: 0. Creative: true
+[18May2025 14:11:27.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (410.98181777695885, 65.30382909060806, -140.9403833695198).
+ Impact position: BlockPos{x=409, y=49, z=-154}. Hole Size: 0. Creative: true
+[18May2025 14:11:27.449] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (408.6316905128011, 65.30382909060806, -142.2382685482674).
+ Impact position: BlockPos{x=409, y=50, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:28.151] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (403.7380213904982, 65.30382909060806, -144.67892315979316).
+ Impact position: BlockPos{x=407, y=49, z=-142}. Hole Size: 5. Creative: true
+[18May2025 14:11:28.251] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (403.4106713381138, 65.30382909060806, -144.83732760963852).
+ Impact position: BlockPos{x=400, y=55, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:28.251] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (403.4106713381138, 65.30382909060806, -144.83732760963852).
+ Impact position: BlockPos{x=400, y=56, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:29.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (399.4381133608007, 65.30382909060806, -144.1591734479619).
+ Impact position: BlockPos{x=409, y=50, z=-144}. Hole Size: 0. Creative: true
+[18May2025 14:11:29.448] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (399.12100710067784, 65.30382909060806, -144.0775295699359).
+ Impact position: BlockPos{x=407, y=50, z=-144}. Hole Size: 0. Creative: true
+[18May2025 14:11:29.648] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (398.90355158140187, 65.30382909060806, -144.0215423059665).
+ Impact position: BlockPos{x=406, y=50, z=-144}. Hole Size: 0. Creative: true
+[18May2025 14:11:29.850] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (398.75443152667566, 65.30382909060806, -143.9831490571086).
+ Impact position: BlockPos{x=404, y=50, z=-145}. Hole Size: 0. Creative: true
+[18May2025 14:11:30.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (398.631238525691, 65.30382909060806, -143.29103360621227).
+ Impact position: BlockPos{x=404, y=50, z=-146}. Hole Size: 5. Creative: true
+[18May2025 14:11:30.449] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (398.4303822275969, 65.30382909060806, -141.94476928869054).
+ Impact position: BlockPos{x=401, y=50, z=-146}. Hole Size: 0. Creative: true
+[18May2025 14:11:30.948] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (395.69533097325524, 65.30382909060806, -140.15832635254947).
+ Impact position: BlockPos{x=397, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:31.399] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (391.7848023031083, 65.30382909060806, -139.4643716280488).
+ Impact position: BlockPos{x=395, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:31.599] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (389.8397247397485, 65.30382909060806, -139.31305573249836).
+ Impact position: BlockPos{x=393, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:31.799] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (387.8216392681675, 65.30382909060806, -139.2220146896904).
+ Impact position: BlockPos{x=391, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:32.053] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (385.2307000756875, 65.30382909060806, -139.16951889603897).
+ Impact position: BlockPos{x=389, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:32.204] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (383.65124375373574, 65.30382909060806, -139.16402781764188).
+ Impact position: BlockPos{x=388, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:32.401] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (381.5254496025577, 65.30382909060806, -139.1691760321739).
+ Impact position: BlockPos{x=385, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:32.601] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (379.3835554587333, 65.30382909060806, -139.17432424670594).
+ Impact position: BlockPos{x=383, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:32.802] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (377.23062074995784, 65.30382909060806, -139.17947246123796).
+ Impact position: BlockPos{x=381, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:32.949] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (375.6108061284321, 65.30382909060806, -139.18333362213698).
+ Impact position: BlockPos{x=379, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:33.206] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (372.90441734967123, 65.30382909060806, -139.18976889030202).
+ Impact position: BlockPos{x=377, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:33.403] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (370.7351594093469, 65.30382909060806, -139.19491710483405).
+ Impact position: BlockPos{x=375, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:33.601] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (368.5634599856304, 65.30382909060806, -139.20006531936608).
+ Impact position: BlockPos{x=373, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:33.751] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (366.9335743568426, 65.30382909060806, -139.20430685880012).
+ Impact position: BlockPos{x=370, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:33.952] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (364.7593627261736, 65.30382909060806, -139.2099622447122).
+ Impact position: BlockPos{x=368, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:34.149] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (362.5843151382519, 65.30382909060806, -139.21561763062425).
+ Impact position: BlockPos{x=366, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:34.348] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (360.40869429290416, 65.30382909060806, -139.22127301653632).
+ Impact position: BlockPos{x=364, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:34.553] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (358.2326918951309, 65.30382909060806, -139.2271913600676).
+ Impact position: BlockPos{x=362, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:34.748] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (356.0564687724202, 65.30382909060806, -139.23337266121808).
+ Impact position: BlockPos{x=360, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:34.949] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (353.88009728087695, 65.30382909060806, -139.23955396236857).
+ Impact position: BlockPos{x=357, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:35.149] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (351.703624045453, 65.30382909060806, -139.24573526351907).
+ Impact position: BlockPos{x=355, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:35.348] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (349.5270810391944, 65.30382909060806, -139.25191656466956).
+ Impact position: BlockPos{x=353, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:35.548] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (347.3504901876076, 65.30382909060806, -139.25809786582005).
+ Impact position: BlockPos{x=351, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:35.751] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (345.1738665261019, 65.30382909060806, -139.26427916697054).
+ Impact position: BlockPos{x=349, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:35.951] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (342.99722036520456, 65.30382909060806, -139.27046046812103).
+ Impact position: BlockPos{x=347, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:36.148] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (340.82055877535635, 65.30382909060806, -139.27664176927152).
+ Impact position: BlockPos{x=344, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:36.351] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (338.6438866051099, 65.30382909060806, -139.282823070422).
+ Impact position: BlockPos{x=342, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:36.550] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (336.46720717935864, 65.30382909060806, -139.2890043715725).
+ Impact position: BlockPos{x=340, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:36.750] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (334.2905227781473, 65.30382909060806, -139.295185672723).
+ Impact position: BlockPos{x=338, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:36.949] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (332.11383496501566, 65.30382909060806, -139.30136697387348).
+ Impact position: BlockPos{x=336, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:37.150] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (329.93714481216074, 65.30382909060806, -139.30754827502398).
+ Impact position: BlockPos{x=333, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:37.348] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (327.7604530548413, 65.30382909060806, -139.31372957617447).
+ Impact position: BlockPos{x=331, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:37.552] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (325.58376019726086, 65.30382909060806, -139.31991087732496).
+ Impact position: BlockPos{x=329, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:37.749] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (323.4070665851767, 65.30382909060806, -139.32609217847545).
+ Impact position: BlockPos{x=327, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:37.948] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.2307616739924, 65.30382909060806, -139.33700778955512).
+ Impact position: BlockPos{x=325, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:11:38.653] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (314.13707086741, 65.30382909060806, -139.90656324930382).
+ Impact position: BlockPos{x=321, y=57, z=-150}. Hole Size: 433. Creative: true
+[18May2025 14:11:38.701] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (313.8407141920995, 65.30382909060806, -139.99095215217923).
+ Impact position: BlockPos{x=323, y=56, z=-151}. Hole Size: 427. Creative: true
+[18May2025 14:11:38.753] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (313.60586336678284, 65.30382909060806, -140.1022077659178).
+ Impact position: BlockPos{x=319, y=58, z=-149}. Hole Size: 420. Creative: true
+[18May2025 14:11:39.653] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (315.6499288058792, 65.30382909060806, -144.4997408246585).
+ Impact position: BlockPos{x=323, y=59, z=-150}. Hole Size: 404. Creative: true
+[18May2025 14:11:39.852] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.99819076844415, 65.30382909060806, -145.68033475835998).
+ Impact position: BlockPos{x=323, y=59, z=-151}. Hole Size: 383. Creative: true
+[18May2025 14:11:39.902] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (317.3585603785694, 65.30382909060806, -145.97922629539875).
+ Impact position: BlockPos{x=322, y=57, z=-151}. Hole Size: 221. Creative: true
+[18May2025 14:11:40.001] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.0948981078851, 65.30382909060806, -146.58911802947958).
+ Impact position: BlockPos{x=322, y=59, z=-150}. Hole Size: 211. Creative: true
+[18May2025 14:11:40.051] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.4574300285314, 65.30382909060806, -146.91097509530164).
+ Impact position: BlockPos{x=322, y=60, z=-150}. Hole Size: 204. Creative: true
+[18May2025 14:11:40.151] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.14907513309356, 65.30382909060806, -147.59896763003056).
+ Impact position: BlockPos{x=322, y=61, z=-150}. Hole Size: 0. Creative: true
+[18May2025 14:11:40.450] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (320.7527085458825, 65.30382909060806, -149.55726311428887).
+ Impact position: BlockPos{x=321, y=59, z=-154}. Hole Size: 195. Creative: true
+[18May2025 14:11:40.554] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.1178351384441, 65.30382909060806, -150.011454604558).
+ Impact position: BlockPos{x=320, y=60, z=-152}. Hole Size: 184. Creative: true
+[18May2025 14:11:40.705] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.5512883426048, 65.30382909060806, -150.5506395359499).
+ Impact position: BlockPos{x=318, y=61, z=-153}. Hole Size: 173. Creative: true
+[18May2025 14:11:40.901] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.83033583888204, 65.30382909060806, -151.10646504613766).
+ Impact position: BlockPos{x=318, y=62, z=-153}. Hole Size: 146. Creative: true
+[18May2025 14:11:41.100] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.3918085413474, 65.30382909060806, -151.6288963618604).
+ Impact position: BlockPos{x=318, y=61, z=-152}. Hole Size: 125. Creative: true
+[18May2025 14:11:41.498] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.2248691148593, 65.30382909060806, -152.5775485338813).
+ Impact position: BlockPos{x=317, y=61, z=-153}. Hole Size: 18. Creative: true
+[18May2025 14:11:41.647] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.5535545695897, 65.30382909060806, -152.82740727322442).
+ Impact position: BlockPos{x=316, y=63, z=-154}. Hole Size: 0. Creative: true
+[18May2025 14:11:43.253] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.42404012438254, 65.30382909060806, -147.7557493422489).
+ Impact position: BlockPos{x=322, y=60, z=-155}. Hole Size: 95. Creative: true
+[18May2025 14:11:43.401] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.30543773925, 65.30382909060806, -147.3843930726903).
+ Impact position: BlockPos{x=321, y=61, z=-154}. Hole Size: 70. Creative: true
+[18May2025 14:11:43.552] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.216062413556, 65.30382909060806, -147.10454973308765).
+ Impact position: BlockPos{x=321, y=62, z=-153}. Hole Size: 60. Creative: true
+[18May2025 14:11:43.753] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.1301757230732, 65.30382909060806, -146.83562966923887).
+ Impact position: BlockPos{x=321, y=62, z=-152}. Hole Size: 29. Creative: true
+[18May2025 14:11:43.901] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.27259129488186, 65.30382909060806, -146.4884923115652).
+ Impact position: BlockPos{x=320, y=62, z=-151}. Hole Size: 9. Creative: true
+[18May2025 14:11:44.101] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.8406009942126, 65.30382909060806, -145.72606024390285).
+ Impact position: BlockPos{x=319, y=63, z=-151}. Hole Size: 0. Creative: true
+[18May2025 14:11:45.051] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.16683262184785, 65.30382909060806, -145.11357255587106).
+ Impact position: BlockPos{x=322, y=62, z=-150}. Hole Size: 0. Creative: true
+[18May2025 14:11:46.097] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (320.32548872585875, 65.30382909060806, -146.0514699014143).
+ Impact position: BlockPos{x=323, y=60, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:46.849] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.2084303324251, 65.30382909060806, -145.2351025837529).
+ Impact position: BlockPos{x=322, y=60, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:47.448] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.9062916824487, 65.30382909060806, -145.01148164449066).
+ Impact position: BlockPos{x=323, y=61, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:48.000] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.8134457837265, 65.30382909060806, -144.9427638982489).
+ Impact position: BlockPos{x=322, y=61, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:48.649] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=323, y=62, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:49.149] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=322, y=62, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:49.752] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=320, y=61, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:50.502] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=321, y=60, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:51.147] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=321, y=61, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:51.601] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=321, y=62, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:52.047] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.79428627957674, 65.30382909060806, -144.93628030750347).
+ Impact position: BlockPos{x=320, y=62, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:11:52.646] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.4081379739365, 65.30382909060806, -145.92237744230542).
+ Impact position: BlockPos{x=321, y=61, z=-149}. Hole Size: 0. Creative: true
+[18May2025 14:11:53.449] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.11310566676815, 65.30382909060806, -148.54543998430995).
+ Impact position: BlockPos{x=322, y=61, z=-149}. Hole Size: 0. Creative: true
+[18May2025 14:11:54.149] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (322.29499158173985, 65.30382909060806, -149.45061941276072).
+ Impact position: BlockPos{x=322, y=63, z=-150}. Hole Size: 0. Creative: true
+[18May2025 14:11:54.949] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (323.33378080090466, 65.30382909060806, -149.50036327024057).
+ Impact position: BlockPos{x=323, y=60, z=-149}. Hole Size: 6. Creative: true
+[18May2025 14:11:57.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.78827054797245, 65.30382909060806, -152.67126583164952).
+ Impact position: BlockPos{x=318, y=62, z=-155}. Hole Size: 55. Creative: true
+[18May2025 14:12:02.047] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (327.75665156734425, 65.30382909060806, -141.69535130052358).
+ Impact position: BlockPos{x=327, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:02.551] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (332.0101098374597, 65.30382909060806, -145.2547635879484).
+ Impact position: BlockPos{x=334, y=56, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:02.606] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (332.46043391212964, 65.30382909060806, -145.47344198081157).
+ Impact position: BlockPos{x=334, y=56, z=-146}. Hole Size: 51. Creative: true
+[18May2025 14:12:02.656] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (332.91909675694774, 65.30382909060806, -145.66884403063023).
+ Impact position: BlockPos{x=336, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:02.948] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (335.8045117325605, 65.30382909060806, -146.4260273393927).
+ Impact position: BlockPos{x=337, y=56, z=-147}. Hole Size: 6. Creative: true
+[18May2025 14:12:03.051] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (336.7939406469926, 65.30382909060806, -146.5083302413571).
+ Impact position: BlockPos{x=340, y=57, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:04.800] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (348.20725496312207, 65.30382909060806, -143.43245720725767).
+ Impact position: BlockPos{x=347, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:05.599] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (353.1512034910114, 65.30382909060806, -142.62210913749925).
+ Impact position: BlockPos{x=350, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:05.799] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (354.9887962339802, 65.30382909060806, -142.46972307063055).
+ Impact position: BlockPos{x=352, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:06.006] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (356.9327586146864, 65.30382909060806, -142.3381988788607).
+ Impact position: BlockPos{x=354, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:06.201] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (358.94966394139556, 65.30382909060806, -142.220980711453).
+ Impact position: BlockPos{x=356, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:06.400] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (361.01658987064496, 65.30382909060806, -142.11357289580315).
+ Impact position: BlockPos{x=358, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:06.650] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (363.6475624536859, 65.30382909060806, -142.01386293672823).
+ Impact position: BlockPos{x=360, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:06.800] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.24353226916736, 65.30382909060806, -141.97950317704152).
+ Impact position: BlockPos{x=362, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:07.473] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 14:12:07.487] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 14:12:10.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (357.73407431272926, 65.30382909060806, -140.16438450158302).
+ Impact position: BlockPos{x=361, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:10.401] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (355.644359295904, 65.30382909060806, -139.8624930777752).
+ Impact position: BlockPos{x=358, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:11.701] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (342.01099444876394, 65.30382909060806, -139.4976504217221).
+ Impact position: BlockPos{x=346, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:11.904] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (339.8825974480626, 65.30382909060806, -139.50661688928923).
+ Impact position: BlockPos{x=344, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:12.098] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (337.7398043642041, 65.30382909060806, -139.494987260127).
+ Impact position: BlockPos{x=342, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:12.252] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (336.1262183434385, 65.30382909060806, -139.48539643828542).
+ Impact position: BlockPos{x=340, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:12.451] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (333.96871271910896, 65.30382909060806, -139.47260867582997).
+ Impact position: BlockPos{x=337, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:12.651] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (331.8062944737605, 65.30382909060806, -139.45982091337453).
+ Impact position: BlockPos{x=335, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:12.902] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (329.09866656719026, 65.30382909060806, -139.44383621030522).
+ Impact position: BlockPos{x=333, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:13.050] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (327.4724101534072, 65.30382909060806, -139.43424538846364).
+ Impact position: BlockPos{x=331, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:13.300] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (324.76012303471146, 65.30382909060806, -139.41826068539433).
+ Impact position: BlockPos{x=329, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:13.500] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (322.58914186514716, 65.30382909060806, -139.40547292293888).
+ Impact position: BlockPos{x=326, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:13.700] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (320.4174827688441, 65.30382909060806, -139.39268516048344).
+ Impact position: BlockPos{x=324, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:13.850] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (318.78842445549685, 65.30382909060806, -139.38309433864185).
+ Impact position: BlockPos{x=322, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:14.097] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (316.0729160033016, 65.30382909060806, -139.36710963557255).
+ Impact position: BlockPos{x=320, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:14.299] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (313.89969093956, 65.30382909060806, -139.36124873245603).
+ Impact position: BlockPos{x=318, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:16.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (317.4264005525666, 65.30382909060806, -145.89543036200374).
+ Impact position: BlockPos{x=319, y=60, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:12:17.899] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (320.9911692694849, 65.30382909060806, -144.28417765072564).
+ Impact position: BlockPos{x=319, y=59, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:12:18.750] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (320.31184333557627, 65.30382909060806, -144.6366028586776).
+ Impact position: BlockPos{x=319, y=59, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:12:19.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (320.0783362353711, 65.30382909060806, -144.6366028586776).
+ Impact position: BlockPos{x=319, y=59, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:12:19.650] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.9994433776927, 65.30382909060806, -144.6366028586776).
+ Impact position: BlockPos{x=319, y=59, z=-148}. Hole Size: 0. Creative: true
+[18May2025 14:12:20.197] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.9623438034051, 65.30382909060806, -144.6366028586776).
+ Impact position: BlockPos{x=319, y=59, z=-148}. Hole Size: 16. Creative: true
+[18May2025 14:12:20.747] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (319.9623438034051, 65.30382909060806, -144.6366028586776).
+ Impact position: BlockPos{x=319, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:22.647] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (321.6318147140613, 65.30382909060806, -139.5418228514203).
+ Impact position: BlockPos{x=322, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:22.849] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (323.07289768345356, 65.30382909060806, -138.66048748073285).
+ Impact position: BlockPos{x=323, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:23.098] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (325.12374165096963, 65.30382909060806, -138.23106898379314).
+ Impact position: BlockPos{x=325, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:23.352] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (327.34915108495187, 65.30382909060806, -138.4061001383781).
+ Impact position: BlockPos{x=327, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:23.599] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (329.66730100705985, 65.30382909060806, -138.9914050125226).
+ Impact position: BlockPos{x=328, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:23.748] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (331.0930919771679, 65.30382909060806, -139.36523169704543).
+ Impact position: BlockPos{x=329, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:23.901] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (332.54601571304335, 65.30382909060806, -139.51082089151595).
+ Impact position: BlockPos{x=331, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:24.102] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (334.5017568934143, 65.30382909060806, -139.40443593307083).
+ Impact position: BlockPos{x=333, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:24.301] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (336.4504300310862, 65.30382909060806, -139.01646647085215).
+ Impact position: BlockPos{x=336, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:24.550] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (338.84073186677097, 65.30382909060806, -138.19966749384434).
+ Impact position: BlockPos{x=339, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:24.800] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (341.2005630028205, 65.30382909060806, -137.14834736382645).
+ Impact position: BlockPos{x=341, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:25.050] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (343.6184757979341, 65.30382909060806, -136.11984172310818).
+ Impact position: BlockPos{x=344, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:25.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (345.6189215940926, 65.30382909060806, -135.41713934486026).
+ Impact position: BlockPos{x=345, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:25.400] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (347.1484314511654, 65.30382909060806, -134.95125315655443).
+ Impact position: BlockPos{x=345, y=61, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:25.649] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (349.73740304251555, 65.30382909060806, -134.26313021358754).
+ Impact position: BlockPos{x=346, y=60, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:25.950] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (352.8872265185692, 65.30382909060806, -133.53410883786958).
+ Impact position: BlockPos{x=348, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:26.198] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (355.53556057279525, 65.30382909060806, -132.98544751675863).
+ Impact position: BlockPos{x=350, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:26.501] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (358.73228024956, 65.30382909060806, -132.38157021020115).
+ Impact position: BlockPos{x=353, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:26.751] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (361.40657895353496, 65.30382909060806, -131.91162448846657).
+ Impact position: BlockPos{x=355, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:26.848] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (362.337183019407, 65.30382909060806, -131.7514332003211).
+ Impact position: BlockPos{x=357, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:27.398] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.23156950835863, 65.30382909060806, -131.25320251655384).
+ Impact position: BlockPos{x=361, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:27.653] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.8288496328353, 65.30382909060806, -131.15038857447857).
+ Impact position: BlockPos{x=363, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:27.748] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.9992655800168, 65.30382909060806, -131.12105370361277).
+ Impact position: BlockPos{x=358, y=62, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:27.901] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (366.20157168384696, 65.30382909060806, -131.08622936041382).
+ Impact position: BlockPos{x=364, y=58, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:29.148] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (366.761673452582, 65.30382909060806, -131.0109880022392).
+ Impact position: BlockPos{x=357, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:29.299] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (366.81929724316745, 65.30382909060806, -131.14540306099224).
+ Impact position: BlockPos{x=358, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:29.501] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (367.1758217464965, 65.30382909060806, -131.7997076642399).
+ Impact position: BlockPos{x=358, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:29.648] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (367.6084943753389, 65.30382909060806, -132.54600972030303).
+ Impact position: BlockPos{x=359, y=59, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:29.701] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (367.77654532077133, 65.30382909060806, -132.8327202666045).
+ Impact position: BlockPos{x=350, y=55, z=-147}. Hole Size: 0. Creative: true
+[18May2025 14:12:29.952] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (368.751263910151, 65.30382909060806, -134.48208829957116).
+ Impact position: BlockPos{x=359, y=50, z=-147}. Hole Size: 499. Creative: true
+[18May2025 14:12:30.903] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (372.8404321482495, 65.45382909656853, -146.42090113390853).
+ Impact position: BlockPos{x=352, y=52, z=-146}. Hole Size: 438. Creative: true
+[18May2025 14:12:57.457] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Acquire Hardware]
+[18May2025 14:14:08.301] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (375.5056899057685, 70.42785696290264, -383.65044756056386).
+ Impact position: BlockPos{x=373, y=62, z=-385}. Hole Size: 499. Creative: true
+[18May2025 14:14:26.951] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (383.9723683789961, 73.73793029446512, -381.7671302313811).
+ Impact position: BlockPos{x=373, y=63, z=-385}. Hole Size: 499. Creative: true
+[18May2025 14:15:43.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[18May2025 14:15:56.204] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[18May2025 14:17:07.472] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 14:17:07.486] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 14:17:14.299] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (323.6463676005465, 95.52694830358274, -305.5040495097106).
+ Impact position: BlockPos{x=322, y=66, z=-304}. Hole Size: 0. Creative: true
