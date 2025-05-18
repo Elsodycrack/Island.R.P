@@ -894,6 +894,12 @@
     },
     "done": true
   },
+  "twilightforest:alt/treasures/magic_trees": {
+    "criteria": {
+      "has_trans": "2025-05-18 15:41:22 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
@@ -933,6 +939,12 @@
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-05-18 13:27:37 +0000"
+    },
+    "done": true
+  },
+  "twilightforest:alt/treasures/tree_of_transformation": {
+    "criteria": {
+      "has_leaves": "2025-05-18 15:41:22 +0000"
     },
     "done": true
   },
@@ -1841,6 +1853,7 @@
   },
   "twilightforest:arborist": {
     "criteria": {
+      "transformation_leaves": "2025-05-18 15:41:22 +0000",
       "mangrove_trapdoor": "2025-05-17 21:35:13 +0000"
     },
     "done": false

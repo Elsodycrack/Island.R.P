@@ -2466,3 +2466,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 15:32:53.562] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Glow and Behold!]
 [18May2025 15:37:03.534] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by Carlesneri
 [18May2025 15:37:13.781] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by Carlesneri
+[18May2025 15:39:49.529] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chocobo['Josefa'/9247, l='ServerLevel[world]', x=366.23, y=63.06, z=-295.84] died: Josefa was slain by Carlesneri
+[18May2025 15:40:26.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by Carlesneri
+[18May2025 15:42:14.758] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to Carlesneri]
+[18May2025 15:42:31.775] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by Carlesneri
+[18May2025 15:42:44.298] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Disconnected
+[18May2025 15:42:44.298] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 15:42:44.298] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 15:44:18.002] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 15:45:46.657] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@61880079
+[18May2025 15:45:46.661] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Race_Driguer[/127.199.241.172:59363] logged in with entity id 90221 at (399.0089211529936, 63.5, -366.05395134259504)
+[18May2025 15:45:46.666] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
+[18May2025 15:45:48.254] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
+[18May2025 15:45:48.254] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
+[18May2025 15:47:11.026] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[18May2025 15:47:55.852] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by SodyYToriginal
+[18May2025 15:48:02.925] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[18May2025 15:48:12.250] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Disconnected
+[18May2025 15:48:12.251] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 15:48:12.251] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
