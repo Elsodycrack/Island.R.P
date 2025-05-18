@@ -237,3 +237,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 12:00:40.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Disconnected
 [18May2025 12:00:40.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
 [18May2025 12:00:40.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 12:15:03.893] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5a99590f
+[18May2025 12:15:03.900] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:33027] logged in with entity id 12835 at (378.47737296139843, 66.12380465015714, -175.20638827823444)
+[18May2025 12:15:03.910] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[18May2025 12:15:04.132] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[18May2025 12:15:04.132] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
