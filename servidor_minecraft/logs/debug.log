@@ -3190,3 +3190,24 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 23:59:14.155] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 00:04:14.144] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 00:04:14.156] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 00:06:00.651] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 00:06:29.304] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=381, y=63, z=-196}
+[18May2025 00:06:29.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=381, y=64, z=-196}
+[18May2025 00:06:29.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=381, y=63, z=-197}
+[18May2025 00:06:32.340] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=382, y=63, z=-200}
+[18May2025 00:06:34.302] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=382, y=63, z=-201}
+[18May2025 00:06:37.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=381, y=63, z=-196}
+[18May2025 00:07:02.526] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=64, z=-362} BlockPos{x=368, y=63, z=-206}
+[18May2025 00:07:48.842] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 00:08:46.860] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=352, y=63, z=-201} BlockPos{x=377, y=64, z=-190}
+[18May2025 00:09:14.141] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 00:09:14.154] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 00:11:49.836] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=373, y=64, z=-189} BlockPos{x=375, y=64, z=-191}
+[18May2025 00:12:17.840] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NpcEntity['NPC'/45241, l='ServerLevel[world]', x=376.50, y=66.50, z=-187.50] died: NPC fell out of the world
+[18May2025 00:14:04.055] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 00:14:14.139] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 00:14:14.151] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 00:14:30.394] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
+[18May2025 00:14:30.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
+[18May2025 00:14:30.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
+[18May2025 00:14:30.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
