@@ -119,6 +119,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-05-18 14:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-18 13:50:47 +0000"
@@ -185,6 +197,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_shovel": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
@@ -206,6 +224,12 @@
   "minecraft:recipes/decorations/torch": {
     "criteria": {
       "has_the_recipe": "2025-05-18 13:54:50 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },
@@ -257,9 +281,27 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/boiled_emu_egg_smoke": {
+    "criteria": {
+      "has_items": "2025-05-18 14:27:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-18 12:47:10 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/boiled_emu_egg": {
+    "criteria": {
+      "has_items": "2025-05-18 14:27:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },
@@ -305,6 +347,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-05-18 14:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 14:12:57 +0000"
@@ -332,6 +380,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 14:12:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_chiseled_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
     },
     "done": true
   },
@@ -461,9 +515,27 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab": {
+    "criteria": {
+      "has_block": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/birch": {
     "criteria": {
       "has_wood": "2025-05-18 13:22:25 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/boiled_emu_egg_campfire": {
+    "criteria": {
+      "has_items": "2025-05-18 14:27:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/keypad_item": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 14:35:05 +0000"
     },
     "done": true
   },
@@ -689,6 +761,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_button": {
+    "criteria": {
+      "has_block": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_stairs": {
     "criteria": {
       "has_planks": "2025-05-18 13:05:52 +0000"
@@ -773,6 +851,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-05-18 14:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-18 14:09:09 +0000"
@@ -791,6 +875,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 13:46:31 +0000",
@@ -798,9 +888,27 @@
     },
     "done": false
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_stairs": {
+    "criteria": {
+      "has_block": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-05-18 14:28:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-05-18 13:22:25 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },
@@ -849,6 +957,12 @@
   "supplementaries:recipes/sign_post_minecraft/birch": {
     "criteria": {
       "has_plank": "2025-05-18 13:50:47 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },
@@ -1008,6 +1122,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_wall_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "comforts:sleeping_bag_green_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-05-18 13:47:46 +0000"
@@ -1041,6 +1161,12 @@
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-05-18 13:47:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_normal_stone_slab_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
     },
     "done": true
   },
@@ -1080,6 +1206,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks": {
+    "criteria": {
+      "has_block": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
       "has_white_wool": "2025-05-18 13:47:22 +0000"
@@ -1107,6 +1239,12 @@
   "minecraft:recipes/decorations/painting": {
     "criteria": {
       "has_wool": "2025-05-18 13:47:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone_bricks_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
     },
     "done": true
   },
@@ -1173,6 +1311,12 @@
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2025-05-18 13:47:22 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },
@@ -1434,6 +1578,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_smooth_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-05-18 13:05:52 +0000"
@@ -1485,6 +1635,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 13:56:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },
@@ -1796,6 +1952,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_stone_brick_stairs_from_reinforced_stone_stonecutting": {
+    "criteria": {
+      "has_reinforced_stone": "2025-05-18 14:33:37 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite": {
     "criteria": {
       "has_diorite": "2025-05-18 13:53:05 +0000"
@@ -1889,6 +2051,12 @@
   "securitycraft:recipes/securitycraft/disguise_module": {
     "criteria": {
       "has_iron": "2025-05-18 14:12:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-05-18 14:28:15 +0000"
     },
     "done": true
   },

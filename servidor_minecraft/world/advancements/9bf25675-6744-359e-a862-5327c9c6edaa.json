@@ -377,6 +377,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keypad_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-18 14:35:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/secret_spruce_sign_item": {
     "criteria": {
       "has_sign": "2025-05-07 12:25:31 +0000"
@@ -864,6 +870,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/moss_carpet": {
+    "criteria": {
+      "has_moss_block": "2025-05-18 14:32:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-18 13:50:10 +0000"
@@ -933,6 +945,12 @@
   "securitycraft:recipes/securitycraft/smart_module": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_cobblestone_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-18 14:32:02 +0000"
     },
     "done": true
   },
@@ -1360,6 +1378,12 @@
   "securitycraft:recipes/securitycraft/reinforced_cyan_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-18 12:49:54 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-05-18 14:27:01 +0000"
     },
     "done": true
   },
@@ -2107,6 +2131,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/scanner_door_item": {
+    "criteria": {
+      "has_reinforced_door": "2025-05-18 14:35:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-05-11 18:34:01 +0000"
@@ -2122,6 +2152,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv3": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-18 14:32:02 +0000"
     },
     "done": true
   },
@@ -2239,6 +2275,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_mossy_stone_bricks_from_vanilla_moss": {
+    "criteria": {
+      "has_moss": "2025-05-18 14:32:02 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_black_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 12:49:54 +0000"
@@ -2254,6 +2296,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-05-18 13:50:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_moss_block": {
+    "criteria": {
+      "has_moss_block": "2025-05-18 14:32:02 +0000"
     },
     "done": true
   },
