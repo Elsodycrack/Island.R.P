@@ -223,3 +223,17 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 11:54:46.246] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Disconnected
 [18May2025 11:54:46.246] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
 [18May2025 11:54:46.249] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 11:56:02.199] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (398.52218403448927, 68.99384026312828, -191.0009142190567).
+ Impact position: BlockPos{x=400, y=62, z=-192}. Hole Size: 7. Creative: true
+[18May2025 11:59:35.555] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@330a7f8d
+[18May2025 11:59:35.562] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Race_Driguer[/127.199.241.172:56743] logged in with entity id 12631 at (372.4791151935272, 65.25220334025373, -196.93230006914115)
+[18May2025 11:59:35.571] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
+[18May2025 11:59:36.797] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
+[18May2025 11:59:36.798] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
+[18May2025 12:00:13.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 8249 blocks]
+[18May2025 12:00:36.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[18May2025 12:00:36.102] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[18May2025 12:00:36.102] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 12:00:40.299] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Disconnected
+[18May2025 12:00:40.299] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 12:00:40.299] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
