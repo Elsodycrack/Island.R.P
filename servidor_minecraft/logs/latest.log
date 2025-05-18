@@ -209,3 +209,8 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [17May2025 23:50:54.129] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 72 blocks]
 [17May2025 23:51:12.047] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> Elsodycrack
 [17May2025 23:54:06.468] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 1768 blocks]
+[17May2025 23:54:46.488] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 825 blocks]
+[17May2025 23:55:39.742] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (671.0636450574315, 63.0, -755.7328096855275).
+ Impact position: BlockPos{x=670, y=62, z=-752}. Hole Size: 7. Creative: true
+[17May2025 23:55:42.180] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (670.9779226984472, 68.94466280805209, -755.3159641802233).
+ Impact position: BlockPos{x=668, y=62, z=-755}. Hole Size: 55. Creative: true

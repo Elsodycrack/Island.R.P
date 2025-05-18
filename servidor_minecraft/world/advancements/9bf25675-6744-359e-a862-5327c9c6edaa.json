@@ -125,6 +125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_coal": "2025-05-18 00:02:31 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_spruce_stairs": {
     "criteria": {
       "has_block": "2025-05-17 23:43:17 +0000"
@@ -1040,6 +1046,12 @@
   "securitycraft:recipes/securitycraft/keycard_lv5": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-05-18 00:02:31 +0000"
     },
     "done": true
   },
