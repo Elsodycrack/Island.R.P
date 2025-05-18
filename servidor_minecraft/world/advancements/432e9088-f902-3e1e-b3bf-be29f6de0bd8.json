@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_oak_stairs": {
+    "criteria": {
+      "has_block": "2025-05-18 14:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_pickaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 14:12:57 +0000"
@@ -314,6 +320,12 @@
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-05-18 14:12:57 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_button": {
+    "criteria": {
+      "has_block": "2025-05-18 14:39:43 +0000"
     },
     "done": true
   },
@@ -1248,6 +1260,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_oak_slab": {
+    "criteria": {
+      "has_block": "2025-05-18 14:39:43 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/scanner_door_item": {
     "criteria": {
       "has_reinforced_door": "2025-05-18 14:15:50 +0000"
@@ -1725,6 +1743,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 13:56:34 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_oak_pressure_plate": {
+    "criteria": {
+      "has_block": "2025-05-18 14:39:43 +0000"
     },
     "done": true
   },
