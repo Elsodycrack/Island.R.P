@@ -1368,3 +1368,51 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
  Impact position: BlockPos{x=363, y=56, z=-168}. Hole Size: 499. Creative: true
 [18May2025 13:06:04.101] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (372.1257541996393, 60.200000047683716, -169.3401163673835).
  Impact position: BlockPos{x=368, y=60, z=-163}. Hole Size: 417. Creative: true
+[18May2025 13:06:07.147] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (372.30000001192093, 60.200000047683716, -168.30000001192093).
+ Impact position: BlockPos{x=368, y=61, z=-164}. Hole Size: 323. Creative: true
+[18May2025 13:06:14.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 13:07:17.248] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (368.69999998807907, 60.62607073523695, -174.30000001192093).
+ Impact position: BlockPos{x=368, y=53, z=-175}. Hole Size: 9. Creative: true
+[18May2025 13:07:51.349] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (362.28297801186847, 65.24341321608179, -173.38205593807643).
+ Impact position: BlockPos{x=364, y=62, z=-174}. Hole Size: 0. Creative: true
+[18May2025 13:07:52.997] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.1828250161086, 65.24341321608179, -173.00299599101825).
+ Impact position: BlockPos{x=368, y=62, z=-174}. Hole Size: 8. Creative: true
+[18May2025 13:07:54.646] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (360.5302177800633, 65.24341321608179, -174.13966281612664).
+ Impact position: BlockPos{x=354, y=62, z=-175}. Hole Size: 66. Creative: true
+[18May2025 13:08:00.947] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was shot by Carlesneri
+[18May2025 13:08:19.448] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 13:08:42.449] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (353.3343718798169, 66.17947949880815, -180.27989235945444).
+ Impact position: BlockPos{x=352, y=62, z=-181}. Hole Size: 0. Creative: true
+[18May2025 13:08:43.648] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (353.7281336693113, 66.24341321608179, -179.18975653043097).
+ Impact position: BlockPos{x=358, y=63, z=-183}. Hole Size: 0. Creative: true
+[18May2025 13:08:44.747] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (356.52982579747317, 66.24341321608179, -180.45360951985307).
+ Impact position: BlockPos{x=358, y=62, z=-180}. Hole Size: 70. Creative: true
+[18May2025 13:09:11.298] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (365.48197897175237, 66.55955267918141, -174.80808712546298).
+ Impact position: BlockPos{x=367, y=62, z=-177}. Hole Size: 51. Creative: true
+[18May2025 13:09:42.500] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (343.94491506079453, 66.6288183244807, -165.89092522829932).
+ Impact position: BlockPos{x=344, y=62, z=-159}. Hole Size: 65. Creative: true
+[18May2025 13:10:04.346] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (329.61109222547486, 68.88082983402323, -166.22077195959494).
+ Impact position: BlockPos{x=335, y=62, z=-167}. Hole Size: 18. Creative: true
+[18May2025 13:10:19.196] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (323.4142805504517, 74.24536183772294, -182.33530370319923).
+ Impact position: BlockPos{x=323, y=63, z=-183}. Hole Size: 5. Creative: true
+[18May2025 13:11:13.712] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 13:12:00.765] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 13:12:10.165] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 13:12:38.147] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Kicked Race_Driguer: Kicked by an operator]
+[18May2025 13:12:38.199] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Kicked by an operator
+[18May2025 13:12:38.200] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 13:12:38.200] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 13:12:58.750] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4e177bfd
+[18May2025 13:12:58.754] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Race_Driguer[/127.199.241.172:51951] logged in with entity id 26456 at (1043.8829109725423, 63.49520087700592, -251.45999084143955)
+[18May2025 13:12:58.760] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
+[18May2025 13:12:59.085] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
+[18May2025 13:12:59.085] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
+[18May2025 13:13:23.324] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by Carlesneri
+[18May2025 13:13:35.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 13:15:10.247] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Disconnected
+[18May2025 13:15:10.248] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
+[18May2025 13:15:10.248] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
+[18May2025 13:15:53.949] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Disconnected
+[18May2025 13:15:53.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 13:15:53.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 13:16:02.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]

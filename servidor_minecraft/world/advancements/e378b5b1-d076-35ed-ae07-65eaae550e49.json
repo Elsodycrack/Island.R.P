@@ -1651,6 +1651,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/misc/cockroach_wing": {
+    "criteria": {
+      "has_items": "2025-05-18 13:09:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-17 22:34:59 +0000"
