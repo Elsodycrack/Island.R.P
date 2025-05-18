@@ -15,3 +15,22 @@
 [18May2025 00:14:30.556] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
 [18May2025 00:14:30.722] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
 [18May2025 00:14:30.979] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=50, z=-367} BlockPos{x=376, y=64, z=-191}
+[18May2025 00:18:11.028] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 00:18:49.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=375, y=63, z=-189} BlockPos{x=376, y=63, z=-190}
+[18May2025 00:21:05.978] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (339.78060565967155, 64.0, -225.11717076146738).
+ Impact position: BlockPos{x=340, y=64, z=-224}. Hole Size: 5. Creative: true
+[18May2025 00:21:49.443] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity NpcEntity['Pedro'/8875, l='ServerLevel[world]', x=340.50, y=64.00, z=-223.50] died: Pedro fell out of the world
+[18May2025 00:23:36.674] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (297.48750001192093, 67.0, -246.0554779687252).
+ Impact position: BlockPos{x=296, y=67, z=-237}. Hole Size: 21. Creative: true
+[18May2025 00:23:53.427] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (298.79047726383317, 67.0, -246.92443237056227).
+ Impact position: BlockPos{x=306, y=67, z=-256}. Hole Size: 0. Creative: true
+[18May2025 00:23:54.724] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (300.96866170615465, 67.0, -247.93442407384342).
+ Impact position: BlockPos{x=303, y=67, z=-256}. Hole Size: 0. Creative: true
+[18May2025 00:23:55.976] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (302.4471369358477, 67.0, -251.1050933074988).
+ Impact position: BlockPos{x=306, y=67, z=-264}. Hole Size: 0. Creative: true
+[18May2025 00:24:02.532] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (300.5680786158447, 67.0, -256.68591816254866).
+ Impact position: BlockPos{x=293, y=61, z=-256}. Hole Size: 328. Creative: true
+[18May2025 00:24:18.227] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (300.30515087551936, 67.0, -256.0729566620555).
+ Impact position: BlockPos{x=292, y=61, z=-256}. Hole Size: 328. Creative: true
+[18May2025 00:24:26.879] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (300.69362501326344, 67.0, -255.57225900901244).
+ Impact position: BlockPos{x=297, y=64, z=-257}. Hole Size: 19. Creative: true
