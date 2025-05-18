@@ -2823,3 +2823,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 16:16:03.250] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (672.8774605585335, 66.28271854438606, -805.7194635143995).
  Impact position: BlockPos{x=670, y=63, z=-802}. Hole Size: 0. Creative: true
 [18May2025 16:16:18.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 16:19:14.481] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 16:19:27.847] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[18May2025 16:19:27.847] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[18May2025 16:19:27.848] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 16:20:24.398] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@69b87eb7
+[18May2025 16:20:24.404] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:44413] logged in with entity id 102273 at (396.2025504626942, 64.0, -202.34388320259615)
+[18May2025 16:20:24.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[18May2025 16:20:24.826] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[18May2025 16:20:24.827] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[18May2025 16:20:40.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[18May2025 16:20:40.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[18May2025 16:20:40.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 16:22:11.300] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5e694fa8
+[18May2025 16:22:11.306] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:48569] logged in with entity id 102309 at (387.58838099156446, 64.0, -198.3880162476048)
+[18May2025 16:22:11.313] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[18May2025 16:22:11.705] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[18May2025 16:22:11.705] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[18May2025 16:22:34.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[18May2025 16:22:34.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[18May2025 16:22:34.492] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 16:23:21.202] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6e803702
+[18May2025 16:23:21.209] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:51505] logged in with entity id 102361 at (398.1077901856945, 66.00063554902955, -199.38746545887943)
+[18May2025 16:23:21.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[18May2025 16:23:21.609] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[18May2025 16:23:21.609] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[18May2025 16:23:50.807] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer has made the advancement [Withering Heights]
+[18May2025 16:25:18.443] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was shot by a skull from Wither
+[18May2025 16:25:49.934] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 16:25:53.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer was kicked for floating too long!
+[18May2025 16:25:53.607] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: Flying is not enabled on this server
+[18May2025 16:25:53.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 16:25:53.607] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 16:26:20.546] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6d770959
+[18May2025 16:26:20.551] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Race_Driguer[/127.199.241.172:34633] logged in with entity id 103009 at (387.9140683544622, 64.0, -197.27000439064824)
+[18May2025 16:26:20.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
+[18May2025 16:26:20.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
+[18May2025 16:26:20.756] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
