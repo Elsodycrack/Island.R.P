@@ -107,6 +107,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_lever": {
+    "criteria": {
+      "has_cobble": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/crafting_table": {
     "criteria": {
       "has_the_recipe": "2025-05-11 17:37:02 +0000"
@@ -254,6 +260,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-05-17 22:34:59 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_andesite_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -558,6 +570,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_wall": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "supplementaries:recipes/hanging_sign_minecraft/acacia": {
     "criteria": {
       "has_plank": "2025-05-11 19:53:45 +0000"
@@ -573,6 +591,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-05-18 00:12:54 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/retinal_scanner": {
+    "criteria": {
+      "has_stone": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -690,6 +714,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/make_a_sign_glow": {
+    "criteria": {
+      "make_a_sign_glow": "2025-05-18 15:32:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-05-17 23:48:34 +0000"
@@ -732,6 +762,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_stairs_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-17 22:14:08 +0000"
@@ -765,6 +801,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-11 17:36:23 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_slab": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -969,6 +1011,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_helmet": "2025-05-11 17:13:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_stone": {
+    "criteria": {
+      "has_item": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -1239,6 +1287,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_dark_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-11 17:36:30 +0000"
@@ -1302,6 +1356,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-18 13:47:29 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_andesite_stairs_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -1371,6 +1431,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-11 17:36:30 +0000"
@@ -1419,6 +1485,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/inventory_scanner": {
+    "criteria": {
+      "has_stone": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/harming_module": {
     "criteria": {
       "has_iron": "2025-05-17 23:48:36 +0000"
@@ -1446,6 +1518,12 @@
   "alexsmobs:recipes/combat/flying_fish_boots": {
     "criteria": {
       "has_items": "2025-05-11 17:33:55 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -1769,6 +1847,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/keycard_reader": {
+    "criteria": {
+      "has_stone": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-05-11 17:46:12 +0000"
@@ -1802,6 +1886,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2025-05-18 11:46:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_wall": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_stairs_from_reinforced_cobblestone_stonecutting": {
+    "criteria": {
+      "has_reinforced_cobblestone": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -1928,6 +2024,12 @@
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2025-05-11 17:36:30 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_polished_andesite": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -2066,6 +2168,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2025-05-18 11:47:00 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_cobblestone_slab": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
@@ -2225,6 +2333,18 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_wall_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_stairs": {
+    "criteria": {
+      "has_block": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-05-11 17:46:12 +0000"
@@ -2237,15 +2357,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/compass": {
-    "criteria": {
-      "has_redstone": "2025-05-18 15:05:45 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_red_from_white": {
     "criteria": {
       "has_sleeping_bag": "2025-05-18 15:05:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-05-18 15:05:45 +0000"
     },
     "done": true
   },
@@ -2387,6 +2507,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_polished_andesite_slab_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-05-18 15:24:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs": {
     "criteria": {
       "has_stone": "2025-05-18 13:42:51 +0000"
@@ -2408,6 +2534,12 @@
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2025-05-18 11:46:51 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_andesite_slab_from_reinforced_andesite_stonecutting": {
+    "criteria": {
+      "has_reinforced_andesite": "2025-05-18 15:24:51 +0000"
     },
     "done": true
   },
