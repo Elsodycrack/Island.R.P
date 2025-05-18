@@ -275,6 +275,12 @@
     },
     "done": true
   },
+  "securitycraft:recipes/securitycraft/reinforced_glass": {
+    "criteria": {
+      "has_item": "2025-05-18 14:52:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2025-05-09 10:52:15 +0000"
@@ -485,6 +491,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brick_stairs": {
     "criteria": {
       "has_bricks": "2025-05-07 14:48:34 +0000"
@@ -596,6 +608,12 @@
   "securitycraft:recipes/securitycraft/reinforced_purple_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-18 12:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
     },
     "done": true
   },
@@ -1351,6 +1369,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
       "has_chicken": "2025-05-07 12:09:39 +0000"
@@ -1360,6 +1384,12 @@
   "securitycraft:recipes/securitycraft/reinforced_lime_stained_glass_pane_from_glass": {
     "criteria": {
       "has_glass": "2025-05-18 12:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
     },
     "done": true
   },
@@ -1411,6 +1441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_oak_stairs": {
     "criteria": {
       "has_block": "2025-05-11 18:31:14 +0000"
@@ -1432,6 +1468,12 @@
   "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2025-05-11 18:14:27 +0000"
+    },
+    "done": true
+  },
+  "securitycraft:recipes/securitycraft/reinforced_sandstone": {
+    "criteria": {
+      "has_block": "2025-05-18 14:52:23 +0000"
     },
     "done": true
   },
@@ -1783,6 +1825,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/iron_hoe": {
     "criteria": {
       "has_iron_ingot": "2025-05-17 21:35:13 +0000"
@@ -1828,6 +1876,12 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-05-18 13:26:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
     },
     "done": true
   },
@@ -2191,6 +2245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/coal_block": {
     "criteria": {
       "has_coal": "2025-05-18 00:02:31 +0000"
@@ -2389,6 +2449,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-18 13:25:02 +0000"
@@ -2512,6 +2578,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-05-17 23:04:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-05-18 14:50:44 +0000"
     },
     "done": true
   },
