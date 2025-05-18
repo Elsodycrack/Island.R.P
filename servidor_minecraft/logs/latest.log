@@ -2860,3 +2860,18 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 16:26:20.555] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
 [18May2025 16:26:20.756] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
 [18May2025 16:26:20.756] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
+[18May2025 16:29:42.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[18May2025 16:32:53.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[18May2025 16:33:24.630] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[18May2025 16:35:37.194] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal was shot by a skull from Wither
+[18May2025 16:35:45.559] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 16:35:50.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal was slain by Race_Driguer
+[18May2025 16:36:05.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[18May2025 16:36:12.123] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 16:37:02.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer was slain by SodyYToriginal
+[18May2025 16:37:49.403] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 16:38:10.108] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Banned Race_Driguer: Banned by an operator.]
+[18May2025 16:38:10.156] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Race_Driguer lost connection: You are banned from this server
+[18May2025 16:38:10.157] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
+[18May2025 16:38:10.157] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
+[18May2025 16:38:50.793] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5290b855[id=<null>,name=Race_Driguer,properties={},legacy=false] (/127.199.241.172:55049) lost connection: Disconnected
