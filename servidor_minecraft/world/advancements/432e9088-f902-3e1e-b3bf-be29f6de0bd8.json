@@ -1091,11 +1091,14 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:taiga": "2025-05-18 13:45:52 +0000",
+      "minecraft:deep_ocean": "2025-05-18 20:10:27 +0000",
       "minecraft:beach": "2025-05-18 12:41:23 +0000",
+      "minecraft:river": "2025-05-18 20:06:39 +0000",
       "minecraft:cold_ocean": "2025-05-18 12:59:23 +0000",
       "minecraft:forest": "2025-05-18 12:41:47 +0000",
       "minecraft:desert": "2025-05-18 13:17:39 +0000",
       "minecraft:ocean": "2025-05-18 13:11:45 +0000",
+      "minecraft:old_growth_birch_forest": "2025-05-18 20:17:16 +0000",
       "minecraft:plains": "2025-05-18 13:12:25 +0000"
     },
     "done": false
@@ -1932,6 +1935,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-05-18 20:26:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobbled_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-05-18 13:56:34 +0000"
@@ -2445,6 +2454,12 @@
   "minecraft:recipes/building_blocks/sandstone_slab_from_sandstone_stonecutting": {
     "criteria": {
       "has_sandstone": "2025-05-18 14:50:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-05-18 20:26:38 +0000"
     },
     "done": true
   },

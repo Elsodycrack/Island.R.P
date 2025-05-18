@@ -891,6 +891,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-05-18 20:03:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-05-18 13:25:02 +0000"
@@ -1119,6 +1125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_poppy": {
+    "criteria": {
+      "has_poppy": "2025-05-18 20:03:23 +0000"
+    },
+    "done": true
+  },
   "twilightforest:alt/treasures/glass_sword": {
     "criteria": {
       "has_item": "2025-05-07 12:02:09 +0000"
@@ -1134,6 +1146,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-05-18 13:25:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-05-18 20:03:20 +0000"
     },
     "done": true
   },
@@ -3144,6 +3162,12 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2025-05-09 10:57:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-05-18 20:03:26 +0000"
     },
     "done": true
   },

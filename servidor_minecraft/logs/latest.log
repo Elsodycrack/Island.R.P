@@ -161,3 +161,39 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 19:23:46.767] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
 [18May2025 19:43:46.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
 [18May2025 19:59:13.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
+[18May2025 20:06:21.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b2e2ac9
+[18May2025 20:06:21.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:38359] logged in with entity id 20866 at (224.23599768314446, -11.0, -238.07409484427814)
+[18May2025 20:06:21.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
+[18May2025 20:06:21.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
+[18May2025 20:06:21.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
+[18May2025 20:06:29.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[18May2025 20:06:52.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[18May2025 20:08:28.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 20:17:19.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 20:26:17.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -1.2810347939446274,2.1818703872477556,9.967959857451149
+[18May2025 20:26:38.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Ice Bucket Challenge]
+[18May2025 20:26:42.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.056180970463515,0.0,-8.130543144389947
+[18May2025 20:26:48.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.6328388581903255,0.0,-8.631511178015955
+[18May2025 20:26:51.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.761610427856681,0.0,-8.394317731443039
+[18May2025 20:26:53.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.166724653597157,0.0,-8.024942851362141
+[18May2025 20:26:55.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.166724653597157,0.0,-8.024942851362141
+[18May2025 20:26:57.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.469770081729621,0.0,-8.41930491205676
+[18May2025 20:27:02.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.064565296852038,0.0,-7.710044053063598
+[18May2025 20:27:06.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -0.17225080425373562,0.0,-10.078227807174017
+[18May2025 20:27:11.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.106042026975047,0.0,-7.9750447890003215
+[18May2025 20:27:24.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 3.684689225162856,3.3750001341104507,-9.061717349829678
+[18May2025 20:27:27.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 1.3097896158865296,-11.09197557055839,-1.8843547236932636
+[18May2025 20:27:29.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 4.925470199937195,0.7033440279483756,-9.349836693600196
+[18May2025 20:28:30.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Timed out
+[18May2025 20:28:30.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[18May2025 20:28:30.118] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 20:28:30.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 20:28:53.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Timed out
+[18May2025 20:28:53.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
+[18May2025 20:28:53.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
+[18May2025 20:29:32.614] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@154d09bf[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:34447): Took too long to log in
+[18May2025 20:29:32.617] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@154d09bf[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:34447) lost connection: Took too long to log in
+[18May2025 20:29:32.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[18May2025 20:30:01.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@27dabce9[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:50169): Took too long to log in
+[18May2025 20:30:01.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27dabce9[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:50169) lost connection: Took too long to log in
+[18May2025 20:30:01.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
