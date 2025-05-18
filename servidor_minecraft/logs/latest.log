@@ -1416,3 +1416,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 13:15:53.949] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer left the game
 [18May2025 13:15:53.950] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Race_Driguer
 [18May2025 13:16:02.649] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
+[18May2025 13:16:32.699] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3fad1663
+[18May2025 13:16:32.704] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:50057] logged in with entity id 27323 at (1092.2078904670082, 75.0, -231.23058765789983)
+[18May2025 13:16:32.710] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
+[18May2025 13:16:33.212] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
+[18May2025 13:16:33.213] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
+[18May2025 13:16:52.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri was slain by SodyYToriginal
+[18May2025 13:17:04.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 13:17:41.282] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 13:17:53.686] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 13:18:18.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 13:19:18.401] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@803b729
+[18May2025 13:19:18.406] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Race_Driguer[/127.199.241.172:44315] logged in with entity id 28477 at (1081.0175919355197, 75.0, -230.71546299651396)
+[18May2025 13:19:18.411] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Race_Driguer joined the game
+[18May2025 13:19:19.600] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Race_Driguer (18)
+[18May2025 13:19:19.601] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Race_Driguer
+[18May2025 13:19:25.927] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Race_Driguer to SodyYToriginal]
+[18May2025 13:21:13.230] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[18May2025 13:26:17.904] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Ice Bucket Challenge]
