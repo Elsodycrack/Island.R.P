@@ -671,6 +671,12 @@
     },
     "done": true
   },
+  "alexsmobs:recipes/food/cooked_lobster_tail_campfire": {
+    "criteria": {
+      "has_items": "2025-05-18 12:58:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-05-09 10:51:58 +0000"
@@ -770,6 +776,12 @@
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_logs": "2025-05-11 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:recipes/food/cooked_lobster_tail": {
+    "criteria": {
+      "has_items": "2025-05-18 12:58:00 +0000"
     },
     "done": true
   },
@@ -928,6 +940,12 @@
       "minecraft:skeleton": "2025-05-17 23:25:52 +0000"
     },
     "done": false
+  },
+  "alexsmobs:recipes/food/cooked_lobster_tail_smoke": {
+    "criteria": {
+      "has_items": "2025-05-18 12:58:00 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/reinforced_purple_carpet": {
     "criteria": {

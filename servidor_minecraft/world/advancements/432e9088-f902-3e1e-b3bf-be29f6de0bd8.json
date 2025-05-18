@@ -56,17 +56,12 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-18 12:41:23 +0000",
+      "minecraft:cold_ocean": "2025-05-18 12:59:23 +0000",
       "minecraft:forest": "2025-05-18 12:41:47 +0000"
     },
     "done": false
   },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence": {
-    "criteria": {
-      "has_stick": "2025-05-18 12:50:16 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
     },
@@ -78,13 +73,13 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/wooden_pickaxe": {
+  "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/ladder": {
+  "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
     },
@@ -96,9 +91,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2025-05-18 12:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-05-18 12:47:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 12:56:18 +0000"
     },
     "done": true
   },
@@ -120,6 +127,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 12:56:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/sc_manual": {
     "criteria": {
       "has_wood": "2025-05-18 12:50:14 +0000"
@@ -138,6 +151,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 12:56:18 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_birch_fence": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
@@ -153,6 +172,12 @@
   "securitycraft:recipes/securitycraft/reinforced_oak_fence": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 12:56:18 +0000"
     },
     "done": true
   },
@@ -177,6 +202,12 @@
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 12:56:18 +0000"
     },
     "done": true
   },
@@ -210,15 +241,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/tools/wooden_hoe": {
-    "criteria": {
-      "has_stick": "2025-05-18 12:50:16 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-05-18 12:48:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2025-05-18 12:50:16 +0000"
     },
     "done": true
   },
@@ -279,6 +310,12 @@
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-05-18 12:56:18 +0000"
     },
     "done": true
   },
