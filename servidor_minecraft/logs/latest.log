@@ -360,3 +360,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 20:34:42.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
 [18May2025 20:36:48.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
 [18May2025 20:37:15.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
+[18May2025 20:41:41.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
+[18May2025 20:43:02.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[18May2025 20:43:02.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[18May2025 20:43:02.409] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 20:45:38.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [It's an Emu!!!]
+[18May2025 20:49:56.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Disconnected
+[18May2025 20:49:56.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
+[18May2025 20:49:56.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
