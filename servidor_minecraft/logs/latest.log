@@ -147,3 +147,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 19:06:18.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
 [18May2025 19:06:18.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
 [18May2025 19:06:18.670] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[18May2025 19:14:32.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri was slain by Tiger
+[18May2025 19:16:23.431] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58f38e82
+[18May2025 19:16:23.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:33291] logged in with entity id 12445 at (416.5693524100971, 72.5437104915454, -402.3611101481795)
+[18May2025 19:16:23.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[18May2025 19:16:23.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[18May2025 19:16:23.568] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[18May2025 19:17:37.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[18May2025 19:18:01.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri fell from a high place
+[18May2025 19:18:18.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
