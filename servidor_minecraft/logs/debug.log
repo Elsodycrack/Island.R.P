@@ -7584,3 +7584,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [18May2025 14:57:07.470] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [18May2025 14:57:07.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [18May2025 14:57:47.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
+[18May2025 15:00:22.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 15:00:54.845] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=45, z=-368} BlockPos{x=393, y=44, z=-368}
+[18May2025 15:00:54.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=45, z=-368} BlockPos{x=393, y=44, z=-368}
+[18May2025 15:00:55.233] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=46, z=-368} BlockPos{x=393, y=45, z=-368}
+[18May2025 15:00:55.450] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=393, y=46, z=-368} BlockPos{x=393, y=45, z=-368}
+[18May2025 15:02:07.471] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 15:02:07.484] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 15:02:41.923] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=68, z=-193}
+[18May2025 15:02:42.476] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=68, z=-193}
+[18May2025 15:02:42.978] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=67, z=-193}
+[18May2025 15:02:43.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=67, z=-193}
+[18May2025 15:02:43.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=66, z=-193}
+[18May2025 15:02:43.984] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=66, z=-194}
+[18May2025 15:02:44.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=360, y=67, z=-194}
+[18May2025 15:02:44.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=315, y=66, z=-300} BlockPos{x=359, y=64, z=-195}
+[18May2025 15:03:59.360] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> no, pero le he roto un bloque de el suelo, debajo de su cama
+[18May2025 15:06:35.419] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Race_Driguer]
+[18May2025 15:07:04.604] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[18May2025 15:07:07.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 15:07:07.493] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 15:08:45.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 109 blocks]
+[18May2025 15:09:10.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [No Step on Snake]
+[18May2025 15:09:25.603] [Server thread/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: SodyYToriginal threw a [Hole Filler - Choice] from (382.6938737757962, 69.84759601725442, -198.81060503384862).
+ Impact position: BlockPos{x=387, y=63, z=-194}. Hole Size: 58. Creative: true
+[18May2025 15:10:16.307] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 96 blocks]
+[18May2025 15:11:06.755] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 114 blocks]
+[18May2025 15:11:59.955] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 57 blocks]
+[18May2025 15:12:07.483] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 15:12:07.497] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 15:13:19.877] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Successfully filled 610 blocks]
+[18May2025 15:15:59.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Spooky Scary Skeleton]
+[18May2025 15:17:07.479] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[18May2025 15:17:07.494] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[18May2025 15:17:56.006] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Withering Heights]
+[18May2025 15:17:56.007] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal has made the advancement [Withering Heights]

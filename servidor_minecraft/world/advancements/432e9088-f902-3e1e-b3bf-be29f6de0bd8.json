@@ -409,7 +409,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "cooked_porkchop": "2025-05-18 12:49:04 +0000"
+      "cooked_porkchop": "2025-05-18 12:49:04 +0000",
+      "enchanted_golden_apple": "2025-05-18 15:15:27 +0000"
     },
     "done": false
   },
@@ -506,6 +507,12 @@
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-05-18 13:56:59 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/rattlesnake": {
+    "criteria": {
+      "killed": "2025-05-18 15:09:10 +0000"
     },
     "done": true
   },
@@ -1809,6 +1816,12 @@
   "securitycraft:recipes/securitycraft/trophy_system": {
     "criteria": {
       "has_iron": "2025-05-18 14:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-18 14:59:55 +0000"
     },
     "done": true
   },

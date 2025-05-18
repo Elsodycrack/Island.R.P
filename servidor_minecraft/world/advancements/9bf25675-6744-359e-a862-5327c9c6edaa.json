@@ -287,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-18 15:06:15 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/electrified_iron_fence": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
@@ -404,6 +410,12 @@
   "supplementaries:recipes/sign_post_minecraft/dark_oak": {
     "criteria": {
       "has_plank": "2025-05-18 13:25:02 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_light_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -641,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-18 15:06:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/root": {
     "criteria": {
       "killed_something": "2025-05-07 12:02:22 +0000"
@@ -846,6 +864,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_green_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
+  },
   "framedblocks:recipes/framed_blocks/framed_cube": {
     "criteria": {
       "hasPlanks": "2025-05-07 12:11:39 +0000"
@@ -954,6 +978,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_purple_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
+  },
   "mcwfurnitures:recipes/oak": {
     "criteria": {
       "has_wood": "2025-05-17 23:01:36 +0000"
@@ -987,6 +1017,12 @@
   "alexsmobs:alexsmobs/banana": {
     "criteria": {
       "banana": "2025-05-17 21:37:01 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_orange_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -1029,6 +1065,12 @@
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_brown_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -1158,6 +1200,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_magenta_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2025-05-18 11:53:45 +0000"
@@ -1194,6 +1242,13 @@
       "minecraft:plains": "2025-05-07 11:25:07 +0000"
     },
     "done": false
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 15:03:25 +0000",
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
   },
   "securitycraft:recipes/securitycraft/whitelist_module": {
     "criteria": {
@@ -1273,6 +1328,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_pink_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_magenta_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-18 12:49:54 +0000"
@@ -1288,6 +1349,12 @@
   "minecraft:recipes/building_blocks/light_gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-05-18 13:27:37 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_yellow_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -1342,6 +1409,13 @@
   "twilightforest:alt/treasures/tools": {
     "criteria": {
       "has_glass": "2025-05-07 12:02:09 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_cyan_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-05-18 15:03:25 +0000",
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -1411,6 +1485,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-18 15:15:52 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-05-18 14:27:01 +0000"
@@ -1432,6 +1512,12 @@
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_lime_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -1759,6 +1845,12 @@
     },
     "done": true
   },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2025-05-18 15:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_sand": "2025-05-07 11:40:23 +0000"
@@ -1993,6 +2085,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_light_gray_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_white_carpet": {
     "criteria": {
       "has_wool": "2025-05-07 12:30:02 +0000"
@@ -2104,6 +2202,12 @@
   "securitycraft:recipes/securitycraft/bouncing_betty": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_black_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -2347,6 +2451,12 @@
     },
     "done": true
   },
+  "comforts:sleeping_bag_blue_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-05-07 12:11:39 +0000"
@@ -2377,6 +2487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2025-05-18 15:15:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2025-05-17 23:01:36 +0000"
@@ -2386,6 +2502,12 @@
   "minecraft:recipes/food/cooked_salmon": {
     "criteria": {
       "has_salmon": "2025-05-18 13:05:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-18 15:06:15 +0000"
     },
     "done": true
   },
@@ -2422,6 +2544,12 @@
   "securitycraft:recipes/securitycraft/reinforced_light_gray_stained_glass_pane_from_dye": {
     "criteria": {
       "has_glass": "2025-05-18 12:49:54 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_red_from_white": {
+    "criteria": {
+      "has_sleeping_bag": "2025-05-18 15:03:25 +0000"
     },
     "done": true
   },
@@ -2476,6 +2604,12 @@
   "twilightforest:alt/treasures/armors": {
     "criteria": {
       "has_steeleaf": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-05-18 15:06:15 +0000"
     },
     "done": true
   },
@@ -2680,6 +2814,12 @@
   "securitycraft:recipes/securitycraft/reinforced_fence_gate": {
     "criteria": {
       "has_iron": "2025-05-17 21:35:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-18 15:15:52 +0000"
     },
     "done": true
   },
