@@ -170,3 +170,53 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 18:31:01.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
 [19May2025 18:31:07.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> joan
 [19May2025 18:31:22.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> esto es un interrogatorio
+[19May2025 18:32:03.505] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> joan
+[19May2025 18:32:17.895] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[19May2025 18:32:25.231] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to SodyYToriginal]
+[19May2025 18:32:39.563] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> sientate
+[19May2025 18:32:48.808] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> ahi no
+[19May2025 18:33:18.286] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> primero
+[19May2025 18:33:22.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> kue
+[19May2025 18:33:37.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> porque opinas que santi tiene la razon???
+[19May2025 18:33:56.460] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> aqui no te huzgaremos por tu opinion, tranquilo
+[19May2025 18:33:57.608] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0anVad3r lost connection: Disconnected
+[19May2025 18:33:57.609] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r left the game
+[19May2025 18:33:57.609] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client J0anVad3r
+[19May2025 18:34:08.458] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@599c9760
+[19May2025 18:34:08.464] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0anVad3r[/127.20.17.75:58221] logged in with entity id 21603 at (313.5, 68.05000000000001, -292.5)
+[19May2025 18:34:08.472] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r joined the game
+[19May2025 18:34:22.127] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> hola????
+[19May2025 18:34:24.361] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> por que es mi amigo
+[19May2025 18:34:27.111] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r suffocated in a reinforced wall
+[19May2025 18:34:43.242] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to SodyYToriginal]
+[19May2025 18:35:14.256] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to J0anVad3r]
+[19May2025 18:35:27.608] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> sientate
+[19May2025 18:35:35.656] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r was slain by SodyYToriginal
+[19May2025 18:35:46.843] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> vuelve
+[19May2025 18:35:51.038] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> y hagamoslo bien
+[19May2025 18:35:51.061] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to SodyYToriginal]
+[19May2025 18:36:10.894] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> porque has intentado escapar???
+[19May2025 18:36:19.082] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> esto no es una carcel
+[19May2025 18:36:26.010] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> por que me aburo
+[19May2025 18:36:42.573] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> ya pero necesitamos pedirte opinion de las cosad
+[19May2025 18:36:48.206] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> hablemos
+[19May2025 18:36:53.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> ok
+[19May2025 18:37:01.207] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> porque apoyas a santi sabiendo que es culpable???
+[19May2025 18:37:11.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> es porque el es tu amigo???
+[19May2025 18:37:17.069] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> si
+[19May2025 18:38:04.440] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> ya, pero porque??? si sabes que el es culpable y el lo ha hecho mal???
+[19May2025 18:38:17.744] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> lo sabias no???
+[19May2025 18:38:51.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> no pero si
+[19May2025 18:39:00.922] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> especifica
+[19May2025 18:39:17.046] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
+[19May2025 18:39:22.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> por lo que me contasteis si
+[19May2025 18:39:30.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> por lo que vivi no
+[19May2025 18:39:44.042] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> entonces sabe sque el es culpable nO???
+[19May2025 18:39:50.856] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> si
+[19May2025 18:40:35.283] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> no se si sabias que se puede denunciar a la policia lo que ha hecho
+[19May2025 18:40:42.705] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> estas con santi ahora mismo verdad?
+[19May2025 18:40:59.316] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> si
+[19May2025 18:41:21.312] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> porque insultar en u nservidor o liarla incumple la norma del AULA de Minecraft, se podria denunciar
+[19May2025 18:41:31.756] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> ok
+[19May2025 18:41:52.005] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> buscalo si quieres lo he puesto mal es EULA
+[19May2025 18:41:59.806] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> ok
