@@ -151,3 +151,22 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 18:19:26.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri drowned
 [19May2025 18:19:46.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
 [19May2025 18:20:58.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[19May2025 18:23:59.313] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3e2e7c27
+[19May2025 18:23:59.331] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0anVad3r[/127.20.17.75:58269] logged in with entity id 19636 at (322.2594909483205, 65.0, -196.30000001192093)
+[19May2025 18:23:59.349] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r joined the game
+[19May2025 18:24:03.968] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> hola
+[19May2025 18:24:07.363] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> hola
+[19May2025 18:24:10.542] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to J0anVad3r]
+[19May2025 18:24:26.736] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <J0anVad3r> hola boi a acer mi casa
+[19May2025 18:24:33.509] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> salte un momento joan
+[19May2025 18:24:36.669] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: J0anVad3r lost connection: Disconnected
+[19May2025 18:24:36.669] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r left the game
+[19May2025 18:24:36.685] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client J0anVad3r
+[19May2025 18:30:43.059] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@231e930a
+[19May2025 18:30:43.067] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: J0anVad3r[/127.20.17.75:55369] logged in with entity id 21255 at (319.6132561919793, 65.0, -197.3679623858544)
+[19May2025 18:30:43.078] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: J0anVad3r joined the game
+[19May2025 18:30:44.522] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to SodyYToriginal]
+[19May2025 18:30:54.658] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported J0anVad3r to SodyYToriginal]
+[19May2025 18:31:01.976] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[19May2025 18:31:07.080] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> joan
+[19May2025 18:31:22.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <SodyYToriginal> esto es un interrogatorio
