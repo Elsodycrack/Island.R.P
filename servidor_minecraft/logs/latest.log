@@ -1,59 +1,59 @@
-[18May2025 18:59:54.377] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[18May2025 18:59:54.381] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
-[18May2025 18:59:54.778] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Island.R.P/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[18May2025 18:59:55.348] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 18:59:55.350] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 18:59:55.352] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 18:59:55.353] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 18:59:55.507] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[18May2025 18:59:58.332] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18May2025 18:59:58.387] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18May2025 18:59:58.430] [main/WARN] [mixin/]: Reference map 'forgecef-refmap.json' for forgecef.mixins.json could not be read. If this is a development environment you can ignore this message
-[18May2025 18:59:58.494] [main/INFO] [Canary/]: Loaded configuration file for Canary: 124 options available, 0 override(s) found
-[18May2025 18:59:58.575] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 67 options available, 0 override(s) found
-[18May2025 19:00:10.582] [modloading-worker-0/INFO] [MCEF/]: Loading MCEF config...
-[18May2025 19:00:10.587] [modloading-worker-0/INFO] [MCEF/]: MCEF is running on server. Nothing to do.
-[18May2025 19:00:10.875] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loading config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[18May2025 19:00:10.876] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Built config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[18May2025 19:00:10.890] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loaded config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[18May2025 19:00:12.112] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[18May2025 19:00:12.112] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[18May2025 19:00:13.408] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
-[18May2025 19:00:13.409] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
-[18May2025 19:00:13.409] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
-[18May2025 19:00:13.410] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod curios.
-[18May2025 19:00:27.361] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[18May2025 19:00:29.311] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[18May2025 19:00:29.312] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[18May2025 19:00:29.581] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[18May2025 19:00:29.590] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
-[18May2025 19:00:29.775] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[18May2025 19:00:29.801] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[18May2025 19:00:29.801] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[18May2025 19:00:29.802] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[18May2025 19:00:29.831] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[18May2025 19:00:29.838] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
-[18May2025 19:00:30.243] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[18May2025 19:00:30.769] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.30
-[18May2025 19:00:30.772] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[18May2025 19:00:30.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 9.0.0.37 Target: null
-[18May2025 19:00:30.880] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
-[18May2025 19:00:31.220] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@53978cc7]
-[18May2025 19:00:31.238] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[18May2025 19:00:31.601] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 147 ms
-[18May2025 19:00:31.619] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18May2025 19:00:31.631] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18May2025 19:00:32.088] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
-[18May2025 19:00:32.089] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[18May2025 19:00:32.234] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
-[18May2025 19:00:32.236] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[18May2025 19:00:32.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[18May2025 19:00:32.437] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[18May2025 19:00:32.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: OUTDATED Current: 0.2.4 Target: 0.3.3
-[18May2025 19:00:32.467] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[18May2025 19:00:32.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[18May2025 19:00:32.476] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
-[18May2025 19:00:32.568] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[19May2025 17:51:17.857] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[19May2025 17:51:17.863] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[19May2025 17:51:19.367] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Island.R.P/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[19May2025 17:51:20.104] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[19May2025 17:51:20.107] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[19May2025 17:51:20.109] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[19May2025 17:51:20.111] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[19May2025 17:51:20.383] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[19May2025 17:51:23.401] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[19May2025 17:51:23.443] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[19May2025 17:51:23.487] [main/WARN] [mixin/]: Reference map 'forgecef-refmap.json' for forgecef.mixins.json could not be read. If this is a development environment you can ignore this message
+[19May2025 17:51:23.653] [main/INFO] [Canary/]: Loaded configuration file for Canary: 124 options available, 0 override(s) found
+[19May2025 17:51:23.812] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 67 options available, 0 override(s) found
+[19May2025 17:51:35.523] [modloading-worker-0/INFO] [MCEF/]: Loading MCEF config...
+[19May2025 17:51:35.530] [modloading-worker-0/INFO] [MCEF/]: MCEF is running on server. Nothing to do.
+[19May2025 17:51:35.740] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loading config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
+[19May2025 17:51:35.742] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Built config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
+[19May2025 17:51:35.751] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loaded config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
+[19May2025 17:51:37.078] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[19May2025 17:51:37.084] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[19May2025 17:51:39.222] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
+[19May2025 17:51:39.222] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
+[19May2025 17:51:39.223] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
+[19May2025 17:51:39.223] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod curios.
+[19May2025 17:51:56.416] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[19May2025 17:51:58.161] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[19May2025 17:51:58.164] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[19May2025 17:51:58.669] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[19May2025 17:51:58.676] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
+[19May2025 17:51:58.855] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[19May2025 17:51:58.871] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[19May2025 17:51:58.871] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[19May2025 17:51:58.871] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[19May2025 17:51:59.039] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[19May2025 17:51:59.039] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[19May2025 17:52:00.403] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[19May2025 17:52:01.027] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.30
+[19May2025 17:52:01.028] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[19May2025 17:52:01.063] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@73684ea1]
+[19May2025 17:52:01.071] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[19May2025 17:52:01.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 9.0.0.37 Target: null
+[19May2025 17:52:01.118] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
+[19May2025 17:52:01.337] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 96 ms
+[19May2025 17:52:01.358] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[19May2025 17:52:01.365] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[19May2025 17:52:02.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
+[19May2025 17:52:02.141] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[19May2025 17:52:02.325] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
+[19May2025 17:52:02.327] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[19May2025 17:52:02.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[19May2025 17:52:02.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[19May2025 17:52:02.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: OUTDATED Current: 0.2.4 Target: 0.3.3
+[19May2025 17:52:02.793] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[19May2025 17:52:02.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[19May2025 17:52:02.808] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
+[19May2025 17:52:02.945] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
@@ -68,303 +68,76 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
 	... 6 more
-[18May2025 19:00:32.572] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18May2025 19:00:32.776] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[18May2025 19:00:32.777] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[18May2025 19:00:33.138] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.1.1494 Target: null
-[18May2025 19:00:37.612] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18May2025 19:00:44.211] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/assets/.mcassetsroot' uses unexpected schema
-[18May2025 19:00:44.212] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/data/.mcassetsroot' uses unexpected schema
-[18May2025 19:00:44.376] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 93 ms
-[18May2025 19:00:49.327] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[18May2025 19:00:49.530] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18May2025 19:00:49.532] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18May2025 19:00:49.544] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 19:00:49.546] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 19:00:49.547] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18May2025 19:00:49.615] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, args] and [restore, target] with inputs: [words with spaces, "and symbols", word]
-[18May2025 19:00:49.622] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, target] and [restore, args] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 19:00:49.633] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 19:00:56.952] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
-[18May2025 19:00:56.974] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[18May2025 19:00:57.023] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[18May2025 19:00:57.107] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[18May2025 19:00:57.116] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
-[18May2025 19:00:57.123] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[18May2025 19:00:57.161] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
-[18May2025 19:00:57.165] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[18May2025 19:00:57.191] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
-[18May2025 19:00:57.224] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[18May2025 19:00:59.026] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2807 advancements
-[18May2025 19:00:59.079] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 43 Soft Fluids
-[18May2025 19:01:02.572] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[18May2025 19:01:02.986] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[18May2025 19:01:02.987] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18May2025 19:01:02.988] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18May2025 19:01:02.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18May2025 19:01:03.408] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18May2025 19:01:03.471] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18May2025 19:01:03.656] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18May2025 19:01:03.657] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18May2025 19:01:03.657] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18May2025 19:01:03.658] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18May2025 19:01:04.410] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18May2025 19:01:17.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18May2025 19:01:18.989] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 19:01:18.995] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 19:01:18.995] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 19:01:18.996] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 19:01:19.480] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 19:01:20.132] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 19:01:20.470] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[18May2025 19:01:20.969] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[18May2025 19:01:21.470] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[18May2025 19:01:21.971] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[18May2025 19:01:22.471] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[18May2025 19:01:22.970] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 83%
-[18May2025 19:01:23.469] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[18May2025 19:01:24.244] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 6776 ms
-[18May2025 19:01:24.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (20.567s)! For help, type "help"
-[18May2025 19:01:24.272] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 19:01:24.370] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18May2025 19:01:28.068] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 19:01:28.689] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[18May2025 19:01:28.716] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[18May2025 19:01:31.019] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2013ms or 40 ticks behind
-[18May2025 19:01:35.994] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@4741a9b9
-[18May2025 19:01:36.056] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:57837] logged in with entity id 9319 at (314.793946345116, 67.0, -299.35581479683844)
-[18May2025 19:01:36.153] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
-[18May2025 19:01:36.851] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
-[18May2025 19:01:36.854] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
-[18May2025 19:01:44.153] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5ca0138f
-[18May2025 19:01:44.163] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:34771] logged in with entity id 9429 at (367.3645486716657, 63.0, -244.4275568349456)
-[18May2025 19:01:44.184] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
-[18May2025 19:01:44.645] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
-[18May2025 19:01:44.647] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
-[18May2025 19:02:00.342] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: <Carlesneri> hola
-[18May2025 19:02:04.348] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
-[18May2025 19:02:31.416] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
-[18May2025 19:06:18.666] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
-[18May2025 19:06:18.667] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
-[18May2025 19:06:18.670] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
-[18May2025 19:14:32.214] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri was slain by Tiger
-[18May2025 19:16:23.431] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@58f38e82
-[18May2025 19:16:23.441] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:33291] logged in with entity id 12445 at (416.5693524100971, 72.5437104915454, -402.3611101481795)
-[18May2025 19:16:23.463] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
-[18May2025 19:16:23.567] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
-[18May2025 19:16:23.568] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
-[18May2025 19:17:37.620] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
-[18May2025 19:18:01.263] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri fell from a high place
-[18May2025 19:18:18.878] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
-[18May2025 19:23:46.766] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Disconnected
-[18May2025 19:23:46.766] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
-[18May2025 19:23:46.767] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
-[18May2025 19:43:46.964] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
-[18May2025 19:59:13.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
-[18May2025 20:06:21.269] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5b2e2ac9
-[18May2025 20:06:21.279] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:38359] logged in with entity id 20866 at (224.23599768314446, -11.0, -238.07409484427814)
-[18May2025 20:06:21.287] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
-[18May2025 20:06:21.939] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
-[18May2025 20:06:21.941] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
-[18May2025 20:06:29.225] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
-[18May2025 20:06:52.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
-[18May2025 20:08:28.077] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
-[18May2025 20:17:19.970] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
-[18May2025 20:26:17.117] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -1.2810347939446274,2.1818703872477556,9.967959857451149
-[18May2025 20:26:38.813] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Ice Bucket Challenge]
-[18May2025 20:26:42.713] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.056180970463515,0.0,-8.130543144389947
-[18May2025 20:26:48.044] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.6328388581903255,0.0,-8.631511178015955
-[18May2025 20:26:51.789] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.761610427856681,0.0,-8.394317731443039
-[18May2025 20:26:53.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.166724653597157,0.0,-8.024942851362141
-[18May2025 20:26:55.878] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.166724653597157,0.0,-8.024942851362141
-[18May2025 20:26:57.476] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.469770081729621,0.0,-8.41930491205676
-[18May2025 20:27:02.291] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.064565296852038,0.0,-7.710044053063598
-[18May2025 20:27:06.281] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -0.17225080425373562,0.0,-10.078227807174017
-[18May2025 20:27:11.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.106042026975047,0.0,-7.9750447890003215
-[18May2025 20:27:24.703] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 3.684689225162856,3.3750001341104507,-9.061717349829678
-[18May2025 20:27:27.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 1.3097896158865296,-11.09197557055839,-1.8843547236932636
-[18May2025 20:27:29.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 4.925470199937195,0.7033440279483756,-9.349836693600196
-[18May2025 20:28:30.117] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Timed out
-[18May2025 20:28:30.118] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
-[18May2025 20:28:30.118] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
-[18May2025 20:28:30.188] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18May2025 20:28:53.161] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Timed out
-[18May2025 20:28:53.162] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
-[18May2025 20:28:53.162] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
-[18May2025 20:29:32.614] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@154d09bf[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:34447): Took too long to log in
-[18May2025 20:29:32.617] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@154d09bf[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:34447) lost connection: Took too long to log in
-[18May2025 20:29:32.656] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18May2025 20:30:01.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: Disconnecting com.mojang.authlib.GameProfile@27dabce9[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:50169): Took too long to log in
-[18May2025 20:30:01.906] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27dabce9[id=<null>,name=Carlesneri,properties={},legacy=false] (/127.135.61.76:50169) lost connection: Took too long to log in
-[18May2025 20:30:01.956] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
-[18May2025 20:31:20.675] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7dde94b4
-[18May2025 20:31:20.693] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:37517] logged in with entity id 27931 at (674.6210025704182, 63.0, -800.6197708897699)
-[18May2025 20:31:20.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
-[18May2025 20:31:21.531] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
-[18May2025 20:31:21.532] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
-[18May2025 20:31:26.710] [Thread-0/WARN] [net.minecraftforge.fml.config.ConfigFileTypeHandler/CONFIG]: Configuration file /workspaces/Island.R.P/servidor_minecraft/config/supplementaries-registry.toml is not correct. Correcting
-[18May2025 20:31:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[18May2025 20:31:43.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[18May2025 20:31:43.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[18May2025 20:31:48.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-r is missing mods.toml file
-[18May2025 20:31:22.922] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 20:31:22.924] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 20:31:22.927] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[18May2025 20:31:23.090] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[18May2025 20:31:26.409] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[18May2025 20:31:26.490] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[18May2025 20:31:26.557] [main/WARN] [mixin/]: Reference map 'forgecef-refmap.json' for forgecef.mixins.json could not be read. If this is a development environment you can ignore this message
-[18May2025 20:31:26.634] [main/INFO] [Canary/]: Loaded configuration file for Canary: 124 options available, 0 override(s) found
-[18May2025 20:31:26.758] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 67 options available, 0 override(s) found
-[18May2025 20:31:41.784] [modloading-worker-0/INFO] [MCEF/]: Loading MCEF config...
-[18May2025 20:31:41.791] [modloading-worker-0/INFO] [MCEF/]: MCEF is running on server. Nothing to do.
-[18May2025 20:31:42.092] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loading config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[18May2025 20:31:42.092] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Built config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[18May2025 20:31:42.098] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loaded config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[18May2025 20:31:43.923] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[18May2025 20:31:43.923] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[18May2025 20:31:46.523] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
-[18May2025 20:31:46.524] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
-[18May2025 20:31:46.529] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
-[18May2025 20:31:46.529] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod curios.
-[18May2025 20:32:02.229] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[18May2025 20:32:04.675] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[18May2025 20:32:04.676] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[18May2025 20:32:05.015] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[18May2025 20:32:05.018] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
-[18May2025 20:32:05.293] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[18May2025 20:32:05.319] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[18May2025 20:32:05.319] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[18May2025 20:32:05.320] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[18May2025 20:32:05.390] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[18May2025 20:32:05.394] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
-[18May2025 20:32:06.125] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[18May2025 20:32:06.782] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.30
-[18May2025 20:32:06.786] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[18May2025 20:32:06.909] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 9.0.0.37 Target: null
-[18May2025 20:32:06.910] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
-[18May2025 20:32:07.188] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@32643f7e]
-[18May2025 20:32:07.202] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[18May2025 20:32:07.518] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 98 ms
-[18May2025 20:32:07.522] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[18May2025 20:32:07.530] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[18May2025 20:32:08.011] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
-[18May2025 20:32:08.014] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[18May2025 20:32:08.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
-[18May2025 20:32:08.206] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[18May2025 20:32:08.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[18May2025 20:32:08.584] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[18May2025 20:32:08.812] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: OUTDATED Current: 0.2.4 Target: 0.3.3
-[18May2025 20:32:08.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[18May2025 20:32:08.830] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[18May2025 20:32:08.831] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
-[18May2025 20:32:08.922] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
-com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
-	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.21.jar%2382!/:?]
-	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2382!/:?]
-Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
-	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
-	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
-	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
-	... 6 more
-[18May2025 20:32:08.926] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[18May2025 20:32:09.160] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[18May2025 20:32:09.161] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[18May2025 20:32:09.568] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.1.1494 Target: null
-[18May2025 20:32:13.491] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[18May2025 20:32:19.582] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/assets/.mcassetsroot' uses unexpected schema
-[18May2025 20:32:19.583] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/data/.mcassetsroot' uses unexpected schema
-[18May2025 20:32:19.955] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 192 ms
-[18May2025 20:32:25.418] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[18May2025 20:32:25.579] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18May2025 20:32:25.584] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18May2025 20:32:25.595] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 20:32:25.597] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 20:32:25.598] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[18May2025 20:32:25.659] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, args] and [restore, target] with inputs: [words with spaces, "and symbols", word]
-[18May2025 20:32:25.661] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, target] and [restore, args] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 20:32:25.673] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[18May2025 20:32:33.484] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
-[18May2025 20:32:33.523] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[18May2025 20:32:33.562] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[18May2025 20:32:33.650] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[18May2025 20:32:33.664] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
-[18May2025 20:32:33.672] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[18May2025 20:32:33.729] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
-[18May2025 20:32:33.735] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[18May2025 20:32:33.776] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
-[18May2025 20:32:33.801] [Worker-Main-5/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[18May2025 20:32:36.304] [Worker-Main-5/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2807 advancements
-[18May2025 20:32:36.379] [Worker-Main-5/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 43 Soft Fluids
-[18May2025 20:32:39.767] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[18May2025 20:32:40.375] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[18May2025 20:32:40.376] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[18May2025 20:32:40.379] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[18May2025 20:32:40.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[18May2025 20:32:40.721] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[18May2025 20:32:40.810] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[18May2025 20:32:40.965] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[18May2025 20:32:40.966] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[18May2025 20:32:40.967] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[18May2025 20:32:40.968] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[18May2025 20:32:41.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[18May2025 20:32:58.491] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:00.962] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:03.624] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:03.851] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:05.727] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[18May2025 20:33:06.676] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 20:33:06.676] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 20:33:06.715] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:06.740] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 20:33:07.232] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 20:33:07.776] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 20:33:08.232] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[18May2025 20:33:08.731] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[18May2025 20:33:09.232] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 72%
-[18May2025 20:33:09.736] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[18May2025 20:33:10.233] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
-[18May2025 20:33:10.534] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:10.732] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
-[18May2025 20:33:11.231] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 86%
-[18May2025 20:33:11.731] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 87%
-[18May2025 20:33:12.129] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:12.231] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 91%
-[18May2025 20:33:13.088] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:13.105] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7374 ms
-[18May2025 20:33:13.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.102s)! For help, type "help"
-[18May2025 20:33:13.204] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[18May2025 20:33:15.011] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:15.751] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[18May2025 20:33:15.982] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[18May2025 20:33:16.005] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[18May2025 20:33:21.666] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1d8c6960
-[18May2025 20:33:21.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:50435] logged in with entity id 9480 at (394.9867501060406, 59.0, -366.843065097347)
-[18May2025 20:33:21.841] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
-[18May2025 20:33:22.277] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
-[18May2025 20:33:22.282] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
-[18May2025 20:33:23.136] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@431e6ce5
-[18May2025 20:33:23.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:41109] logged in with entity id 9532 at (631.4509602863803, 66.04868801669012, -744.4577837844151)
-[18May2025 20:33:23.175] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
-[18May2025 20:33:24.004] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
-[18May2025 20:33:24.005] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
-[18May2025 20:33:24.470] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Axolotl['Axolotl'/9581, l='ServerLevel[world]', x=592.08, y=-25.00, z=-799.38]
-[18May2025 20:34:12.213] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
-[18May2025 20:34:42.037] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
-[18May2025 20:36:48.858] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
-[18May2025 20:37:15.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
-[18May2025 20:41:41.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
-[18May2025 20:43:02.406] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
-[18May2025 20:43:02.406] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
-[18May2025 20:43:02.409] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
-[18May2025 20:45:38.148] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [It's an Emu!!!]
-[18May2025 20:49:56.202] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Disconnected
-[18May2025 20:49:56.202] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
-[18May2025 20:49:56.203] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
+[19May2025 17:52:02.954] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[19May2025 17:52:03.271] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[19May2025 17:52:03.272] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[19May2025 17:52:03.768] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.1.1494 Target: null
+[19May2025 17:52:08.308] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19May2025 17:52:16.629] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/assets/.mcassetsroot' uses unexpected schema
+[19May2025 17:52:16.634] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2381!/data/.mcassetsroot' uses unexpected schema
+[19May2025 17:52:16.980] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 140 ms
+[19May2025 17:52:23.225] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[19May2025 17:52:23.388] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19May2025 17:52:23.393] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19May2025 17:52:23.398] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19May2025 17:52:23.402] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19May2025 17:52:23.404] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19May2025 17:52:23.430] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, args] and [restore, target] with inputs: [words with spaces, "and symbols", word]
+[19May2025 17:52:23.431] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, target] and [restore, args] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19May2025 17:52:23.434] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19May2025 17:52:33.019] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[19May2025 17:52:33.042] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[19May2025 17:52:33.078] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[19May2025 17:52:33.191] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[19May2025 17:52:33.210] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
+[19May2025 17:52:33.224] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[19May2025 17:52:33.276] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
+[19May2025 17:52:33.280] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[19May2025 17:52:33.314] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
+[19May2025 17:52:33.372] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[19May2025 17:52:35.473] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2807 advancements
+[19May2025 17:52:35.530] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 43 Soft Fluids
+[19May2025 17:52:40.422] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[19May2025 17:52:40.817] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[19May2025 17:52:40.818] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[19May2025 17:52:40.819] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[19May2025 17:52:40.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[19May2025 17:52:41.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[19May2025 17:52:41.192] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[19May2025 17:52:41.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19May2025 17:52:41.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[19May2025 17:52:41.431] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19May2025 17:52:41.432] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[19May2025 17:52:42.258] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[19May2025 17:53:00.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[19May2025 17:53:01.685] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[19May2025 17:53:01.685] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[19May2025 17:53:01.686] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[19May2025 17:53:01.686] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[19May2025 17:53:02.209] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[19May2025 17:53:02.620] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[19May2025 17:53:03.112] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[19May2025 17:53:03.612] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[19May2025 17:53:04.112] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[19May2025 17:53:04.611] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
+[19May2025 17:53:05.115] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
+[19May2025 17:53:05.611] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 78%
+[19May2025 17:53:06.112] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 79%
+[19May2025 17:53:06.615] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 82%
+[19May2025 17:53:07.112] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[19May2025 17:53:07.996] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7886 ms
+[19May2025 17:53:07.998] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (26.544s)! For help, type "help"
+[19May2025 17:53:08.353] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[19May2025 17:53:13.271] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[19May2025 17:53:13.306] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[19May2025 17:53:15.721] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2272ms or 45 ticks behind
+[19May2025 17:53:30.389] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c0a47a7
+[19May2025 17:53:30.427] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:52703] logged in with entity id 9663 at (655.9854275634362, 63.0, -767.4841075656003)
+[19May2025 17:53:30.536] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[19May2025 17:53:31.557] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[19May2025 17:53:31.559] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[19May2025 17:53:44.582] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@30f87829
+[19May2025 17:53:44.592] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:46303] logged in with entity id 9892 at (652.7554947613178, 63.0, -811.140513590904)
+[19May2025 17:53:44.603] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
+[19May2025 17:53:44.758] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
+[19May2025 17:53:44.759] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
