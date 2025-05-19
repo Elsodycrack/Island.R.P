@@ -359,6 +359,12 @@
     },
     "done": true
   },
+  "simpleplanes:recipes/plane": {
+    "criteria": {
+      "in_fire": "2025-05-19 18:09:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-05-18 14:09:03 +0000"
@@ -488,6 +494,12 @@
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-18 12:56:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 18:15:34 +0000"
     },
     "done": true
   },
@@ -689,6 +701,12 @@
   "securitycraft:recipes/securitycraft/reinforced_crimson_fence": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 18:15:34 +0000"
     },
     "done": true
   },
@@ -2067,6 +2085,12 @@
     },
     "done": true
   },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-19 18:14:43 +0000"
+    },
+    "done": true
+  },
   "chococraft:recipes/chococraft/choco_disguise_leggings": {
     "criteria": {
       "has_chocobo_feather": "2025-05-18 15:39:50 +0000"
@@ -2526,6 +2550,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 14:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-05-19 18:15:34 +0000"
     },
     "done": true
   },

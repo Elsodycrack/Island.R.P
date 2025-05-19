@@ -2600,3 +2600,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 18:08:15.563] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [19May2025 18:08:52.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
 [19May2025 18:09:18.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[19May2025 18:13:15.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 18:13:15.556] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 18:14:43.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Getting an Upgrade]
+[19May2025 18:18:15.546] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[19May2025 18:18:15.560] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[19May2025 18:19:26.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri drowned
+[19May2025 18:19:27.777] [Server thread/DEBUG] [twilightforest/]: Player Carlesneri (432e9088-f902-3e1e-b3bf-be29f6de0bd8) respawned and received items held in storage
+[19May2025 18:19:46.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[19May2025 18:20:58.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]

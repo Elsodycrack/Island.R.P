@@ -147,3 +147,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [19May2025 18:08:10.906] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set the time to 1000]
 [19May2025 18:08:52.357] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
 [19May2025 18:09:18.874] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[19May2025 18:14:43.219] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri has made the advancement [Getting an Upgrade]
+[19May2025 18:19:26.643] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri drowned
+[19May2025 18:19:46.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported Carlesneri to SodyYToriginal]
+[19May2025 18:20:58.708] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
