@@ -2918,3 +2918,38 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20May2025 15:03:11.614] [Server thread/DEBUG] [fashion/]: added a layer to save : QuiverLayer 6
 [20May2025 15:03:11.640] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20May2025 15:03:11.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 15:08:11.607] [Server thread/DEBUG] [fashion/]: added a layer to save : ShieldLayer 0
+[20May2025 15:08:11.607] [Server thread/DEBUG] [fashion/]: added a layer to save : LayerRainbow 1
+[20May2025 15:08:11.607] [Server thread/DEBUG] [fashion/]: added a layer to save : SwordRenderLayer 2
+[20May2025 15:08:11.607] [Server thread/DEBUG] [fashion/]: added a layer to save : BeeStingerLayer 3
+[20May2025 15:08:11.607] [Server thread/DEBUG] [fashion/]: added a layer to save : QuiverLayer 4
+[20May2025 15:08:11.607] [Server thread/DEBUG] [fashion/]: added a layer to save : IceLayer 5
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : ParrotOnShoulderLayer 0
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : BeeStingerLayer 1
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : SwordRenderLayer 2
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : LayerRainbow 3
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : ShieldLayer 4
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : IceLayer 5
+[20May2025 15:08:11.616] [Server thread/DEBUG] [fashion/]: added a layer to save : QuiverLayer 6
+[20May2025 15:08:11.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 15:08:11.657] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 15:08:44.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 4.281431080661378,2.446947937232956,-9.496241877730085
+[20May2025 15:10:36.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[20May2025 15:13:11.602] [Server thread/DEBUG] [fashion/]: added a layer to save : ShieldLayer 0
+[20May2025 15:13:11.602] [Server thread/DEBUG] [fashion/]: added a layer to save : LayerRainbow 1
+[20May2025 15:13:11.602] [Server thread/DEBUG] [fashion/]: added a layer to save : SwordRenderLayer 2
+[20May2025 15:13:11.602] [Server thread/DEBUG] [fashion/]: added a layer to save : BeeStingerLayer 3
+[20May2025 15:13:11.602] [Server thread/DEBUG] [fashion/]: added a layer to save : QuiverLayer 4
+[20May2025 15:13:11.602] [Server thread/DEBUG] [fashion/]: added a layer to save : IceLayer 5
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : ParrotOnShoulderLayer 0
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : BeeStingerLayer 1
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : SwordRenderLayer 2
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : LayerRainbow 3
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : ShieldLayer 4
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : IceLayer 5
+[20May2025 15:13:11.610] [Server thread/DEBUG] [fashion/]: added a layer to save : QuiverLayer 6
+[20May2025 15:13:11.632] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20May2025 15:13:11.648] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20May2025 15:15:03.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 8.610995612882903,-3.749979707473649,-3.585188491497206
+[20May2025 15:15:07.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -10.48582422515517,0.0,1.652123915143079
+[20May2025 15:16:07.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
