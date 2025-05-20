@@ -622,6 +622,7 @@
       "minecraft:skeleton": "2025-05-18 13:46:31 +0000",
       "minecraft:spider": "2025-05-18 15:32:11 +0000",
       "minecraft:wither": "2025-05-18 15:19:14 +0000",
+      "minecraft:cave_spider": "2025-05-20 15:24:17 +0000",
       "minecraft:zombie": "2025-05-18 14:01:12 +0000"
     },
     "done": false
@@ -2564,6 +2565,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/twilightforest/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-05-20 15:20:27 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/securitycraft/reinforced_jungle_fence_gate": {
     "criteria": {
       "has_stick": "2025-05-18 12:50:16 +0000"
@@ -2801,6 +2808,12 @@
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-05-18 14:12:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-05-20 15:20:27 +0000"
     },
     "done": true
   },
