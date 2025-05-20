@@ -1691,6 +1691,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-20 14:51:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_cod_from_smoking": {
     "criteria": {
       "has_cod": "2025-05-11 19:38:55 +0000"
@@ -2127,6 +2133,12 @@
   "alexsmobs:recipes/combat/flying_fish_boots": {
     "criteria": {
       "has_items": "2025-05-11 19:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_iron_ore": {
+    "criteria": {
+      "has_iron_ore": "2025-05-20 14:51:17 +0000"
     },
     "done": true
   },
