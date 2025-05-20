@@ -321,3 +321,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20May2025 15:51:58.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
 [20May2025 15:51:58.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
 [20May2025 15:52:24.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[20May2025 16:01:19.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 4.554795380388327,0.0,-9.074343659447436
+[20May2025 16:03:03.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 5.724953493291991,0.0,-8.216523160068391
+[20May2025 16:03:08.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.3810939450665956,0.0,-8.821179603622909
