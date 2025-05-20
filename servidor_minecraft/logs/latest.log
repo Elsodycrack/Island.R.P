@@ -1,335 +1,323 @@
-[20May2025 14:46:38.040] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
-[20May2025 14:46:38.043] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
-[20May2025 14:46:38.229] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Island.R.P/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
-[20May2025 14:46:38.717] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
-[20May2025 14:46:38.719] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[20May2025 14:46:38.724] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[20May2025 14:46:38.726] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
-[20May2025 14:46:38.837] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
-[20May2025 14:46:41.332] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
-[20May2025 14:46:41.404] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
-[20May2025 14:46:41.450] [main/WARN] [mixin/]: Reference map 'forgecef-refmap.json' for forgecef.mixins.json could not be read. If this is a development environment you can ignore this message
-[20May2025 14:46:41.511] [main/INFO] [Canary/]: Loaded configuration file for Canary: 124 options available, 0 override(s) found
-[20May2025 14:46:41.596] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 70 options available, 0 override(s) found
-[20May2025 14:46:51.616] [modloading-worker-0/INFO] [MCEF/]: Loading MCEF config...
-[20May2025 14:46:51.620] [modloading-worker-0/INFO] [MCEF/]: MCEF is running on server. Nothing to do.
-[20May2025 14:46:51.647] [modloading-worker-0/INFO] [paintings/]: loading json file and contents for paintings.
-[20May2025 14:46:51.647] [modloading-worker-0/INFO] [paintings/]: Adding base paintings
-[20May2025 14:46:51.648] [modloading-worker-0/INFO] [paintings/]: resolving paintings.json ...
-[20May2025 14:46:51.649] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_blue , 16 x 16
-[20May2025 14:46:51.649] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_rainbow , 16 x 16
-[20May2025 14:46:51.655] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_red , 16 x 16
-[20May2025 14:46:51.655] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_sunset , 16 x 16
-[20May2025 14:46:51.655] [modloading-worker-0/INFO] [paintings/]: Loaded json painting arachnophobe , 32 x 16
-[20May2025 14:46:51.655] [modloading-worker-0/INFO] [paintings/]: Loaded json painting barn_owl , 32 x 16
-[20May2025 14:46:51.655] [modloading-worker-0/INFO] [paintings/]: Loaded json painting big_z , 16 x 16
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting blue_bird , 32 x 16
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting bluesclues , 32 x 16
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting borgia , 16 x 32
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cane , 16 x 32
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_black , 16 x 16
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_gray , 16 x 16
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_orange , 16 x 16
-[20May2025 14:46:51.656] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat , 32 x 16
-[20May2025 14:46:51.662] [modloading-worker-0/INFO] [paintings/]: Loaded json painting colorful_squares , 32 x 16
-[20May2025 14:46:51.662] [modloading-worker-0/INFO] [paintings/]: Loaded json painting crest , 32 x 16
-[20May2025 14:46:51.662] [modloading-worker-0/INFO] [paintings/]: Loaded json painting danger_zone , 32 x 32
-[20May2025 14:46:51.662] [modloading-worker-0/INFO] [paintings/]: Loaded json painting decorative_gun , 32 x 16
-[20May2025 14:46:51.662] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_down , 32 x 16
-[20May2025 14:46:51.666] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_up , 32 x 16
-[20May2025 14:46:51.666] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_left , 32 x 16
-[20May2025 14:46:51.666] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_right , 32 x 16
-[20May2025 14:46:51.666] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_bat , 16 x 16
-[20May2025 14:46:51.666] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_chicken , 16 x 16
-[20May2025 14:46:51.667] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_cow , 16 x 16
-[20May2025 14:46:51.667] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_creeper , 16 x 16
-[20May2025 14:46:51.667] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_dog , 16 x 16
-[20May2025 14:46:51.670] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_enderman , 16 x 16
-[20May2025 14:46:51.670] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pig , 16 x 16
-[20May2025 14:46:51.670] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pigman , 16 x 16
-[20May2025 14:46:51.670] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_silverfish , 16 x 16
-[20May2025 14:46:51.670] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_skeleton , 16 x 16
-[20May2025 14:46:51.671] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_squid , 16 x 16
-[20May2025 14:46:51.671] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_zombie , 16 x 16
-[20May2025 14:46:51.671] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fishes , 32 x 16
-[20May2025 14:46:51.671] [modloading-worker-0/INFO] [paintings/]: Loaded json painting flowers , 32 x 16
-[20May2025 14:46:51.672] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fruits , 32 x 16
-[20May2025 14:46:51.674] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ghost , 16 x 32
-[20May2025 14:46:51.674] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowlamp , 32 x 32
-[20May2025 14:46:51.674] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowstone_hourglass , 16 x 32
-[20May2025 14:46:51.674] [modloading-worker-0/INFO] [paintings/]: Loaded json painting iluvmc , 32 x 16
-[20May2025 14:46:51.677] [modloading-worker-0/INFO] [paintings/]: Loaded json painting link , 32 x 16
-[20May2025 14:46:51.677] [modloading-worker-0/INFO] [paintings/]: Loaded json painting mine_prosperity , 32 x 16
-[20May2025 14:46:51.678] [modloading-worker-0/INFO] [paintings/]: Loaded json painting no_trespassing_for_mobs , 32 x 16
-[20May2025 14:46:51.678] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ocelot , 16 x 16
-[20May2025 14:46:51.678] [modloading-worker-0/INFO] [paintings/]: Loaded json painting penguin , 32 x 16
-[20May2025 14:46:51.678] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pig_on_a_cliff , 32 x 32
-[20May2025 14:46:51.678] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_blue , 32 x 16
-[20May2025 14:46:51.678] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_red , 32 x 16
-[20May2025 14:46:51.679] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_green , 32 x 16
-[20May2025 14:46:51.679] [modloading-worker-0/INFO] [paintings/]: Loaded json painting plains_hut , 32 x 16
-[20May2025 14:46:51.681] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait_2 , 16 x 16
-[20May2025 14:46:51.681] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait , 32 x 32
-[20May2025 14:46:51.681] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prison , 16 x 32
-[20May2025 14:46:51.691] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prosperity , 16 x 32
-[20May2025 14:46:51.691] [modloading-worker-0/INFO] [paintings/]: Loaded json painting rest , 32 x 16
-[20May2025 14:46:51.691] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skeleton , 16 x 32
-[20May2025 14:46:51.691] [modloading-worker-0/INFO] [paintings/]: Loaded json painting sky , 32 x 32
-[20May2025 14:46:51.691] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skyblock , 32 x 32
-[20May2025 14:46:51.693] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snake , 16 x 32
-[20May2025 14:46:51.693] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snow_landscape , 32 x 16
-[20May2025 14:46:51.693] [modloading-worker-0/INFO] [paintings/]: Loaded json painting subaraki , 32 x 16
-[20May2025 14:46:51.693] [modloading-worker-0/INFO] [paintings/]: Loaded json painting synth_city , 16 x 16
-[20May2025 14:46:51.697] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_a , 32 x 16
-[20May2025 14:46:51.697] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_b , 16 x 32
-[20May2025 14:46:51.697] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_purple , 16 x 32
-[20May2025 14:46:51.697] [modloading-worker-0/INFO] [paintings/]: Loaded json painting torched , 32 x 16
-[20May2025 14:46:51.697] [modloading-worker-0/INFO] [paintings/]: Loaded json painting waterfall , 32 x 16
-[20May2025 14:46:51.698] [modloading-worker-0/INFO] [paintings/]: Loaded json painting whale , 32 x 16
-[20May2025 14:46:51.698] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wheat_field , 32 x 16
-[20May2025 14:46:51.698] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wolf_in_wheat , 32 x 16
-[20May2025 14:46:51.703] [modloading-worker-0/WARN] [paintings/]: ************************************
-[20May2025 14:46:51.703] [modloading-worker-0/WARN] [paintings/]: !*!*!*!*!
-[20May2025 14:46:51.703] [modloading-worker-0/ERROR] [paintings/]: A fatal error occurred reading the resource pack directory
-[20May2025 14:46:51.703] [modloading-worker-0/ERROR] [paintings/]: SKIPPING ENTIRE PROCESS
-[20May2025 14:46:51.703] [modloading-worker-0/WARN] [paintings/]: !*!*!*!*!
-[20May2025 14:46:51.703] [modloading-worker-0/WARN] [paintings/]: ************************************
-[20May2025 14:46:51.706] [modloading-worker-0/WARN] [paintings/]: java.nio.file.NoSuchFileException: ./resourcepacks
-[20May2025 14:46:51.787] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loading config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[20May2025 14:46:51.791] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Built config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[20May2025 14:46:51.791] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loaded config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
-[20May2025 14:46:53.054] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
-[20May2025 14:46:53.058] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
-[20May2025 14:46:54.658] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
-[20May2025 14:46:54.667] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
-[20May2025 14:46:54.668] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
-[20May2025 14:46:54.670] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod curios.
-[20May2025 14:47:08.305] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
-[20May2025 14:47:09.140] [main/INFO] [paintings/]: Registered painting abstract_blue
-[20May2025 14:47:09.144] [main/INFO] [paintings/]: Registered painting abstract_rainbow
-[20May2025 14:47:09.144] [main/INFO] [paintings/]: Registered painting abstract_red
-[20May2025 14:47:09.144] [main/INFO] [paintings/]: Registered painting abstract_sunset
-[20May2025 14:47:09.144] [main/INFO] [paintings/]: Registered painting arachnophobe
-[20May2025 14:47:09.144] [main/INFO] [paintings/]: Registered painting barn_owl
-[20May2025 14:47:09.144] [main/INFO] [paintings/]: Registered painting big_z
-[20May2025 14:47:09.145] [main/INFO] [paintings/]: Registered painting blue_bird
-[20May2025 14:47:09.145] [main/INFO] [paintings/]: Registered painting bluesclues
-[20May2025 14:47:09.145] [main/INFO] [paintings/]: Registered painting borgia
-[20May2025 14:47:09.145] [main/INFO] [paintings/]: Registered painting cane
-[20May2025 14:47:09.145] [main/INFO] [paintings/]: Registered painting cat_black
-[20May2025 14:47:09.146] [main/INFO] [paintings/]: Registered painting cat_gray
-[20May2025 14:47:09.146] [main/INFO] [paintings/]: Registered painting cat_orange
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting cat
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting colorful_squares
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting crest
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting danger_zone
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting decorative_gun
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting exit_down
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting exit_up
-[20May2025 14:47:09.147] [main/INFO] [paintings/]: Registered painting exit_left
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting exit_right
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting face_bat
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting face_chicken
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting face_cow
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting face_creeper
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting face_dog
-[20May2025 14:47:09.152] [main/INFO] [paintings/]: Registered painting face_enderman
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting face_pig
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting face_pigman
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting face_silverfish
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting face_skeleton
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting face_squid
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting face_zombie
-[20May2025 14:47:09.153] [main/INFO] [paintings/]: Registered painting fishes
-[20May2025 14:47:09.154] [main/INFO] [paintings/]: Registered painting flowers
-[20May2025 14:47:09.154] [main/INFO] [paintings/]: Registered painting fruits
-[20May2025 14:47:09.154] [main/INFO] [paintings/]: Registered painting ghost
-[20May2025 14:47:09.155] [main/INFO] [paintings/]: Registered painting glowlamp
-[20May2025 14:47:09.156] [main/INFO] [paintings/]: Registered painting glowstone_hourglass
-[20May2025 14:47:09.156] [main/INFO] [paintings/]: Registered painting iluvmc
-[20May2025 14:47:09.156] [main/INFO] [paintings/]: Registered painting link
-[20May2025 14:47:09.156] [main/INFO] [paintings/]: Registered painting mine_prosperity
-[20May2025 14:47:09.156] [main/INFO] [paintings/]: Registered painting no_trespassing_for_mobs
-[20May2025 14:47:09.157] [main/INFO] [paintings/]: Registered painting ocelot
-[20May2025 14:47:09.157] [main/INFO] [paintings/]: Registered painting penguin
-[20May2025 14:47:09.160] [main/INFO] [paintings/]: Registered painting pig_on_a_cliff
-[20May2025 14:47:09.160] [main/INFO] [paintings/]: Registered painting pkmn_blue
-[20May2025 14:47:09.160] [main/INFO] [paintings/]: Registered painting pkmn_red
-[20May2025 14:47:09.160] [main/INFO] [paintings/]: Registered painting pkmn_green
-[20May2025 14:47:09.160] [main/INFO] [paintings/]: Registered painting plains_hut
-[20May2025 14:47:09.160] [main/INFO] [paintings/]: Registered painting portrait_2
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting portrait
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting prison
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting prosperity
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting rest
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting skeleton
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting sky
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting skyblock
-[20May2025 14:47:09.161] [main/INFO] [paintings/]: Registered painting snake
-[20May2025 14:47:09.162] [main/INFO] [paintings/]: Registered painting snow_landscape
-[20May2025 14:47:09.163] [main/INFO] [paintings/]: Registered painting subaraki
-[20May2025 14:47:09.163] [main/INFO] [paintings/]: Registered painting synth_city
-[20May2025 14:47:09.163] [main/INFO] [paintings/]: Registered painting tapistry_a
-[20May2025 14:47:09.163] [main/INFO] [paintings/]: Registered painting tapistry_b
-[20May2025 14:47:09.164] [main/INFO] [paintings/]: Registered painting tapistry_purple
-[20May2025 14:47:09.167] [main/INFO] [paintings/]: Registered painting torched
-[20May2025 14:47:09.167] [main/INFO] [paintings/]: Registered painting waterfall
-[20May2025 14:47:09.167] [main/INFO] [paintings/]: Registered painting whale
-[20May2025 14:47:09.167] [main/INFO] [paintings/]: Registered painting wheat_field
-[20May2025 14:47:09.167] [main/INFO] [paintings/]: Registered painting wolf_in_wheat
-[20May2025 14:47:10.213] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
-[20May2025 14:47:10.214] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
-[20May2025 14:47:10.702] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
-[20May2025 14:47:10.725] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
-[20May2025 14:47:10.851] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
-[20May2025 14:47:10.877] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
-[20May2025 14:47:10.880] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
-[20May2025 14:47:10.890] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
-[20May2025 14:47:10.890] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
-[20May2025 14:47:10.890] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
-[20May2025 14:47:11.203] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
-[20May2025 14:47:11.821] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.30
-[20May2025 14:47:11.825] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
-[20May2025 14:47:12.036] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 9.0.0.37 Target: null
-[20May2025 14:47:12.037] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
-[20May2025 14:47:12.243] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@7c18870d]
-[20May2025 14:47:12.255] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
-[20May2025 14:47:12.502] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 75 ms
-[20May2025 14:47:12.522] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
-[20May2025 14:47:12.525] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
-[20May2025 14:47:13.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
-[20May2025 14:47:13.221] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
-[20May2025 14:47:13.407] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
-[20May2025 14:47:13.410] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
-[20May2025 14:47:13.856] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
-[20May2025 14:47:13.857] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
-[20May2025 14:47:14.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: OUTDATED Current: 0.2.4 Target: 0.3.3
-[20May2025 14:47:14.046] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
-[20May2025 14:47:14.058] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
-[20May2025 14:47:14.063] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
-[20May2025 14:47:14.227] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+[20May2025 15:47:56.029] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 40.2.21, --fml.mcVersion, 1.18.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220404.173914, nogui]
+[20May2025 15:47:56.033] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 9.1.3+9.1.3+main.9b69c82a starting: java version 17.0.15 by Ubuntu
+[20May2025 15:47:56.292] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/workspaces/Island.R.P/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2314!/ Service=ModLauncher Env=SERVER
+[20May2025 15:47:56.994] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/fmlcore/1.18.2-40.2.21/fmlcore-1.18.2-40.2.21.jar is missing mods.toml file
+[20May2025 15:47:56.999] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/javafmllanguage/1.18.2-40.2.21/javafmllanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[20May2025 15:47:57.002] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/lowcodelanguage/1.18.2-40.2.21/lowcodelanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[20May2025 15:47:57.006] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraftforge/mclanguage/1.18.2-40.2.21/mclanguage-1.18.2-40.2.21.jar is missing mods.toml file
+[20May2025 15:47:57.198] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: No dependencies to load found. Skipping!
+[20May2025 15:48:00.678] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[20May2025 15:48:00.753] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments [nogui]
+[20May2025 15:48:00.821] [main/WARN] [mixin/]: Reference map 'forgecef-refmap.json' for forgecef.mixins.json could not be read. If this is a development environment you can ignore this message
+[20May2025 15:48:00.919] [main/INFO] [Canary/]: Loaded configuration file for Canary: 124 options available, 0 override(s) found
+[20May2025 15:48:01.112] [main/INFO] [Embeddium/]: Loaded configuration file for Embeddium: 71 options available, 0 override(s) found
+[20May2025 15:48:16.049] [modloading-worker-0/INFO] [MCEF/]: Loading MCEF config...
+[20May2025 15:48:16.051] [modloading-worker-0/INFO] [MCEF/]: MCEF is running on server. Nothing to do.
+[20May2025 15:48:16.066] [modloading-worker-0/INFO] [paintings/]: loading json file and contents for paintings.
+[20May2025 15:48:16.070] [modloading-worker-0/INFO] [paintings/]: Adding base paintings
+[20May2025 15:48:16.071] [modloading-worker-0/INFO] [paintings/]: resolving paintings.json ...
+[20May2025 15:48:16.087] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_blue , 16 x 16
+[20May2025 15:48:16.087] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_rainbow , 16 x 16
+[20May2025 15:48:16.087] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_red , 16 x 16
+[20May2025 15:48:16.087] [modloading-worker-0/INFO] [paintings/]: Loaded json painting abstract_sunset , 16 x 16
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting arachnophobe , 32 x 16
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting barn_owl , 32 x 16
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting big_z , 16 x 16
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting blue_bird , 32 x 16
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting bluesclues , 32 x 16
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting borgia , 16 x 32
+[20May2025 15:48:16.088] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cane , 16 x 32
+[20May2025 15:48:16.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_black , 16 x 16
+[20May2025 15:48:16.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_gray , 16 x 16
+[20May2025 15:48:16.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat_orange , 16 x 16
+[20May2025 15:48:16.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting cat , 32 x 16
+[20May2025 15:48:16.097] [modloading-worker-0/INFO] [paintings/]: Loaded json painting colorful_squares , 32 x 16
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting crest , 32 x 16
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting danger_zone , 32 x 32
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting decorative_gun , 32 x 16
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_down , 32 x 16
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_up , 32 x 16
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_left , 32 x 16
+[20May2025 15:48:16.098] [modloading-worker-0/INFO] [paintings/]: Loaded json painting exit_right , 32 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_bat , 16 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_chicken , 16 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_cow , 16 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_creeper , 16 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_dog , 16 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_enderman , 16 x 16
+[20May2025 15:48:16.099] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pig , 16 x 16
+[20May2025 15:48:16.113] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_pigman , 16 x 16
+[20May2025 15:48:16.119] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_silverfish , 16 x 16
+[20May2025 15:48:16.119] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_skeleton , 16 x 16
+[20May2025 15:48:16.119] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_squid , 16 x 16
+[20May2025 15:48:16.119] [modloading-worker-0/INFO] [paintings/]: Loaded json painting face_zombie , 16 x 16
+[20May2025 15:48:16.119] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fishes , 32 x 16
+[20May2025 15:48:16.120] [modloading-worker-0/INFO] [paintings/]: Loaded json painting flowers , 32 x 16
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting fruits , 32 x 16
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ghost , 16 x 32
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowlamp , 32 x 32
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting glowstone_hourglass , 16 x 32
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting iluvmc , 32 x 16
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting link , 32 x 16
+[20May2025 15:48:16.121] [modloading-worker-0/INFO] [paintings/]: Loaded json painting mine_prosperity , 32 x 16
+[20May2025 15:48:16.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting no_trespassing_for_mobs , 32 x 16
+[20May2025 15:48:16.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting ocelot , 16 x 16
+[20May2025 15:48:16.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting penguin , 32 x 16
+[20May2025 15:48:16.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pig_on_a_cliff , 32 x 32
+[20May2025 15:48:16.131] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_blue , 32 x 16
+[20May2025 15:48:16.132] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_red , 32 x 16
+[20May2025 15:48:16.132] [modloading-worker-0/INFO] [paintings/]: Loaded json painting pkmn_green , 32 x 16
+[20May2025 15:48:16.132] [modloading-worker-0/INFO] [paintings/]: Loaded json painting plains_hut , 32 x 16
+[20May2025 15:48:16.138] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait_2 , 16 x 16
+[20May2025 15:48:16.138] [modloading-worker-0/INFO] [paintings/]: Loaded json painting portrait , 32 x 32
+[20May2025 15:48:16.138] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prison , 16 x 32
+[20May2025 15:48:16.138] [modloading-worker-0/INFO] [paintings/]: Loaded json painting prosperity , 16 x 32
+[20May2025 15:48:16.138] [modloading-worker-0/INFO] [paintings/]: Loaded json painting rest , 32 x 16
+[20May2025 15:48:16.138] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skeleton , 16 x 32
+[20May2025 15:48:16.139] [modloading-worker-0/INFO] [paintings/]: Loaded json painting sky , 32 x 32
+[20May2025 15:48:16.139] [modloading-worker-0/INFO] [paintings/]: Loaded json painting skyblock , 32 x 32
+[20May2025 15:48:16.141] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snake , 16 x 32
+[20May2025 15:48:16.148] [modloading-worker-0/INFO] [paintings/]: Loaded json painting snow_landscape , 32 x 16
+[20May2025 15:48:16.148] [modloading-worker-0/INFO] [paintings/]: Loaded json painting subaraki , 32 x 16
+[20May2025 15:48:16.148] [modloading-worker-0/INFO] [paintings/]: Loaded json painting synth_city , 16 x 16
+[20May2025 15:48:16.148] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_a , 32 x 16
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_b , 16 x 32
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting tapistry_purple , 16 x 32
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting torched , 32 x 16
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting waterfall , 32 x 16
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting whale , 32 x 16
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wheat_field , 32 x 16
+[20May2025 15:48:16.149] [modloading-worker-0/INFO] [paintings/]: Loaded json painting wolf_in_wheat , 32 x 16
+[20May2025 15:48:16.150] [modloading-worker-0/WARN] [paintings/]: ************************************
+[20May2025 15:48:16.150] [modloading-worker-0/WARN] [paintings/]: !*!*!*!*!
+[20May2025 15:48:16.150] [modloading-worker-0/ERROR] [paintings/]: A fatal error occurred reading the resource pack directory
+[20May2025 15:48:16.150] [modloading-worker-0/ERROR] [paintings/]: SKIPPING ENTIRE PROCESS
+[20May2025 15:48:16.150] [modloading-worker-0/WARN] [paintings/]: !*!*!*!*!
+[20May2025 15:48:16.150] [modloading-worker-0/WARN] [paintings/]: ************************************
+[20May2025 15:48:16.158] [modloading-worker-0/WARN] [paintings/]: java.nio.file.NoSuchFileException: ./resourcepacks
+[20May2025 15:48:16.226] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loading config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
+[20May2025 15:48:16.227] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Built config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
+[20May2025 15:48:16.239] [modloading-worker-0/INFO] [com.dannyboythomas.hole_filler_mod.HoleFillerMod/]: Loaded config:/workspaces/Island.R.P/servidor_minecraft/config/hole_filler_mod.toml
+[20May2025 15:48:17.447] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 40.2.21, for MC 1.18.2 with MCP 20220404.173914
+[20May2025 15:48:17.447] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v40.2.21 Initialized
+[20May2025 15:48:19.469] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod tconstruct.
+[20May2025 15:48:19.469] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod undergarden.
+[20May2025 15:48:19.470] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod immersiveengineering.
+[20May2025 15:48:19.471] [modloading-worker-0/INFO] [twilightforest/]: Skipped compatibility for mod curios.
+[20May2025 15:48:32.621] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `shulker_shell`, expected `supplementaries`. This could be a intended override, but in most cases indicates a broken mod.
+[20May2025 15:48:33.741] [main/INFO] [paintings/]: Registered painting abstract_blue
+[20May2025 15:48:33.742] [main/INFO] [paintings/]: Registered painting abstract_rainbow
+[20May2025 15:48:33.742] [main/INFO] [paintings/]: Registered painting abstract_red
+[20May2025 15:48:33.743] [main/INFO] [paintings/]: Registered painting abstract_sunset
+[20May2025 15:48:33.744] [main/INFO] [paintings/]: Registered painting arachnophobe
+[20May2025 15:48:33.744] [main/INFO] [paintings/]: Registered painting barn_owl
+[20May2025 15:48:33.745] [main/INFO] [paintings/]: Registered painting big_z
+[20May2025 15:48:33.746] [main/INFO] [paintings/]: Registered painting blue_bird
+[20May2025 15:48:33.746] [main/INFO] [paintings/]: Registered painting bluesclues
+[20May2025 15:48:33.747] [main/INFO] [paintings/]: Registered painting borgia
+[20May2025 15:48:33.747] [main/INFO] [paintings/]: Registered painting cane
+[20May2025 15:48:33.748] [main/INFO] [paintings/]: Registered painting cat_black
+[20May2025 15:48:33.748] [main/INFO] [paintings/]: Registered painting cat_gray
+[20May2025 15:48:33.749] [main/INFO] [paintings/]: Registered painting cat_orange
+[20May2025 15:48:33.750] [main/INFO] [paintings/]: Registered painting cat
+[20May2025 15:48:33.750] [main/INFO] [paintings/]: Registered painting colorful_squares
+[20May2025 15:48:33.751] [main/INFO] [paintings/]: Registered painting crest
+[20May2025 15:48:33.752] [main/INFO] [paintings/]: Registered painting danger_zone
+[20May2025 15:48:33.752] [main/INFO] [paintings/]: Registered painting decorative_gun
+[20May2025 15:48:33.753] [main/INFO] [paintings/]: Registered painting exit_down
+[20May2025 15:48:33.754] [main/INFO] [paintings/]: Registered painting exit_up
+[20May2025 15:48:33.754] [main/INFO] [paintings/]: Registered painting exit_left
+[20May2025 15:48:33.755] [main/INFO] [paintings/]: Registered painting exit_right
+[20May2025 15:48:33.755] [main/INFO] [paintings/]: Registered painting face_bat
+[20May2025 15:48:33.756] [main/INFO] [paintings/]: Registered painting face_chicken
+[20May2025 15:48:33.757] [main/INFO] [paintings/]: Registered painting face_cow
+[20May2025 15:48:33.757] [main/INFO] [paintings/]: Registered painting face_creeper
+[20May2025 15:48:33.758] [main/INFO] [paintings/]: Registered painting face_dog
+[20May2025 15:48:33.759] [main/INFO] [paintings/]: Registered painting face_enderman
+[20May2025 15:48:33.759] [main/INFO] [paintings/]: Registered painting face_pig
+[20May2025 15:48:33.760] [main/INFO] [paintings/]: Registered painting face_pigman
+[20May2025 15:48:33.761] [main/INFO] [paintings/]: Registered painting face_silverfish
+[20May2025 15:48:33.761] [main/INFO] [paintings/]: Registered painting face_skeleton
+[20May2025 15:48:33.761] [main/INFO] [paintings/]: Registered painting face_squid
+[20May2025 15:48:33.761] [main/INFO] [paintings/]: Registered painting face_zombie
+[20May2025 15:48:33.761] [main/INFO] [paintings/]: Registered painting fishes
+[20May2025 15:48:33.761] [main/INFO] [paintings/]: Registered painting flowers
+[20May2025 15:48:33.763] [main/INFO] [paintings/]: Registered painting fruits
+[20May2025 15:48:33.764] [main/INFO] [paintings/]: Registered painting ghost
+[20May2025 15:48:33.764] [main/INFO] [paintings/]: Registered painting glowlamp
+[20May2025 15:48:33.764] [main/INFO] [paintings/]: Registered painting glowstone_hourglass
+[20May2025 15:48:33.765] [main/INFO] [paintings/]: Registered painting iluvmc
+[20May2025 15:48:33.765] [main/INFO] [paintings/]: Registered painting link
+[20May2025 15:48:33.766] [main/INFO] [paintings/]: Registered painting mine_prosperity
+[20May2025 15:48:33.767] [main/INFO] [paintings/]: Registered painting no_trespassing_for_mobs
+[20May2025 15:48:33.767] [main/INFO] [paintings/]: Registered painting ocelot
+[20May2025 15:48:33.768] [main/INFO] [paintings/]: Registered painting penguin
+[20May2025 15:48:33.769] [main/INFO] [paintings/]: Registered painting pig_on_a_cliff
+[20May2025 15:48:33.769] [main/INFO] [paintings/]: Registered painting pkmn_blue
+[20May2025 15:48:33.769] [main/INFO] [paintings/]: Registered painting pkmn_red
+[20May2025 15:48:33.770] [main/INFO] [paintings/]: Registered painting pkmn_green
+[20May2025 15:48:33.771] [main/INFO] [paintings/]: Registered painting plains_hut
+[20May2025 15:48:33.771] [main/INFO] [paintings/]: Registered painting portrait_2
+[20May2025 15:48:33.771] [main/INFO] [paintings/]: Registered painting portrait
+[20May2025 15:48:33.772] [main/INFO] [paintings/]: Registered painting prison
+[20May2025 15:48:33.773] [main/INFO] [paintings/]: Registered painting prosperity
+[20May2025 15:48:33.774] [main/INFO] [paintings/]: Registered painting rest
+[20May2025 15:48:33.774] [main/INFO] [paintings/]: Registered painting skeleton
+[20May2025 15:48:33.775] [main/INFO] [paintings/]: Registered painting sky
+[20May2025 15:48:33.775] [main/INFO] [paintings/]: Registered painting skyblock
+[20May2025 15:48:33.776] [main/INFO] [paintings/]: Registered painting snake
+[20May2025 15:48:33.777] [main/INFO] [paintings/]: Registered painting snow_landscape
+[20May2025 15:48:33.777] [main/INFO] [paintings/]: Registered painting subaraki
+[20May2025 15:48:33.778] [main/INFO] [paintings/]: Registered painting synth_city
+[20May2025 15:48:33.778] [main/INFO] [paintings/]: Registered painting tapistry_a
+[20May2025 15:48:33.779] [main/INFO] [paintings/]: Registered painting tapistry_b
+[20May2025 15:48:33.780] [main/INFO] [paintings/]: Registered painting tapistry_purple
+[20May2025 15:48:33.780] [main/INFO] [paintings/]: Registered painting torched
+[20May2025 15:48:33.781] [main/INFO] [paintings/]: Registered painting waterfall
+[20May2025 15:48:33.781] [main/INFO] [paintings/]: Registered painting whale
+[20May2025 15:48:33.782] [main/INFO] [paintings/]: Registered painting wheat_field
+[20May2025 15:48:33.783] [main/INFO] [paintings/]: Registered painting wolf_in_wheat
+[20May2025 15:48:34.466] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityLeafcutterAnt from class com.github.alexthe666.alexsmobs.entity.EntityDevilsHolePupfish
+[20May2025 15:48:34.467] [main/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class com.github.alexthe666.alexsmobs.entity.EntityMantisShrimp from class com.github.alexthe666.alexsmobs.entity.EntitySkelewag
+[20May2025 15:48:34.713] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[20May2025 15:48:34.751] [modloading-worker-0/INFO] [Mekanism/]: Version 10.2.5 initializing...
+[20May2025 15:48:34.930] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loading plugins
+[20May2025 15:48:34.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[20May2025 15:48:34.957] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initializing plugins
+[20May2025 15:48:34.958] [modloading-worker-0/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[20May2025 15:48:35.008] [modloading-worker-0/INFO] [Mekanism/]: Fake player readout: UUID = 46e82cd0-d480-3d48-800a-77431ede078e, name = [Mekanism]
+[20May2025 15:48:35.010] [modloading-worker-0/INFO] [Mekanism/]: Mod loaded.
+[20May2025 15:48:35.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[20May2025 15:48:36.282] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Found status: OUTDATED Current: 1.18.2-2.5.26 Target: 1.18.2-2.5.30
+[20May2025 15:48:36.289] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Starting version check at https://cdn.snowshock35.com/mods/jei-integration/update.json
+[20May2025 15:48:36.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [jeiintegration] Found status: BETA Current: 9.0.0.37 Target: null
+[20May2025 15:48:36.400] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Starting version check at https://www.dropbox.com/s/raw/pzo9jfvjlq1obvh/version-trapcraft.json
+[20May2025 15:48:36.603] [modloading-worker-0/INFO] [com.sk89q.worldedit.extension.platform.PlatformManager/]: Got request to register class com.sk89q.worldedit.forge.ForgePlatform with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@681fd152]
+[20May2025 15:48:36.613] [modloading-worker-0/INFO] [com.sk89q.worldedit.forge.ForgeWorldEdit/]: WorldEdit for Forge (version 7.2.10+1742f98) is loaded
+[20May2025 15:48:36.846] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished mod setup in: 114 ms
+[20May2025 15:48:36.869] [modloading-worker-0/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[20May2025 15:48:36.876] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[20May2025 15:48:37.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [trapcraft] Found status: BETA Current: 3.6.12 Target: null
+[20May2025 15:48:37.469] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Starting version check at https://maxhenkel.de/update/gravestone.json
+[20May2025 15:48:37.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [gravestone] Found status: UP_TO_DATE Current: 1.18.2-1.0.2 Target: null
+[20May2025 15:48:37.684] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Starting version check at https://www.github.com/Geforce132/SecurityCraft/raw/master/Updates/Forge.json
+[20May2025 15:48:37.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [securitycraft] Found status: OUTDATED Current: 1.9.12 Target: 1.10
+[20May2025 15:48:37.951] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[20May2025 15:48:38.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: OUTDATED Current: 0.2.4 Target: 0.3.3
+[20May2025 15:48:38.113] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Starting version check at https://raw.githubusercontent.com/sketchmacaw/macawsmods/master/furniture.json
+[20May2025 15:48:38.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mcwfurnitures] Found status: UP_TO_DATE Current: 3.3.0 Target: null
+[20May2025 15:48:38.130] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [fallingtree] Starting version check at https://raw.githubusercontent.com/wiki/RakSrinaNa/FallingTree/assets/update.json
+[20May2025 15:48:38.230] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
 com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2321!/:?]
-	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.21.jar%2386!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.18.2-40.2.21.jar%2387!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
-	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2386!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.18.2-40.2.21.jar%2387!/:?]
 Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER at line 1 column 4 path $
 	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2321!/:?]
 	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2321!/:?]
 	... 6 more
-[20May2025 14:47:14.230] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[20May2025 14:47:14.435] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
-[20May2025 14:47:14.436] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
-[20May2025 14:47:14.816] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.1.1494 Target: null
-[20May2025 14:47:18.125] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[20May2025 14:47:23.716] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2385!/assets/.mcassetsroot' uses unexpected schema
-[20May2025 14:47:23.718] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2385!/data/.mcassetsroot' uses unexpected schema
-[20May2025 14:47:24.214] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 175 ms
-[20May2025 14:47:28.810] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
-[20May2025 14:47:29.035] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20May2025 14:47:29.038] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20May2025 14:47:29.050] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20May2025 14:47:29.056] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20May2025 14:47:29.063] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[20May2025 14:47:29.097] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, args] and [restore, target] with inputs: [words with spaces, "and symbols", word]
-[20May2025 14:47:29.102] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, target] and [restore, args] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20May2025 14:47:29.108] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
-[20May2025 14:47:36.708] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
-[20May2025 14:47:36.750] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
-[20May2025 14:47:36.801] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
-[20May2025 14:47:36.893] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
-[20May2025 14:47:36.906] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
-[20May2025 14:47:36.917] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
-[20May2025 14:47:37.037] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
-[20May2025 14:47:37.045] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
-[20May2025 14:47:37.072] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
-[20May2025 14:47:37.106] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
-[20May2025 14:47:39.115] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2807 advancements
-[20May2025 14:47:39.174] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 43 Soft Fluids
-[20May2025 14:47:42.600] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
-[20May2025 14:47:43.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
-[20May2025 14:47:43.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[20May2025 14:47:43.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[20May2025 14:47:43.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[20May2025 14:47:43.387] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[20May2025 14:47:43.434] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
-[20May2025 14:47:43.618] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[20May2025 14:47:43.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[20May2025 14:47:43.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[20May2025 14:47:43.622] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[20May2025 14:47:44.372] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[20May2025 14:47:44.811] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:44.887] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:45.115] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:45.568] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:45.791] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:45.984] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:46.241] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:47:57.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[20May2025 14:47:58.376] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20May2025 14:47:58.379] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20May2025 14:47:58.501] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20May2025 14:47:58.941] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20May2025 14:47:59.446] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
-[20May2025 14:47:59.939] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[20May2025 14:48:00.437] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
-[20May2025 14:48:01.058] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 71%
-[20May2025 14:48:01.439] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 75%
-[20May2025 14:48:01.938] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 90%
-[20May2025 14:48:02.437] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[20May2025 14:48:02.941] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[20May2025 14:48:03.449] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[20May2025 14:48:03.937] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[20May2025 14:48:04.437] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[20May2025 14:48:04.937] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
-[20May2025 14:48:05.144] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7708 ms
-[20May2025 14:48:05.145] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (21.499s)! For help, type "help"
-[20May2025 14:48:05.368] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
-[20May2025 14:48:09.140] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:48:09.575] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:48:09.596] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
-[20May2025 14:48:09.626] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
-[20May2025 14:48:09.668] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
-[20May2025 14:48:11.909] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2017ms or 40 ticks behind
-[20May2025 14:48:16.211] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2e2db787
-[20May2025 14:48:16.270] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:40835] logged in with entity id 7701 at (675.4969955781013, 66.99233811389904, -745.7460979652325)
-[20May2025 14:48:16.398] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
-[20May2025 14:48:17.311] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
-[20May2025 14:48:17.313] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
-[20May2025 14:48:18.076] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@15ac368
-[20May2025 14:48:18.112] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:35953] logged in with entity id 7703 at (666.8200905667671, 64.0, -785.7841674923548)
-[20May2025 14:48:18.143] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
-[20May2025 14:48:18.779] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
-[20May2025 14:48:18.783] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
-[20May2025 14:51:48.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.395522398023559,0.0,7.9709440694364275
-[20May2025 14:52:02.861] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -5.582376981897141,0.6840000271797209,8.51275280818345
-[20May2025 14:52:13.385] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -2.4841006980609563,0.0,10.246113735647043
-[20May2025 14:53:53.734] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.295499819544773,2.3937600917057864,-7.447395523197201
-[20May2025 14:54:14.241] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 9.882616742736786,0.5340000212192564,-2.4352581782133598
-[20May2025 14:54:34.790] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.16489272748538,0.0,-7.5944388828514775
-[20May2025 14:59:23.856] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 2.686621639971463,0.003778752341261793,10.049338291991944
-[20May2025 15:08:44.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 4.281431080661378,2.446947937232956,-9.496241877730085
-[20May2025 15:10:36.043] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
-[20May2025 15:15:03.003] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 8.610995612882903,-3.749979707473649,-3.585188491497206
-[20May2025 15:15:07.755] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -10.48582422515517,0.0,1.652123915143079
-[20May2025 15:16:07.057] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
-[20May2025 15:18:31.331] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -7.793006554257886,0.0,7.572027242985882
-[20May2025 15:18:40.642] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -4.801868228679496,3.3750001341077365,8.49002563769659
-[20May2025 15:20:33.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2896ms or 57 ticks behind
-[20May2025 15:21:06.207] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.928747877303749,0.0,-6.850184638172607
-[20May2025 15:21:14.312] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 7.428713176997235,0.0,-7.790854775581977
-[20May2025 15:21:16.647] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/14652, l='ServerLevel[world]', x=678.50, y=43.00, z=-896.50]
-[20May2025 15:21:43.827] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
-[20May2025 15:26:14.305] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Survival Mode]
-[20May2025 15:27:57.284] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Set own game mode to Creative Mode]
-[20May2025 15:28:22.654] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
-[20May2025 15:29:40.356] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -7.061060469353606,3.0647953236650807,6.859561563357602
-[20May2025 15:29:55.027] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -6.650526905081449,0.0,8.621976483222625
-[20May2025 15:30:00.209] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -6.648453357630046,0.0,8.61928826267382
-[20May2025 15:30:51.883] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -4.482652576004909,0.010016760424036875,-9.518401564361568
-[20May2025 15:32:51.479] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 1.9710702102972846,0.0,10.150444548651421
+[20May2025 15:48:38.232] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[20May2025 15:48:38.426] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 40.2.21 Target: 40.3.0
+[20May2025 15:48:38.429] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[20May2025 15:48:38.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: UP_TO_DATE Current: 4.1.1494 Target: null
+[20May2025 15:48:42.682] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[20May2025 15:48:44.405] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: dynamiclights:lit_air Expected: 1100 Got: 6519
+[20May2025 15:48:44.409] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: dynamiclights:lit_water Expected: 1101 Got: 6520
+[20May2025 15:48:44.412] [main/WARN] [net.minecraftforge.registries.ForgeRegistry/REGISTRIES]: Registry minecraft:block: Object did not get ID it asked for. Name: dynamiclights:lit_cave_air Expected: 1102 Got: 6521
+[20May2025 15:48:48.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2386!/assets/.mcassetsroot' uses unexpected schema
+[20May2025 15:48:48.522] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/workspaces/Island.R.P/servidor_minecraft/libraries/net/minecraft/server/1.18.2-20220404.173914/server-1.18.2-20220404.173914-srg.jar%2386!/data/.mcassetsroot' uses unexpected schema
+[20May2025 15:48:48.868] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 156 ms
+[20May2025 15:48:53.588] [main/INFO] [com.sk89q.worldedit.extension.platform.PlatformCommandManager/]: Registering commands with com.sk89q.worldedit.forge.ForgePlatform
+[20May2025 15:48:53.735] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20May2025 15:48:53.739] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20May2025 15:48:53.746] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20May2025 15:48:53.747] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20May2025 15:48:53.752] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[20May2025 15:48:53.784] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, args] and [restore, target] with inputs: [words with spaces, "and symbols", word]
+[20May2025 15:48:53.788] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [restore, target] and [restore, args] with inputs: [Player, 0123, @e, @e[type=foo], dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20May2025 15:48:53.791] [main/WARN] [net.minecraft.commands.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[20May2025 15:49:01.160] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:brass_lantern as it's serializer returned null
+[20May2025 15:49:01.178] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[20May2025 15:49:01.203] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[20May2025 15:49:01.323] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:spiky_bomb as it's serializer returned null
+[20May2025 15:49:01.343] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_door as it's serializer returned null
+[20May2025 15:49:01.354] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe simpleplanes:plane_book as it's serializer returned null
+[20May2025 15:49:01.389] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_trapdoor as it's serializer returned null
+[20May2025 15:49:01.392] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[20May2025 15:49:01.419] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:silver_lantern as it's serializer returned null
+[20May2025 15:49:01.445] [Worker-Main-6/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 37 recipes
+[20May2025 15:49:03.403] [Worker-Main-6/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 2807 advancements
+[20May2025 15:49:03.414] [Worker-Main-6/INFO] [atomicstryker.dynamiclights.server.ItemLightLevels/]: Clearing item tag to light level mapping cache
+[20May2025 15:49:03.465] [Worker-Main-6/INFO] [net.mehvahdjukaar.selene.Selene/]: Loaded 43 Soft Fluids
+[20May2025 15:49:07.228] [main/INFO] [net.mehvahdjukaar.supplementaries.Supplementaries/]: Finished additional setup in 0 seconds
+[20May2025 15:49:07.790] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.18.2
+[20May2025 15:49:07.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[20May2025 15:49:07.792] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[20May2025 15:49:07.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[20May2025 15:49:07.991] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[20May2025 15:49:08.088] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[20May2025 15:49:08.314] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[20May2025 15:49:08.315] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[20May2025 15:49:08.315] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[20May2025 15:49:08.316] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[20May2025 15:49:09.029] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[20May2025 15:49:09.030] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 glowstone
+[20May2025 15:49:09.030] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 2
+[20May2025 15:49:09.034] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser identified itemstack 1 torch
+[20May2025 15:49:09.034] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.PlayerSelfLightSource/]: item config parser finished, item count: 1
+[20May2025 15:49:09.038] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[20May2025 15:49:09.039] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 glowstone
+[20May2025 15:49:09.040] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 2
+[20May2025 15:49:09.042] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser identified itemstack 1 torch
+[20May2025 15:49:09.044] [Server thread/INFO] [atomicstryker.dynamiclights.server.modules.DroppedItemsLightSource/]: item config parser finished, item count: 1
+[20May2025 15:49:09.074] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[20May2025 15:49:18.658] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:24.520] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:24.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[20May2025 15:49:24.898] [Netty Epoll Server IO #4/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:25.609] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[20May2025 15:49:25.613] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[20May2025 15:49:25.614] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[20May2025 15:49:25.689] [Netty Epoll Server IO #5/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:26.018] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:26.130] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[20May2025 15:49:26.615] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 15%
+[20May2025 15:49:27.095] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[20May2025 15:49:27.155] [Netty Epoll Server IO #0/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:27.176] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:27.593] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 69%
+[20May2025 15:49:28.093] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 70%
+[20May2025 15:49:28.593] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 77%
+[20May2025 15:49:29.096] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 93%
+[20May2025 15:49:29.593] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20May2025 15:49:30.188] [Worker-Main-4/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20May2025 15:49:30.594] [Worker-Main-6/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20May2025 15:49:31.094] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20May2025 15:49:31.593] [Worker-Main-5/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 100%
+[20May2025 15:49:31.932] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 7340 ms
+[20May2025 15:49:31.933] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (23.582s)! For help, type "help"
+[20May2025 15:49:32.107] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[20May2025 15:49:34.072] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:34.305] [Netty Epoll Server IO #2/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:35.202] [Netty Epoll Server IO #3/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: Disconnecting Player (server is still starting): Server is still starting! Please wait before reconnecting.
+[20May2025 15:49:35.684] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[20May2025 15:49:35.719] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 25565
+[20May2025 15:49:37.848] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2047ms or 40 ticks behind
+[20May2025 15:49:42.209] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2b95cbbe[id=<null>,name=SodyYToriginal,properties={},legacy=false] (/127.139.205.14:41489) lost connection: Disconnected
+[20May2025 15:51:55.895] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@7ce46b24
+[20May2025 15:51:55.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SodyYToriginal[/127.139.205.14:60441] logged in with entity id 8163 at (377.15254642862294, 71.56933255630048, -242.5399048797432)
+[20May2025 15:51:56.014] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal joined the game
+[20May2025 15:51:56.612] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of SodyYToriginal (18)
+[20May2025 15:51:56.614] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to SodyYToriginal
+[20May2025 15:51:56.780] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@5303de18
+[20May2025 15:51:56.796] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:33837] logged in with entity id 8179 at (589.3000000119209, -20.0, -793.3128063606805)
+[20May2025 15:51:56.816] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
+[20May2025 15:51:58.307] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
+[20May2025 15:51:58.308] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
+[20May2025 15:52:24.800] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
