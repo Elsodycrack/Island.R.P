@@ -324,3 +324,49 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was NUMBER
 [20May2025 16:01:19.786] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 4.554795380388327,0.0,-9.074343659447436
 [20May2025 16:03:03.468] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 5.724953493291991,0.0,-8.216523160068391
 [20May2025 16:03:08.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! 6.3810939450665956,0.0,-8.821179603622909
+[20May2025 16:09:26.670] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[20May2025 16:14:50.318] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: You have been idle for too long!
+[20May2025 16:14:50.319] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
+[20May2025 16:14:50.323] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
+[20May2025 16:14:50.367] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[20May2025 16:18:15.667] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@46739ea8
+[20May2025 16:18:15.676] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Carlesneri[/127.135.61.76:57271] logged in with entity id 22476 at (544.6999999880791, -63.0, -806.6999999880791)
+[20May2025 16:18:15.687] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri joined the game
+[20May2025 16:18:15.891] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Carlesneri (18)
+[20May2025 16:18:15.891] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Carlesneri
+[20May2025 16:19:25.479] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [SodyYToriginal: Teleported SodyYToriginal to Carlesneri]
+[20May2025 16:23:29.036] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -3.2473533118566706,0.0,10.159324026524587
+[20May2025 16:23:35.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -6.750497862319321,0.0,8.29156599592443
+[20May2025 16:23:38.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -8.511767545269777,-0.003779134757721181,6.405793484676678
+[20May2025 16:23:42.268] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -10.285765287055881,0.0,0.6138407746296934
+[20May2025 16:28:16.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal moved too quickly! -9.999436376511483,0.0,2.99652747254828
+[20May2025 16:35:13.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.6829258639850195,2.603009649734716,28.89216002176454
+[20May2025 16:35:13.339] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.6319589227437064,2.524965687153184,28.01756358931698
+[20May2025 16:35:13.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.5810022690294545,2.446481634096884,27.14305145941489
+[20May2025 16:35:13.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.5300529113059156,2.367706813976014,26.268600378692554
+[20May2025 16:35:13.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.479108504220335,2.288753217031541,25.394194163255634
+[20May2025 16:35:13.340] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.4281672475677851,2.209704816308715,24.519821969884788
+[20May2025 16:35:13.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.3772275764248434,2.1306245544786435,23.645476990714087
+[20May2025 16:35:13.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.326288568371183,2.0515595972560163,22.771155423646405
+[20May2025 16:35:13.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.2753492007869909,1.9725452488005857,21.89685575593967
+[20May2025 16:35:13.341] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Plane (vehicle of SodyYToriginal) moved too quickly! -1.2244090159746293,1.8936079072813499,21.022578150128993
+[20May2025 16:35:33.675] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Carlesneri lost connection: Disconnected
+[20May2025 16:35:33.676] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Carlesneri left the game
+[20May2025 16:35:33.676] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Carlesneri
+[20May2025 16:35:53.711] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SodyYToriginal lost connection: Disconnected
+[20May2025 16:35:53.711] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: SodyYToriginal left the game
+[20May2025 16:35:53.712] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client SodyYToriginal
+[20May2025 16:36:02.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[20May2025 16:36:02.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[20May2025 16:36:02.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[20May2025 16:36:03.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20May2025 16:36:03.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/primera_dimension:dimensiones
+[20May2025 16:36:03.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20May2025 16:36:03.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[20May2025 16:36:03.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20May2025 16:36:04.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20May2025 16:36:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (dimensiones): All chunks are saved
+[20May2025 16:36:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20May2025 16:36:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[20May2025 16:36:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20May2025 16:36:04.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
